@@ -1,0 +1,2570 @@
+[
+  {
+    "subjectId": "AHU00010",
+    "facetValue": "VSIO_SUBJECTS:AHU00010",
+    "name": "Arts and Humanities",
+    "children": [
+      {
+        "subjectId": "AHU00020",
+        "facetValue": "VSIO_SUBJECTS:AHU00020",
+        "name": "Archaeology",
+        "children": [
+          {
+            "subjectId": "AHU00100",
+            "facetValue": "VSIO_SUBJECTS:AHU00100",
+            "name": "Biblical Archaeology",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU00200",
+        "facetValue": "VSIO_SUBJECTS:AHU00200",
+        "name": "Architecture",
+        "children": [
+          {
+            "subjectId": "AHU00220",
+            "facetValue": "VSIO_SUBJECTS:AHU00220",
+            "name": "History of Architecture",
+            "children": []
+          },
+          {
+            "subjectId": "AHU00240",
+            "facetValue": "VSIO_SUBJECTS:AHU00240",
+            "name": "Landscape Art and Architecture",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU00300",
+        "facetValue": "VSIO_SUBJECTS:AHU00300",
+        "name": "Art",
+        "children": [
+          {
+            "subjectId": "AHU00310",
+            "facetValue": "VSIO_SUBJECTS:AHU00310",
+            "name": "Art Forms",
+            "children": [
+              {
+                "subjectId": "AHU00630",
+                "facetValue": "VSIO_SUBJECTS:AHU00630",
+                "name": "Graphic Design and Typography",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00640",
+                "facetValue": "VSIO_SUBJECTS:AHU00640",
+                "name": "Photography and Photographs",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU00530",
+            "facetValue": "VSIO_SUBJECTS:AHU00530",
+            "name": "History of Art",
+            "children": [
+              {
+                "subjectId": "AHU00590",
+                "facetValue": "VSIO_SUBJECTS:AHU00590",
+                "name": "19th-Century Art",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00600",
+                "facetValue": "VSIO_SUBJECTS:AHU00600",
+                "name": "20th-Century Art",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00570",
+                "facetValue": "VSIO_SUBJECTS:AHU00570",
+                "name": "Renaissance Art",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU00610",
+            "facetValue": "VSIO_SUBJECTS:AHU00610",
+            "name": "Industrial and Commercial Art",
+            "children": []
+          },
+          {
+            "subjectId": "AHU00650",
+            "facetValue": "VSIO_SUBJECTS:AHU00650",
+            "name": "Theory of Art",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "GEN00020",
+        "facetValue": "VSIO_SUBJECTS:GEN00020",
+        "name": "Biographical Studies",
+        "children": []
+      },
+      {
+        "subjectId": "AHU00660",
+        "facetValue": "VSIO_SUBJECTS:AHU00660",
+        "name": "Byzantine Studies",
+        "children": []
+      },
+      {
+        "subjectId": "AHU00670",
+        "facetValue": "VSIO_SUBJECTS:AHU00670",
+        "name": "Classical Studies",
+        "children": [
+          {
+            "subjectId": "AHU00690",
+            "facetValue": "VSIO_SUBJECTS:AHU00690",
+            "name": "Classical History",
+            "children": [
+              {
+                "subjectId": "AHU00700",
+                "facetValue": "VSIO_SUBJECTS:AHU00700",
+                "name": "Ancient Greek History",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00710",
+                "facetValue": "VSIO_SUBJECTS:AHU00710",
+                "name": "Ancient Roman History",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU00720",
+            "facetValue": "VSIO_SUBJECTS:AHU00720",
+            "name": "Classical Literature",
+            "children": [
+              {
+                "subjectId": "AHU00744",
+                "facetValue": "VSIO_SUBJECTS:AHU00744",
+                "name": "Classical Historiography",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00740",
+                "facetValue": "VSIO_SUBJECTS:AHU00740",
+                "name": "Classical Poetry",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU00750",
+            "facetValue": "VSIO_SUBJECTS:AHU00750",
+            "name": "Classical Philosophy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU00820",
+        "facetValue": "VSIO_SUBJECTS:AHU00820",
+        "name": "Egyptology",
+        "children": []
+      },
+      {
+        "subjectId": "AHU00830",
+        "facetValue": "VSIO_SUBJECTS:AHU00830",
+        "name": "History",
+        "children": [
+          {
+            "subjectId": "AHU01060",
+            "facetValue": "VSIO_SUBJECTS:AHU01060",
+            "name": "Cold War",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01070",
+            "facetValue": "VSIO_SUBJECTS:AHU01070",
+            "name": "Colonialism and Imperialism",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01075",
+            "facetValue": "VSIO_SUBJECTS:AHU01075",
+            "name": "Diplomatic History",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01120",
+            "facetValue": "VSIO_SUBJECTS:AHU01120",
+            "name": "Genocide and Ethnic Cleansing",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01130",
+            "facetValue": "VSIO_SUBJECTS:AHU01130",
+            "name": "Historical Geography",
+            "children": []
+          },
+          {
+            "subjectId": "AHU00860",
+            "facetValue": "VSIO_SUBJECTS:AHU00860",
+            "name": "History by Period",
+            "children": [
+              {
+                "subjectId": "AHU00870",
+                "facetValue": "VSIO_SUBJECTS:AHU00870",
+                "name": "Ancient History (Non-Classical, to 500 CE)",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00910",
+                "facetValue": "VSIO_SUBJECTS:AHU00910",
+                "name": "Contemporary History (Post 1945)",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00890",
+                "facetValue": "VSIO_SUBJECTS:AHU00890",
+                "name": "Early Modern History (1500 to 1700)",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00880",
+                "facetValue": "VSIO_SUBJECTS:AHU00880",
+                "name": "Medieval and Renaissance History (500 to 1500)",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00900",
+                "facetValue": "VSIO_SUBJECTS:AHU00900",
+                "name": "Modern History (1700 to 1945)",
+                "children": [
+                  {
+                    "subjectId": "AHU03519",
+                    "facetValue": "VSIO_SUBJECTS:AHU03519",
+                    "name": "Modern History (1914 to 1945)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU00867",
+            "facetValue": "VSIO_SUBJECTS:AHU00867",
+            "name": "History of Education",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01140",
+            "facetValue": "VSIO_SUBJECTS:AHU01140",
+            "name": "Industrial History",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01145",
+            "facetValue": "VSIO_SUBJECTS:AHU01145",
+            "name": "Intellectual History",
+            "children": []
+          },
+          {
+            "subjectId": "AHU00920",
+            "facetValue": "VSIO_SUBJECTS:AHU00920",
+            "name": "Military History",
+            "children": [
+              {
+                "subjectId": "AHU00925",
+                "facetValue": "VSIO_SUBJECTS:AHU00925",
+                "name": "Ancient Warfare",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00940",
+                "facetValue": "VSIO_SUBJECTS:AHU00940",
+                "name": "First World War",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00960",
+                "facetValue": "VSIO_SUBJECTS:AHU00960",
+                "name": "Post-WW2 Military History",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00950",
+                "facetValue": "VSIO_SUBJECTS:AHU00950",
+                "name": "Second World War",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU01180",
+            "facetValue": "VSIO_SUBJECTS:AHU01180",
+            "name": "National Liberation and Post-Colonialism",
+            "children": []
+          },
+          {
+            "subjectId": "AHU00965",
+            "facetValue": "VSIO_SUBJECTS:AHU00965",
+            "name": "Political History",
+            "children": []
+          },
+          {
+            "subjectId": "AHU00970",
+            "facetValue": "VSIO_SUBJECTS:AHU00970",
+            "name": "Regional and National History",
+            "children": [
+              {
+                "subjectId": "AHU00980",
+                "facetValue": "VSIO_SUBJECTS:AHU00980",
+                "name": "African History",
+                "children": []
+              },
+              {
+                "subjectId": "AHU00990",
+                "facetValue": "VSIO_SUBJECTS:AHU00990",
+                "name": "Asian History",
+                "children": [
+                  {
+                    "subjectId": "AHU00992",
+                    "facetValue": "VSIO_SUBJECTS:AHU00992",
+                    "name": "Chinese History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU00994",
+                    "facetValue": "VSIO_SUBJECTS:AHU00994",
+                    "name": "Japanese History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU01022",
+                    "facetValue": "VSIO_SUBJECTS:AHU01022",
+                    "name": "Pakistan History",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "subjectId": "AHU01010",
+                "facetValue": "VSIO_SUBJECTS:AHU01010",
+                "name": "British History",
+                "children": []
+              },
+              {
+                "subjectId": "AHU01020",
+                "facetValue": "VSIO_SUBJECTS:AHU01020",
+                "name": "European History",
+                "children": []
+              },
+              {
+                "subjectId": "AHU01030",
+                "facetValue": "VSIO_SUBJECTS:AHU01030",
+                "name": "History of the Americas",
+                "children": [
+                  {
+                    "subjectId": "AHU01032",
+                    "facetValue": "VSIO_SUBJECTS:AHU01032",
+                    "name": "Canadian History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU01031",
+                    "facetValue": "VSIO_SUBJECTS:AHU01031",
+                    "name": "Latin American History",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "subjectId": "AHU01045",
+                "facetValue": "VSIO_SUBJECTS:AHU01045",
+                "name": "Middle Eastern History",
+                "children": []
+              },
+              {
+                "subjectId": "AHU01047",
+                "facetValue": "VSIO_SUBJECTS:AHU01047",
+                "name": "Russian and Eastern European History",
+                "children": []
+              },
+              {
+                "subjectId": "AHU01040",
+                "facetValue": "VSIO_SUBJECTS:AHU01040",
+                "name": "United States History",
+                "children": [
+                  {
+                    "subjectId": "AHU91048",
+                    "facetValue": "VSIO_SUBJECTS:AHU91048",
+                    "name": "American Women's History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU01049",
+                    "facetValue": "VSIO_SUBJECTS:AHU01049",
+                    "name": "Civil War and Reconstruction US History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU91045",
+                    "facetValue": "VSIO_SUBJECTS:AHU91045",
+                    "name": "Native American History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU91047",
+                    "facetValue": "VSIO_SUBJECTS:AHU91047",
+                    "name": "Southern US History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU01046",
+                    "facetValue": "VSIO_SUBJECTS:AHU01046",
+                    "name": "US Colonial and Revolutionary History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU01043",
+                    "facetValue": "VSIO_SUBJECTS:AHU01043",
+                    "name": "US Cultural History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU91044",
+                    "facetValue": "VSIO_SUBJECTS:AHU91044",
+                    "name": "US History (Immigration and Ethnicity)",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU91042",
+                    "facetValue": "VSIO_SUBJECTS:AHU91042",
+                    "name": "US History 1900 - 1945",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU01044",
+                    "facetValue": "VSIO_SUBJECTS:AHU01044",
+                    "name": "US Social History",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU91046",
+                    "facetValue": "VSIO_SUBJECTS:AHU91046",
+                    "name": "Western US History",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU01200",
+            "facetValue": "VSIO_SUBJECTS:AHU01200",
+            "name": "Revolutions and Rebellions",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01210",
+            "facetValue": "VSIO_SUBJECTS:AHU01210",
+            "name": "Slavery and Abolition of Slavery",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01220",
+            "facetValue": "VSIO_SUBJECTS:AHU01220",
+            "name": "Social and Cultural History",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01225",
+            "facetValue": "VSIO_SUBJECTS:AHU01225",
+            "name": "Urban History",
+            "children": []
+          },
+          {
+            "subjectId": "AHU00840",
+            "facetValue": "VSIO_SUBJECTS:AHU00840",
+            "name": "World History",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU03568",
+        "facetValue": "VSIO_SUBJECTS:AHU03568",
+        "name": "Journalism",
+        "children": []
+      },
+      {
+        "subjectId": "AHU01290",
+        "facetValue": "VSIO_SUBJECTS:AHU01290",
+        "name": "Linguistics",
+        "children": [
+          {
+            "subjectId": "AHU01310",
+            "facetValue": "VSIO_SUBJECTS:AHU01310",
+            "name": "Cognitive Linguistics",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01322",
+            "facetValue": "VSIO_SUBJECTS:AHU01322",
+            "name": "Comparative Linguistics",
+            "children": [
+              {
+                "subjectId": "AHU01324",
+                "facetValue": "VSIO_SUBJECTS:AHU01324",
+                "name": "Dialect, Slang and Jargon",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "GEN00185",
+            "facetValue": "VSIO_SUBJECTS:GEN00185",
+            "name": "History of English",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01380",
+            "facetValue": "VSIO_SUBJECTS:AHU01380",
+            "name": "Language Families",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01530",
+            "facetValue": "VSIO_SUBJECTS:AHU01530",
+            "name": "Sociolinguistics",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01540",
+            "facetValue": "VSIO_SUBJECTS:AHU01540",
+            "name": "Translation and Interpretation",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01550",
+            "facetValue": "VSIO_SUBJECTS:AHU01550",
+            "name": "Writing Systems",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU01560",
+        "facetValue": "VSIO_SUBJECTS:AHU01560",
+        "name": "Literature",
+        "children": [
+          {
+            "subjectId": "AHU01570",
+            "facetValue": "VSIO_SUBJECTS:AHU01570",
+            "name": "Children's Literature Studies",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01600",
+            "facetValue": "VSIO_SUBJECTS:AHU01600",
+            "name": "Literary Studies (1500 to 1800)",
+            "children": [
+              {
+                "subjectId": "AHU01606",
+                "facetValue": "VSIO_SUBJECTS:AHU01606",
+                "name": "Literary Studies (18th Century)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU01610",
+            "facetValue": "VSIO_SUBJECTS:AHU01610",
+            "name": "Literary Studies (19th Century)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01620",
+            "facetValue": "VSIO_SUBJECTS:AHU01620",
+            "name": "Literary Studies (20th Century onwards)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01662",
+            "facetValue": "VSIO_SUBJECTS:AHU01662",
+            "name": "Literary Studies (American)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01567",
+            "facetValue": "VSIO_SUBJECTS:AHU01567",
+            "name": "Literary Studies (Asian)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01664",
+            "facetValue": "VSIO_SUBJECTS:AHU01664",
+            "name": "Literary Studies (British and Irish)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01590",
+            "facetValue": "VSIO_SUBJECTS:AHU01590",
+            "name": "Literary Studies (Early and Medieval)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01666",
+            "facetValue": "VSIO_SUBJECTS:AHU01666",
+            "name": "Literary Studies (European)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01630",
+            "facetValue": "VSIO_SUBJECTS:AHU01630",
+            "name": "Literary Studies (Fiction, Novelists, and Prose Writers)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03563",
+            "facetValue": "VSIO_SUBJECTS:AHU03563",
+            "name": "Literary Studies (History of the Book)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01571",
+            "facetValue": "VSIO_SUBJECTS:AHU01571",
+            "name": "Literary Studies (Latin American and Caribbean)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01566",
+            "facetValue": "VSIO_SUBJECTS:AHU01566",
+            "name": "Literary Studies (Modernism)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01640",
+            "facetValue": "VSIO_SUBJECTS:AHU01640",
+            "name": "Literary Studies (Plays and Playwrights)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01650",
+            "facetValue": "VSIO_SUBJECTS:AHU01650",
+            "name": "Literary Studies (Poetry and Poets)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01660",
+            "facetValue": "VSIO_SUBJECTS:AHU01660",
+            "name": "Literary Studies (Postcolonial Literature)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01608",
+            "facetValue": "VSIO_SUBJECTS:AHU01608",
+            "name": "Literary Studies (Romanticism)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03550",
+            "facetValue": "VSIO_SUBJECTS:AHU03550",
+            "name": "Literary Studies (Science Fiction)",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01668",
+            "facetValue": "VSIO_SUBJECTS:AHU01668",
+            "name": "Literary Studies - World",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01730",
+            "facetValue": "VSIO_SUBJECTS:AHU01730",
+            "name": "Literary Theory and Cultural Studies",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01735",
+            "facetValue": "VSIO_SUBJECTS:AHU01735",
+            "name": "Mythology and Folklore",
+            "children": []
+          },
+          {
+            "subjectId": "AHU01740",
+            "facetValue": "VSIO_SUBJECTS:AHU01740",
+            "name": "Shakespeare Studies and Criticism",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU01750",
+        "facetValue": "VSIO_SUBJECTS:AHU01750",
+        "name": "Media Studies",
+        "children": [
+          {
+            "subjectId": "AHU01760",
+            "facetValue": "VSIO_SUBJECTS:AHU01760",
+            "name": "Film",
+            "children": [
+              {
+                "subjectId": "AHU01765",
+                "facetValue": "VSIO_SUBJECTS:AHU01765",
+                "name": "History of Film",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU01790",
+        "facetValue": "VSIO_SUBJECTS:AHU01790",
+        "name": "Music",
+        "children": [
+          {
+            "subjectId": "AHU01800",
+            "facetValue": "VSIO_SUBJECTS:AHU01800",
+            "name": "Applied Music",
+            "children": [
+              {
+                "subjectId": "AHU01870",
+                "facetValue": "VSIO_SUBJECTS:AHU01870",
+                "name": "Music Business, Institutions, and Organizations",
+                "children": [
+                  {
+                    "subjectId": "AHU03526",
+                    "facetValue": "VSIO_SUBJECTS:AHU03526",
+                    "name": "Musical Ensembles",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU01960",
+            "facetValue": "VSIO_SUBJECTS:AHU01960",
+            "name": "Ethnomusicology",
+            "children": []
+          },
+          {
+            "subjectId": "AHU02290",
+            "facetValue": "VSIO_SUBJECTS:AHU02290",
+            "name": "Music and Media",
+            "children": [
+              {
+                "subjectId": "AHU02320",
+                "facetValue": "VSIO_SUBJECTS:AHU02320",
+                "name": "Film, Television, and Video Game Music",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU12490",
+            "facetValue": "VSIO_SUBJECTS:AHU12490",
+            "name": "Musical Structures, Styles, and Techniques",
+            "children": [
+              {
+                "subjectId": "AHU02525",
+                "facetValue": "VSIO_SUBJECTS:AHU02525",
+                "name": "Blues",
+                "children": []
+              },
+              {
+                "subjectId": "AHU02544",
+                "facetValue": "VSIO_SUBJECTS:AHU02544",
+                "name": "Country and Western Music",
+                "children": []
+              },
+              {
+                "subjectId": "AHU02546",
+                "facetValue": "VSIO_SUBJECTS:AHU02546",
+                "name": "Folk, Indigenous, and Traditional Music",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU02500",
+            "facetValue": "VSIO_SUBJECTS:AHU02500",
+            "name": "Musicology and Music History",
+            "children": [
+              {
+                "subjectId": "AHU02560",
+                "facetValue": "VSIO_SUBJECTS:AHU02560",
+                "name": "Pre- and Early Medieval Music (Before 800)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU02650",
+        "facetValue": "VSIO_SUBJECTS:AHU02650",
+        "name": "Performing Arts",
+        "children": [
+          {
+            "subjectId": "AHU02710",
+            "facetValue": "VSIO_SUBJECTS:AHU02710",
+            "name": "Theatre",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU02720",
+        "facetValue": "VSIO_SUBJECTS:AHU02720",
+        "name": "Philosophy",
+        "children": [
+          {
+            "subjectId": "AHU02730",
+            "facetValue": "VSIO_SUBJECTS:AHU02730",
+            "name": "Aesthetics and Philosophy of Art",
+            "children": []
+          },
+          {
+            "subjectId": "AHU02770",
+            "facetValue": "VSIO_SUBJECTS:AHU02770",
+            "name": "Epistemology",
+            "children": []
+          },
+          {
+            "subjectId": "AHU02790",
+            "facetValue": "VSIO_SUBJECTS:AHU02790",
+            "name": "History of Western Philosophy",
+            "children": [
+              {
+                "subjectId": "AHU02820",
+                "facetValue": "VSIO_SUBJECTS:AHU02820",
+                "name": "17th - 18th Century Philosophy",
+                "children": []
+              },
+              {
+                "subjectId": "AHU02830",
+                "facetValue": "VSIO_SUBJECTS:AHU02830",
+                "name": "19th-Century Philosophy",
+                "children": []
+              },
+              {
+                "subjectId": "AHU02840",
+                "facetValue": "VSIO_SUBJECTS:AHU02840",
+                "name": "20th-Century Philosophy",
+                "children": []
+              },
+              {
+                "subjectId": "AHU02800",
+                "facetValue": "VSIO_SUBJECTS:AHU02800",
+                "name": "Ancient Philosophy",
+                "children": []
+              },
+              {
+                "subjectId": "AHU02805",
+                "facetValue": "VSIO_SUBJECTS:AHU02805",
+                "name": "Continental Philosophy",
+                "children": []
+              },
+              {
+                "subjectId": "AHU02810",
+                "facetValue": "VSIO_SUBJECTS:AHU02810",
+                "name": "Medieval and Renaissance Philosophy",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU02850",
+            "facetValue": "VSIO_SUBJECTS:AHU02850",
+            "name": "Metaphysics",
+            "children": []
+          },
+          {
+            "subjectId": "AHU02860",
+            "facetValue": "VSIO_SUBJECTS:AHU02860",
+            "name": "Moral Philosophy",
+            "children": []
+          },
+          {
+            "subjectId": "AHU02870",
+            "facetValue": "VSIO_SUBJECTS:AHU02870",
+            "name": "Non-Western Philosophy",
+            "children": [
+              {
+                "subjectId": "AHU02910",
+                "facetValue": "VSIO_SUBJECTS:AHU02910",
+                "name": "South Asian Philosophy",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU02940",
+            "facetValue": "VSIO_SUBJECTS:AHU02940",
+            "name": "Philosophy of Mathematics and Logic",
+            "children": []
+          },
+          {
+            "subjectId": "AHU02950",
+            "facetValue": "VSIO_SUBJECTS:AHU02950",
+            "name": "Philosophy of Mind",
+            "children": []
+          },
+          {
+            "subjectId": "AHU02960",
+            "facetValue": "VSIO_SUBJECTS:AHU02960",
+            "name": "Philosophy of Religion",
+            "children": []
+          },
+          {
+            "subjectId": "AHU02980",
+            "facetValue": "VSIO_SUBJECTS:AHU02980",
+            "name": "Philosophy of Science",
+            "children": [
+              {
+                "subjectId": "AHU02990",
+                "facetValue": "VSIO_SUBJECTS:AHU02990",
+                "name": "Philosophy of Biology",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03000",
+                "facetValue": "VSIO_SUBJECTS:AHU03000",
+                "name": "Philosophy of Physics",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU03002",
+            "facetValue": "VSIO_SUBJECTS:AHU03002",
+            "name": "Practical Ethics",
+            "children": [
+              {
+                "subjectId": "AHU03004",
+                "facetValue": "VSIO_SUBJECTS:AHU03004",
+                "name": "Bioethics and Medical Ethics",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU03010",
+            "facetValue": "VSIO_SUBJECTS:AHU03010",
+            "name": "Social and Political Philosophy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU03020",
+        "facetValue": "VSIO_SUBJECTS:AHU03020",
+        "name": "Religion",
+        "children": [
+          {
+            "subjectId": "AHU03080",
+            "facetValue": "VSIO_SUBJECTS:AHU03080",
+            "name": "Biblical Studies",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03030",
+            "facetValue": "VSIO_SUBJECTS:AHU03030",
+            "name": "Buddhism",
+            "children": [
+              {
+                "subjectId": "AHU03040",
+                "facetValue": "VSIO_SUBJECTS:AHU03040",
+                "name": "Tibetan Buddhism",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU03060",
+            "facetValue": "VSIO_SUBJECTS:AHU03060",
+            "name": "Christianity",
+            "children": [
+              {
+                "subjectId": "AHU03100",
+                "facetValue": "VSIO_SUBJECTS:AHU03100",
+                "name": "Christian Churches and Denominations",
+                "children": [
+                  {
+                    "subjectId": "AHU03102",
+                    "facetValue": "VSIO_SUBJECTS:AHU03102",
+                    "name": "Orthodox and Oriental Churches",
+                    "children": []
+                  },
+                  {
+                    "subjectId": "AHU03104",
+                    "facetValue": "VSIO_SUBJECTS:AHU03104",
+                    "name": "Protestantism and Protestant Churches",
+                    "children": [
+                      {
+                        "subjectId": "AHU03525",
+                        "facetValue": "VSIO_SUBJECTS:AHU03525",
+                        "name": "Pentecostal Churches",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "subjectId": "AHU03106",
+                    "facetValue": "VSIO_SUBJECTS:AHU03106",
+                    "name": "Roman Catholicism, Roman Catholic Church",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "subjectId": "AHU03120",
+                "facetValue": "VSIO_SUBJECTS:AHU03120",
+                "name": "Christian Life and Practice",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03130",
+                "facetValue": "VSIO_SUBJECTS:AHU03130",
+                "name": "Christian Liturgy, Prayerbooks, and Hymnals",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03140",
+                "facetValue": "VSIO_SUBJECTS:AHU03140",
+                "name": "Christian Spirituality and Religious Experience",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03090",
+                "facetValue": "VSIO_SUBJECTS:AHU03090",
+                "name": "Christian and Quasi-Christian Cults and Sects",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03190",
+                "facetValue": "VSIO_SUBJECTS:AHU03190",
+                "name": "Early Christianity",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03180",
+                "facetValue": "VSIO_SUBJECTS:AHU03180",
+                "name": "History of Christianity",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03205",
+                "facetValue": "VSIO_SUBJECTS:AHU03205",
+                "name": "The Historical Jesus",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU03210",
+            "facetValue": "VSIO_SUBJECTS:AHU03210",
+            "name": "East Asian Religions",
+            "children": [
+              {
+                "subjectId": "AHU03220",
+                "facetValue": "VSIO_SUBJECTS:AHU03220",
+                "name": "Confucianism",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU03250",
+            "facetValue": "VSIO_SUBJECTS:AHU03250",
+            "name": "Hinduism",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03330",
+            "facetValue": "VSIO_SUBJECTS:AHU03330",
+            "name": "History of Religion",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03260",
+            "facetValue": "VSIO_SUBJECTS:AHU03260",
+            "name": "Islam",
+            "children": [
+              {
+                "subjectId": "AHU03261",
+                "facetValue": "VSIO_SUBJECTS:AHU03261",
+                "name": "History of Islam",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU03280",
+            "facetValue": "VSIO_SUBJECTS:AHU03280",
+            "name": "Judaism and Jewish Studies",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03025",
+            "facetValue": "VSIO_SUBJECTS:AHU03025",
+            "name": "Religion and Art, Literature, and Music",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03350",
+            "facetValue": "VSIO_SUBJECTS:AHU03350",
+            "name": "Religion and Science",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03290",
+            "facetValue": "VSIO_SUBJECTS:AHU03290",
+            "name": "Religious Studies",
+            "children": [
+              {
+                "subjectId": "AHU03291",
+                "facetValue": "VSIO_SUBJECTS:AHU03291",
+                "name": "Agnosticism",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03300",
+                "facetValue": "VSIO_SUBJECTS:AHU03300",
+                "name": "Alternative Belief Systems",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03340",
+                "facetValue": "VSIO_SUBJECTS:AHU03340",
+                "name": "Interfaith Relations",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03294",
+                "facetValue": "VSIO_SUBJECTS:AHU03294",
+                "name": "Religion and Atheism",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03360",
+                "facetValue": "VSIO_SUBJECTS:AHU03360",
+                "name": "Religious Issues and Debates",
+                "children": []
+              },
+              {
+                "subjectId": "AHU03365",
+                "facetValue": "VSIO_SUBJECTS:AHU03365",
+                "name": "Sociology and Anthropology of Religion",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "AHU03370",
+            "facetValue": "VSIO_SUBJECTS:AHU03370",
+            "name": "Sikhism",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03371",
+            "facetValue": "VSIO_SUBJECTS:AHU03371",
+            "name": "Theology",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "AHU03380",
+        "facetValue": "VSIO_SUBJECTS:AHU03380",
+        "name": "Society and Culture",
+        "children": [
+          {
+            "subjectId": "AHU03400",
+            "facetValue": "VSIO_SUBJECTS:AHU03400",
+            "name": "Cultural Studies",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03440",
+            "facetValue": "VSIO_SUBJECTS:AHU03440",
+            "name": "Humour",
+            "children": []
+          },
+          {
+            "subjectId": "AHU03480",
+            "facetValue": "VSIO_SUBJECTS:AHU03480",
+            "name": "Popular Beliefs and Controversial Knowledge",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subjectId": "LAW00010",
+    "facetValue": "VSIO_SUBJECTS:LAW00010",
+    "name": "Law",
+    "children": [
+      {
+        "subjectId": "LAW00020",
+        "facetValue": "VSIO_SUBJECTS:LAW00020",
+        "name": "Arbitration",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00090",
+        "facetValue": "VSIO_SUBJECTS:LAW00090",
+        "name": "Competition Law",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00190",
+        "facetValue": "VSIO_SUBJECTS:LAW00190",
+        "name": "Criminal Law",
+        "children": [
+          {
+            "subjectId": "LAW00220",
+            "facetValue": "VSIO_SUBJECTS:LAW00220",
+            "name": "Sentencing and Punishment",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "LAW00250",
+        "facetValue": "VSIO_SUBJECTS:LAW00250",
+        "name": "EU Law",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00230",
+        "facetValue": "VSIO_SUBJECTS:LAW00230",
+        "name": "Employment and Labour Law",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00260",
+        "facetValue": "VSIO_SUBJECTS:LAW00260",
+        "name": "Family Law",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00310",
+        "facetValue": "VSIO_SUBJECTS:LAW00310",
+        "name": "History of Law",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00320",
+        "facetValue": "VSIO_SUBJECTS:LAW00320",
+        "name": "Human Rights and Immigration",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00330",
+        "facetValue": "VSIO_SUBJECTS:LAW00330",
+        "name": "Intellectual Property Law",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00340",
+        "facetValue": "VSIO_SUBJECTS:LAW00340",
+        "name": "International Law",
+        "children": [
+          {
+            "subjectId": "LAW00370",
+            "facetValue": "VSIO_SUBJECTS:LAW00370",
+            "name": "Public International Law",
+            "children": [
+              {
+                "subjectId": "LAW90372",
+                "facetValue": "VSIO_SUBJECTS:LAW90372",
+                "name": "International Environmental Law",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subjectId": "LAW00390",
+        "facetValue": "VSIO_SUBJECTS:LAW00390",
+        "name": "Jurisprudence and Philosophy of Law",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00420",
+        "facetValue": "VSIO_SUBJECTS:LAW00420",
+        "name": "Legal System and Practice",
+        "children": [
+          {
+            "subjectId": "LAW00430",
+            "facetValue": "VSIO_SUBJECTS:LAW00430",
+            "name": "Courts and Procedure",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "LAW00490",
+        "facetValue": "VSIO_SUBJECTS:LAW00490",
+        "name": "Medical and Healthcare Law",
+        "children": []
+      },
+      {
+        "subjectId": "LAW00500",
+        "facetValue": "VSIO_SUBJECTS:LAW00500",
+        "name": "Policing",
+        "children": [
+          {
+            "subjectId": "LAW00510",
+            "facetValue": "VSIO_SUBJECTS:LAW00510",
+            "name": "Criminal Investigation and Detection",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subjectId": "MED00010",
+    "facetValue": "VSIO_SUBJECTS:MED00010",
+    "name": "Medicine and Health",
+    "children": [
+      {
+        "subjectId": "MED00020",
+        "facetValue": "VSIO_SUBJECTS:MED00020",
+        "name": "Allied Health Professions",
+        "children": [
+          {
+            "subjectId": "MED00060",
+            "facetValue": "VSIO_SUBJECTS:MED00060",
+            "name": "Dietetics and Nutrition",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "MED00150",
+        "facetValue": "VSIO_SUBJECTS:MED00150",
+        "name": "Anaesthetics",
+        "children": []
+      },
+      {
+        "subjectId": "MED00160",
+        "facetValue": "VSIO_SUBJECTS:MED00160",
+        "name": "Clinical Medicine",
+        "children": [
+          {
+            "subjectId": "MED00290",
+            "facetValue": "VSIO_SUBJECTS:MED00290",
+            "name": "Infectious Diseases",
+            "children": []
+          },
+          {
+            "subjectId": "MED00300",
+            "facetValue": "VSIO_SUBJECTS:MED00300",
+            "name": "Medical Oncology",
+            "children": []
+          },
+          {
+            "subjectId": "MED00310",
+            "facetValue": "VSIO_SUBJECTS:MED00310",
+            "name": "Neurology",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "MED00450",
+        "facetValue": "VSIO_SUBJECTS:MED00450",
+        "name": "History of Medicine",
+        "children": []
+      },
+      {
+        "subjectId": "MED00690",
+        "facetValue": "VSIO_SUBJECTS:MED00690",
+        "name": "Pathology",
+        "children": [
+          {
+            "subjectId": "MED00730",
+            "facetValue": "VSIO_SUBJECTS:MED00730",
+            "name": "Immunology",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "MED00410",
+        "facetValue": "VSIO_SUBJECTS:MED00410",
+        "name": "Pharmacology",
+        "children": []
+      },
+      {
+        "subjectId": "MED00770",
+        "facetValue": "VSIO_SUBJECTS:MED00770",
+        "name": "Preclinical Medicine",
+        "children": [
+          {
+            "subjectId": "MED00771",
+            "facetValue": "VSIO_SUBJECTS:MED00771",
+            "name": "Anatomy",
+            "children": []
+          },
+          {
+            "subjectId": "MED00774",
+            "facetValue": "VSIO_SUBJECTS:MED00774",
+            "name": "Molecular Biology and Genetics",
+            "children": []
+          },
+          {
+            "subjectId": "MED00773",
+            "facetValue": "VSIO_SUBJECTS:MED00773",
+            "name": "Reproduction, Growth and Development",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "MED00800",
+        "facetValue": "VSIO_SUBJECTS:MED00800",
+        "name": "Psychiatry",
+        "children": []
+      },
+      {
+        "subjectId": "MED00860",
+        "facetValue": "VSIO_SUBJECTS:MED00860",
+        "name": "Public Health and Epidemiology",
+        "children": [
+          {
+            "subjectId": "MED00864",
+            "facetValue": "VSIO_SUBJECTS:MED00864",
+            "name": "Epidemiology",
+            "children": []
+          },
+          {
+            "subjectId": "MED00862",
+            "facetValue": "VSIO_SUBJECTS:MED00862",
+            "name": "Public Health",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subjectId": "SCI00010",
+    "facetValue": "VSIO_SUBJECTS:SCI00010",
+    "name": "Science and Mathematics",
+    "children": [
+      {
+        "subjectId": "SCI00960",
+        "facetValue": "VSIO_SUBJECTS:SCI00960",
+        "name": "Biological Sciences",
+        "children": [
+          {
+            "subjectId": "SCI00970",
+            "facetValue": "VSIO_SUBJECTS:SCI00970",
+            "name": "Aquatic Biology",
+            "children": [
+              {
+                "subjectId": "SCI01170",
+                "facetValue": "VSIO_SUBJECTS:SCI01170",
+                "name": "Marine and Estuarine Biology",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI00980",
+            "facetValue": "VSIO_SUBJECTS:SCI00980",
+            "name": "Biochemistry",
+            "children": [
+              {
+                "subjectId": "SCI01010",
+                "facetValue": "VSIO_SUBJECTS:SCI01010",
+                "name": "Enzymology",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI01060",
+            "facetValue": "VSIO_SUBJECTS:SCI01060",
+            "name": "Bioinformatics and Computational Biology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI01070",
+            "facetValue": "VSIO_SUBJECTS:SCI01070",
+            "name": "Developmental Biology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI01080",
+            "facetValue": "VSIO_SUBJECTS:SCI01080",
+            "name": "Ecology and Conservation",
+            "children": [
+              {
+                "subjectId": "SCI01110",
+                "facetValue": "VSIO_SUBJECTS:SCI01110",
+                "name": "Biomes and Habitats",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02310",
+                "facetValue": "VSIO_SUBJECTS:SCI02310",
+                "name": "Ecosystems",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI01130",
+            "facetValue": "VSIO_SUBJECTS:SCI01130",
+            "name": "Evolutionary Biology",
+            "children": [
+              {
+                "subjectId": "SCI02318",
+                "facetValue": "VSIO_SUBJECTS:SCI02318",
+                "name": "Selection and Adaptation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI01140",
+            "facetValue": "VSIO_SUBJECTS:SCI01140",
+            "name": "Genetics and Genomics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI01150",
+            "facetValue": "VSIO_SUBJECTS:SCI01150",
+            "name": "Microbiology",
+            "children": [
+              {
+                "subjectId": "SCI02285",
+                "facetValue": "VSIO_SUBJECTS:SCI02285",
+                "name": "Virology",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI01180",
+            "facetValue": "VSIO_SUBJECTS:SCI01180",
+            "name": "Molecular and Cell Biology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI01210",
+            "facetValue": "VSIO_SUBJECTS:SCI01210",
+            "name": "Plant Sciences and Forestry",
+            "children": [
+              {
+                "subjectId": "SCI01220",
+                "facetValue": "VSIO_SUBJECTS:SCI01220",
+                "name": "Forestry and Silviculture",
+                "children": []
+              },
+              {
+                "subjectId": "SCI01230",
+                "facetValue": "VSIO_SUBJECTS:SCI01230",
+                "name": "Mycology and Fungi",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI02298",
+            "facetValue": "VSIO_SUBJECTS:SCI02298",
+            "name": "Systems Biology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI01320",
+            "facetValue": "VSIO_SUBJECTS:SCI01320",
+            "name": "Zoology and Animal Sciences",
+            "children": [
+              {
+                "subjectId": "SCI01330",
+                "facetValue": "VSIO_SUBJECTS:SCI01330",
+                "name": "Animal Behaviour and Behavioural Ecology",
+                "children": []
+              },
+              {
+                "subjectId": "SCI01360",
+                "facetValue": "VSIO_SUBJECTS:SCI01360",
+                "name": "Animal Physiology",
+                "children": []
+              },
+              {
+                "subjectId": "SCI01390",
+                "facetValue": "VSIO_SUBJECTS:SCI01390",
+                "name": "Vertebrates",
+                "children": [
+                  {
+                    "subjectId": "SCI01396",
+                    "facetValue": "VSIO_SUBJECTS:SCI01396",
+                    "name": "Mammalogy",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "subjectId": "SCI01400",
+                "facetValue": "VSIO_SUBJECTS:SCI01400",
+                "name": "Veterinary Medicine",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subjectId": "SCI00030",
+        "facetValue": "VSIO_SUBJECTS:SCI00030",
+        "name": "Chemistry",
+        "children": [
+          {
+            "subjectId": "SCI00160",
+            "facetValue": "VSIO_SUBJECTS:SCI00160",
+            "name": "Crystallography",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00070",
+            "facetValue": "VSIO_SUBJECTS:SCI00070",
+            "name": "Industrial Chemistry",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00110",
+            "facetValue": "VSIO_SUBJECTS:SCI00110",
+            "name": "Organic Chemistry",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00130",
+            "facetValue": "VSIO_SUBJECTS:SCI00130",
+            "name": "Physical Chemistry",
+            "children": [
+              {
+                "subjectId": "SCI00220",
+                "facetValue": "VSIO_SUBJECTS:SCI00220",
+                "name": "Thermochemistry and Chemical Thermodynamics",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subjectId": "SCI01540",
+        "facetValue": "VSIO_SUBJECTS:SCI01540",
+        "name": "Computer Science",
+        "children": [
+          {
+            "subjectId": "SCI01550",
+            "facetValue": "VSIO_SUBJECTS:SCI01550",
+            "name": "Artificial Intelligence",
+            "children": []
+          },
+          {
+            "subjectId": "SCI01600",
+            "facetValue": "VSIO_SUBJECTS:SCI01600",
+            "name": "Mathematical Theory of Computation",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02321",
+            "facetValue": "VSIO_SUBJECTS:SCI02321",
+            "name": "Robotics",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SCI01640",
+        "facetValue": "VSIO_SUBJECTS:SCI01640",
+        "name": "Computing",
+        "children": []
+      },
+      {
+        "subjectId": "SCI00260",
+        "facetValue": "VSIO_SUBJECTS:SCI00260",
+        "name": "Earth Sciences and Geography",
+        "children": [
+          {
+            "subjectId": "SCI00270",
+            "facetValue": "VSIO_SUBJECTS:SCI00270",
+            "name": "Atmospheric Sciences",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02322",
+            "facetValue": "VSIO_SUBJECTS:SCI02322",
+            "name": "Environmental Geography",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00290",
+            "facetValue": "VSIO_SUBJECTS:SCI00290",
+            "name": "Geology and the Lithosphere",
+            "children": [
+              {
+                "subjectId": "SCI00310",
+                "facetValue": "VSIO_SUBJECTS:SCI00310",
+                "name": "Geochemistry",
+                "children": []
+              },
+              {
+                "subjectId": "SCI00350",
+                "facetValue": "VSIO_SUBJECTS:SCI00350",
+                "name": "Petrology",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI00380",
+            "facetValue": "VSIO_SUBJECTS:SCI00380",
+            "name": "Geophysics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00430",
+            "facetValue": "VSIO_SUBJECTS:SCI00430",
+            "name": "Meteorology and Climatology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00440",
+            "facetValue": "VSIO_SUBJECTS:SCI00440",
+            "name": "Oceanography and Hydrology",
+            "children": [
+              {
+                "subjectId": "SCI00450",
+                "facetValue": "VSIO_SUBJECTS:SCI00450",
+                "name": "Limnology (Freshwater)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI01200",
+            "facetValue": "VSIO_SUBJECTS:SCI01200",
+            "name": "Palaeontology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00460",
+            "facetValue": "VSIO_SUBJECTS:SCI00460",
+            "name": "Physical Geography and Topography",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00470",
+            "facetValue": "VSIO_SUBJECTS:SCI00470",
+            "name": "Regional Geography",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00490",
+            "facetValue": "VSIO_SUBJECTS:SCI00490",
+            "name": "Volcanology and Seismology",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SCI00500",
+        "facetValue": "VSIO_SUBJECTS:SCI00500",
+        "name": "Engineering and Technology",
+        "children": [
+          {
+            "subjectId": "SCI00510",
+            "facetValue": "VSIO_SUBJECTS:SCI00510",
+            "name": "Agriculture and Farming",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00550",
+            "facetValue": "VSIO_SUBJECTS:SCI00550",
+            "name": "Civil Engineering, Surveying, and Building",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00590",
+            "facetValue": "VSIO_SUBJECTS:SCI00590",
+            "name": "Energy Technology",
+            "children": [
+              {
+                "subjectId": "SCI00600",
+                "facetValue": "VSIO_SUBJECTS:SCI00600",
+                "name": "Alternative and Renewable Energy Sources and Technology",
+                "children": []
+              },
+              {
+                "subjectId": "SCI00640",
+                "facetValue": "VSIO_SUBJECTS:SCI00640",
+                "name": "Nuclear Power and Engineering",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI00690",
+            "facetValue": "VSIO_SUBJECTS:SCI00690",
+            "name": "Engineering (General)",
+            "children": []
+          },
+          {
+            "subjectId": "SCI00780",
+            "facetValue": "VSIO_SUBJECTS:SCI00780",
+            "name": "History of Engineering and Technology",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SCI00950",
+        "facetValue": "VSIO_SUBJECTS:SCI00950",
+        "name": "History of Science and Technology",
+        "children": []
+      },
+      {
+        "subjectId": "SCI01410",
+        "facetValue": "VSIO_SUBJECTS:SCI01410",
+        "name": "Materials Science",
+        "children": []
+      },
+      {
+        "subjectId": "SCI01470",
+        "facetValue": "VSIO_SUBJECTS:SCI01470",
+        "name": "Mathematics",
+        "children": [
+          {
+            "subjectId": "SCI01480",
+            "facetValue": "VSIO_SUBJECTS:SCI01480",
+            "name": "Applied Mathematics",
+            "children": [
+              {
+                "subjectId": "SCI02254",
+                "facetValue": "VSIO_SUBJECTS:SCI02254",
+                "name": "Data and Information Analysis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI01750",
+            "facetValue": "VSIO_SUBJECTS:SCI01750",
+            "name": "History of Mathematics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI01775",
+            "facetValue": "VSIO_SUBJECTS:SCI01775",
+            "name": "Mathematical Finance",
+            "children": []
+          },
+          {
+            "subjectId": "SCI01780",
+            "facetValue": "VSIO_SUBJECTS:SCI01780",
+            "name": "Probability and Statistics",
+            "children": [
+              {
+                "subjectId": "SCI01781",
+                "facetValue": "VSIO_SUBJECTS:SCI01781",
+                "name": "Probability",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI01790",
+            "facetValue": "VSIO_SUBJECTS:SCI01790",
+            "name": "Pure Mathematics",
+            "children": [
+              {
+                "subjectId": "SCI01800",
+                "facetValue": "VSIO_SUBJECTS:SCI01800",
+                "name": "Algebra",
+                "children": []
+              },
+              {
+                "subjectId": "SCI01810",
+                "facetValue": "VSIO_SUBJECTS:SCI01810",
+                "name": "Combinatorics and Graph Theory",
+                "children": []
+              },
+              {
+                "subjectId": "SCI01830",
+                "facetValue": "VSIO_SUBJECTS:SCI01830",
+                "name": "Geometry",
+                "children": []
+              },
+              {
+                "subjectId": "SCI01840",
+                "facetValue": "VSIO_SUBJECTS:SCI01840",
+                "name": "Number Theory",
+                "children": []
+              },
+              {
+                "subjectId": "SCI01860",
+                "facetValue": "VSIO_SUBJECTS:SCI01860",
+                "name": "Topology",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subjectId": "SCI01870",
+        "facetValue": "VSIO_SUBJECTS:SCI01870",
+        "name": "Neuroscience",
+        "children": []
+      },
+      {
+        "subjectId": "SCI01970",
+        "facetValue": "VSIO_SUBJECTS:SCI01970",
+        "name": "Physics",
+        "children": [
+          {
+            "subjectId": "SCI00020",
+            "facetValue": "VSIO_SUBJECTS:SCI00020",
+            "name": "Astronomy and Astrophysics",
+            "children": [
+              {
+                "subjectId": "SCI02265",
+                "facetValue": "VSIO_SUBJECTS:SCI02265",
+                "name": "Cosmology",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02264",
+                "facetValue": "VSIO_SUBJECTS:SCI02264",
+                "name": "Galaxies",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02261",
+                "facetValue": "VSIO_SUBJECTS:SCI02261",
+                "name": "Planetary Systems",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02260",
+                "facetValue": "VSIO_SUBJECTS:SCI02260",
+                "name": "Solar Physics",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02262",
+                "facetValue": "VSIO_SUBJECTS:SCI02262",
+                "name": "Stars",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI01990",
+            "facetValue": "VSIO_SUBJECTS:SCI01990",
+            "name": "Atomic, Molecular, and Optical Physics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02000",
+            "facetValue": "VSIO_SUBJECTS:SCI02000",
+            "name": "Condensed Matter Physics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02020",
+            "facetValue": "VSIO_SUBJECTS:SCI02020",
+            "name": "Electromagnetism, Optics, and Acoustics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02278",
+            "facetValue": "VSIO_SUBJECTS:SCI02278",
+            "name": "History of Physics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02030",
+            "facetValue": "VSIO_SUBJECTS:SCI02030",
+            "name": "Mathematical and Statistical Physics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02274",
+            "facetValue": "VSIO_SUBJECTS:SCI02274",
+            "name": "Measurement Science",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02040",
+            "facetValue": "VSIO_SUBJECTS:SCI02040",
+            "name": "Nuclear Physics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02050",
+            "facetValue": "VSIO_SUBJECTS:SCI02050",
+            "name": "Particles and Fields",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02070",
+            "facetValue": "VSIO_SUBJECTS:SCI02070",
+            "name": "Quantum Physics",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02275",
+            "facetValue": "VSIO_SUBJECTS:SCI02275",
+            "name": "Relativity and Gravitation",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SCI02100",
+        "facetValue": "VSIO_SUBJECTS:SCI02100",
+        "name": "Psychology",
+        "children": [
+          {
+            "subjectId": "SCI02110",
+            "facetValue": "VSIO_SUBJECTS:SCI02110",
+            "name": "Clinical Psychology",
+            "children": [
+              {
+                "subjectId": "SCI02140",
+                "facetValue": "VSIO_SUBJECTS:SCI02140",
+                "name": "Counselling Psychology",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02117",
+                "facetValue": "VSIO_SUBJECTS:SCI02117",
+                "name": "Psychopathology",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02118",
+                "facetValue": "VSIO_SUBJECTS:SCI02118",
+                "name": "Psychosocial Interventions and Psychotherapy",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI02130",
+            "facetValue": "VSIO_SUBJECTS:SCI02130",
+            "name": "Cognitive Psychology",
+            "children": [
+              {
+                "subjectId": "SCI02139",
+                "facetValue": "VSIO_SUBJECTS:SCI02139",
+                "name": "Consciousness",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02132",
+                "facetValue": "VSIO_SUBJECTS:SCI02132",
+                "name": "Psychology of Intelligence and Reasoning",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02134",
+                "facetValue": "VSIO_SUBJECTS:SCI02134",
+                "name": "Psychology of Learning",
+                "children": []
+              },
+              {
+                "subjectId": "SCI02136",
+                "facetValue": "VSIO_SUBJECTS:SCI02136",
+                "name": "Psychology of Memory",
+                "children": []
+              },
+              {
+                "subjectId": "SCI01238",
+                "facetValue": "VSIO_SUBJECTS:SCI01238",
+                "name": "Psychology of Perception",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SCI02150",
+            "facetValue": "VSIO_SUBJECTS:SCI02150",
+            "name": "Criminal and Forensic Psychology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02160",
+            "facetValue": "VSIO_SUBJECTS:SCI02160",
+            "name": "Developmental Psychology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02180",
+            "facetValue": "VSIO_SUBJECTS:SCI02180",
+            "name": "History and Systems in Psychology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02185",
+            "facetValue": "VSIO_SUBJECTS:SCI02185",
+            "name": "Music Psychology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02190",
+            "facetValue": "VSIO_SUBJECTS:SCI02190",
+            "name": "Neuropsychology",
+            "children": []
+          },
+          {
+            "subjectId": "SCI02240",
+            "facetValue": "VSIO_SUBJECTS:SCI02240",
+            "name": "Social Psychology",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subjectId": "SOC00010",
+    "facetValue": "VSIO_SUBJECTS:SOC00010",
+    "name": "Social Sciences",
+    "children": [
+      {
+        "subjectId": "SOC00020",
+        "facetValue": "VSIO_SUBJECTS:SOC00020",
+        "name": "Anthropology",
+        "children": [
+          {
+            "subjectId": "SOC00030",
+            "facetValue": "VSIO_SUBJECTS:SOC00030",
+            "name": "Human Evolution",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00060",
+            "facetValue": "VSIO_SUBJECTS:SOC00060",
+            "name": "Social and Cultural Anthropology",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SOC00070",
+        "facetValue": "VSIO_SUBJECTS:SOC00070",
+        "name": "Business and Management",
+        "children": [
+          {
+            "subjectId": "SOC00080",
+            "facetValue": "VSIO_SUBJECTS:SOC00080",
+            "name": "Accounting",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00125",
+            "facetValue": "VSIO_SUBJECTS:SOC00125",
+            "name": "Corporate Social Responsibility",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00210",
+            "facetValue": "VSIO_SUBJECTS:SOC00210",
+            "name": "Entrepreneurship",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00220",
+            "facetValue": "VSIO_SUBJECTS:SOC00220",
+            "name": "Human Resource Management",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00290",
+            "facetValue": "VSIO_SUBJECTS:SOC00290",
+            "name": "Innovation",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00320",
+            "facetValue": "VSIO_SUBJECTS:SOC00320",
+            "name": "Management and Management Techniques",
+            "children": [
+              {
+                "subjectId": "SOC00340",
+                "facetValue": "VSIO_SUBJECTS:SOC00340",
+                "name": "Leadership and Motivation",
+                "children": []
+              },
+              {
+                "subjectId": "SOC00360",
+                "facetValue": "VSIO_SUBJECTS:SOC00360",
+                "name": "Project Management",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SOC00390",
+            "facetValue": "VSIO_SUBJECTS:SOC00390",
+            "name": "Marketing",
+            "children": [
+              {
+                "subjectId": "SOC00400",
+                "facetValue": "VSIO_SUBJECTS:SOC00400",
+                "name": "Brand Management",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SOC00450",
+            "facetValue": "VSIO_SUBJECTS:SOC00450",
+            "name": "Organizational Theory and Behaviour",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00480",
+            "facetValue": "VSIO_SUBJECTS:SOC00480",
+            "name": "Public and Nonprofit Management",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SOC00500",
+        "facetValue": "VSIO_SUBJECTS:SOC00500",
+        "name": "Criminology and Criminal Justice",
+        "children": [
+          {
+            "subjectId": "SOC00510",
+            "facetValue": "VSIO_SUBJECTS:SOC00510",
+            "name": "Criminal Justice",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00610",
+            "facetValue": "VSIO_SUBJECTS:SOC00610",
+            "name": "Forms of Crime",
+            "children": [
+              {
+                "subjectId": "SOC00640",
+                "facetValue": "VSIO_SUBJECTS:SOC00640",
+                "name": "Organised Crime",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subjectId": "SOC00720",
+        "facetValue": "VSIO_SUBJECTS:SOC00720",
+        "name": "Economics",
+        "children": [
+          {
+            "subjectId": "SOC00730",
+            "facetValue": "VSIO_SUBJECTS:SOC00730",
+            "name": "Agricultural, Environmental, and Natural Resource Economics",
+            "children": [
+              {
+                "subjectId": "SOC00760",
+                "facetValue": "VSIO_SUBJECTS:SOC00760",
+                "name": "Environmental Economics",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SOC02887",
+            "facetValue": "VSIO_SUBJECTS:SOC02887",
+            "name": "Behavioural Economics and Neuroeconomics",
+            "children": []
+          },
+          {
+            "subjectId": "SOC01640",
+            "facetValue": "VSIO_SUBJECTS:SOC01640",
+            "name": "Econometrics and Mathematical Economics",
+            "children": [
+              {
+                "subjectId": "SOC01700",
+                "facetValue": "VSIO_SUBJECTS:SOC01700",
+                "name": "Game Theory and Bargaining Theory",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SOC00790",
+            "facetValue": "VSIO_SUBJECTS:SOC00790",
+            "name": "Economic Development and Growth",
+            "children": []
+          },
+          {
+            "subjectId": "SOC00970",
+            "facetValue": "VSIO_SUBJECTS:SOC00970",
+            "name": "Financial Institutions and Services",
+            "children": [
+              {
+                "subjectId": "SOC00980",
+                "facetValue": "VSIO_SUBJECTS:SOC00980",
+                "name": "Banking",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SOC01200",
+            "facetValue": "VSIO_SUBJECTS:SOC01200",
+            "name": "Health, Education, and Welfare",
+            "children": [
+              {
+                "subjectId": "SOC01230",
+                "facetValue": "VSIO_SUBJECTS:SOC01230",
+                "name": "Welfare and Poverty",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SOC01240",
+            "facetValue": "VSIO_SUBJECTS:SOC01240",
+            "name": "History of Economic Thought",
+            "children": [
+              {
+                "subjectId": "SOC01270",
+                "facetValue": "VSIO_SUBJECTS:SOC01270",
+                "name": "Individual Economists",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SOC01420",
+            "facetValue": "VSIO_SUBJECTS:SOC01420",
+            "name": "International Economics",
+            "children": [
+              {
+                "subjectId": "SOC01450",
+                "facetValue": "VSIO_SUBJECTS:SOC01450",
+                "name": "International Relations and International Political Economy",
+                "children": []
+              },
+              {
+                "subjectId": "SOC01460",
+                "facetValue": "VSIO_SUBJECTS:SOC01460",
+                "name": "International Trade",
+                "children": []
+              }
+            ]
+          },
+          {
+            "subjectId": "SOC01740",
+            "facetValue": "VSIO_SUBJECTS:SOC01740",
+            "name": "Microeconomics",
+            "children": []
+          },
+          {
+            "subjectId": "SOC01830",
+            "facetValue": "VSIO_SUBJECTS:SOC01830",
+            "name": "Public Economics",
+            "children": [
+              {
+                "subjectId": "SOC01880",
+                "facetValue": "VSIO_SUBJECTS:SOC01880",
+                "name": "Taxation, Subsidies, and Revenue",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subjectId": "SOC01940",
+        "facetValue": "VSIO_SUBJECTS:SOC01940",
+        "name": "Education",
+        "children": []
+      },
+      {
+        "subjectId": "SOC02100",
+        "facetValue": "VSIO_SUBJECTS:SOC02100",
+        "name": "Environment",
+        "children": [
+          {
+            "subjectId": "SOC02120",
+            "facetValue": "VSIO_SUBJECTS:SOC02120",
+            "name": "Climate Change",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02170",
+            "facetValue": "VSIO_SUBJECTS:SOC02170",
+            "name": "Natural Disasters (Environment)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SOC02230",
+        "facetValue": "VSIO_SUBJECTS:SOC02230",
+        "name": "Human Geography",
+        "children": [
+          {
+            "subjectId": "SOC02250",
+            "facetValue": "VSIO_SUBJECTS:SOC02250",
+            "name": "Political Geography",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SOC02270",
+        "facetValue": "VSIO_SUBJECTS:SOC02270",
+        "name": "Politics",
+        "children": [
+          {
+            "subjectId": "SOC02272",
+            "facetValue": "VSIO_SUBJECTS:SOC02272",
+            "name": "African Politics",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02290",
+            "facetValue": "VSIO_SUBJECTS:SOC02290",
+            "name": "European Union",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02405",
+            "facetValue": "VSIO_SUBJECTS:SOC02405",
+            "name": "Indian Politics",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02300",
+            "facetValue": "VSIO_SUBJECTS:SOC02300",
+            "name": "International Relations",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02340",
+            "facetValue": "VSIO_SUBJECTS:SOC02340",
+            "name": "Political Institutions",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02901",
+            "facetValue": "VSIO_SUBJECTS:SOC02901",
+            "name": "Political Philosophy",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02360",
+            "facetValue": "VSIO_SUBJECTS:SOC02360",
+            "name": "Political Theory",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02400",
+            "facetValue": "VSIO_SUBJECTS:SOC02400",
+            "name": "State and Local Government",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02410",
+            "facetValue": "VSIO_SUBJECTS:SOC02410",
+            "name": "UK Politics",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02420",
+            "facetValue": "VSIO_SUBJECTS:SOC02420",
+            "name": "US Politics",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "GEN00300",
+        "facetValue": "VSIO_SUBJECTS:GEN00300",
+        "name": "Research and Information",
+        "children": []
+      },
+      {
+        "subjectId": "SOC02540",
+        "facetValue": "VSIO_SUBJECTS:SOC02540",
+        "name": "Social Work",
+        "children": []
+      },
+      {
+        "subjectId": "SOC02560",
+        "facetValue": "VSIO_SUBJECTS:SOC02560",
+        "name": "Sociology",
+        "children": [
+          {
+            "subjectId": "SOC02590",
+            "facetValue": "VSIO_SUBJECTS:SOC02590",
+            "name": "Gender and Sexuality",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02600",
+            "facetValue": "VSIO_SUBJECTS:SOC02600",
+            "name": "Gerontology and Ageing",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02630",
+            "facetValue": "VSIO_SUBJECTS:SOC02630",
+            "name": "Migration Studies",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02650",
+            "facetValue": "VSIO_SUBJECTS:SOC02650",
+            "name": "Occupations, Professions, and Work",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02670",
+            "facetValue": "VSIO_SUBJECTS:SOC02670",
+            "name": "Population and Demography",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02680",
+            "facetValue": "VSIO_SUBJECTS:SOC02680",
+            "name": "Race and Ethnicity",
+            "children": []
+          },
+          {
+            "subjectId": "SOC02690",
+            "facetValue": "VSIO_SUBJECTS:SOC02690",
+            "name": "Social Movements and Social Change",
+            "children": []
+          }
+        ]
+      },
+      {
+        "subjectId": "SOC02760",
+        "facetValue": "VSIO_SUBJECTS:SOC02760",
+        "name": "Warfare and Defence",
+        "children": []
+      }
+    ]
+  }
+]

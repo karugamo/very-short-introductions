@@ -1,30 +1,29 @@
-import { readFileSync } from "fs";
+import { readFileSync, writeFileSync } from "fs";
 import { JSDOM } from "jsdom";
 
 const tree = new JSDOM(readFileSync("./data/subjecttree.html", "utf-8")).window
   .document.body;
 
-const subjects: { [subjectId: string]: Subject } = {};
+const subjects: Subject[] = [];
 
-traverseUl(tree);
+traverseUl(tree, subjects);
 
-console.log(subjects)
+writeFileSync('./data/subjects.json', JSON.stringify(subjects, null, 2));
 
-function traverseUl(parent: HTMLElement, parentSubject?: string) {
+function traverseUl(parent: HTMLElement, parentChildren: Subject[] = []) {
   for (const ul of Array.from(parent.childNodes)) {
     if (ul.nodeName === "UL") {
-      traverseLi(ul as HTMLUListElement, parentSubject);
+      traverseLi(ul as HTMLUListElement, parentChildren);
     }
   }
 }
 
-function traverseLi(ul: HTMLUListElement, parentSubject?: string) {
+function traverseLi(ul: HTMLUListElement, parentChildren: Subject[]) {
   for (const li of Array.from(ul.childNodes)) {
     if (li.nodeName === "LI") {
       const subject = parseItem(li as HTMLLIElement);
-      subject.parentSubject = parentSubject;
-      subjects[subject.subjectId] = subject;
-      traverseUl(li as HTMLElement, subject.subjectId);
+      parentChildren.push(subject);
+      traverseUl(li as HTMLElement, subject.children);
     }
   }
 }
@@ -33,12 +32,12 @@ function parseItem(listElement: HTMLLIElement): Subject {
   const facetValue = listElement.getAttribute("data-facet-value");
   const name = listElement.querySelector(".c-Link span").textContent;
   const subjectId = facetValue.split(":")[1];
-  return { subjectId, facetValue, name, parentSubject: null };
+  return { subjectId, facetValue, name, children: [] };
 }
 
 interface Subject {
   subjectId: string;
   facetValue: string;
   name: string;
-  parentSubject?: string;
+  children: Subject[];
 }
