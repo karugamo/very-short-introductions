@@ -1,5 +1,6 @@
 import got from 'got'
 import { JSDOM } from 'jsdom'
+import {writeFileSync} from 'fs'
 
 const {body} = await got('https://www.goodreads.com/list/show/43502.The_Oxford_Very_Short_Introductions_Series')
 
@@ -8,10 +9,15 @@ const document = new JSDOM(body).window.document
 
 const bookElements = Array.from(document.querySelectorAll('[itemtype="http://schema.org/Book"]'))
 
+const books = []
+
 for (const bookElement of bookElements) {
   const book = await parseBookElement(bookElement)
-  console.log(book)
+  books.push(book)
 }
+
+writeFileSync('./data/books.json', JSON.stringify(books, null, 2))
+console.log(`✅ Wrote ${books.length} books to data/books.json`)
 
 async function parseBookElement(bookElement: Element) {
   const title = bookElement.querySelector('[itemprop="name"]').textContent
