@@ -9,13 +9,14 @@
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json",
     "fetch-books": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/fetch-books.ts",
-    "fetch-subject-books": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/fetch-subject-books.ts",
+    "process-subject-books": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/process-subject-books.ts",
     "parse-subjects": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/parse-subjects.ts"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
     "@tsconfig/svelte": "^2.0.1",
     "@types/node": "^17.0.34",
+    "csv-string": "^4.1.0",
     "got": "^12.0.4",
     "jsdom": "^19.0.0",
     "svelte": "^3.44.0",
