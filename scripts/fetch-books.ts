@@ -12,7 +12,7 @@ while (true) {
   books.push(...newBooks)
 }
 
-writeFileSync("./data/books.json", JSON.stringify(books, null, 2));
+writeFileSync("../data/books.json", JSON.stringify(books, null, 2));
 console.log(`✅ Wrote ${books.length} books to data/books.json`);
 
 async function parseBookElement(bookElement: Element): Promise<Book> {

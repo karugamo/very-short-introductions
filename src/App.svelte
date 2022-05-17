@@ -6,13 +6,15 @@
 
 <main>
   <h1>Books</h1>
-  <ul>
+  <ol>
     {#each books as book}
       <li>
-        {book.title} ({book.rating.toFixed(2)})
+        <a href="https://www.goodreads.com/{book.url}" target="_blank">
+          {book.title} ({book.rating.toFixed(2)})</a
+        >
       </li>
     {/each}
-  </ul>
+  </ol>
 </main>
 
 <style>

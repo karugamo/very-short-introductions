@@ -8,7 +8,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json",
-    "update-books": "node --loader ts-node/esm/transpile-only --no-warnings fetch-books.ts"
+    "update-books": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/fetch-books.ts",
+    "parse-subjects": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/parse-subjects.ts"
+
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
