@@ -1,5 +1,5 @@
-import { Subject } from "../purge-subject-tree.js";
 import { BookWithSubject } from "./purge-duplicate-books.js";
+import { Subject } from "./types.js";
 
 // should also work for Mathematics > Pure Mathematics > Mathematics
 

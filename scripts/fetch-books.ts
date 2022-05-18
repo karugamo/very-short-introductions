@@ -1,6 +1,7 @@
 import { writeFileSync } from "fs";
 import got from "got";
 import { JSDOM } from "jsdom";
+import { GoodreadsBook } from "./lib/types";
 
 let page = 1;
 const books = [];
@@ -15,7 +16,7 @@ while (true) {
 writeFileSync("./data/books.json", JSON.stringify(books, null, 2));
 console.log(`✅ Wrote ${books.length} books to data/books.json`);
 
-async function parseBookElement(bookElement: Element): Promise<Book> {
+async function parseBookElement(bookElement: Element): Promise<GoodreadsBook> {
   const title = bookElement
     .querySelector('[itemprop="name"]')
     .textContent.replace(": A Very Short Introduction", "");
@@ -40,15 +41,7 @@ function parseRatingText(text: string) {
   return { rating, numberOfRatings };
 }
 
-interface Book {
-  rating: number;
-  numberOfRatings: number;
-  url: string;
-  title: string;
-  image: string;
-}
-
-async function getBooks(page: number): Promise<Book[]> {
+async function getBooks(page: number): Promise<GoodreadsBook[]> {
   const { body } = await got(
     "https://www.goodreads.com/list/show/43502.The_Oxford_Very_Short_Introductions_Series?page=" +
       page

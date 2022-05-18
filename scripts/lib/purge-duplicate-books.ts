@@ -1,4 +1,4 @@
-import { Book, Subject } from "../purge-subject-tree.js";
+import { Book, Subject } from "./types.js";
 
 const booksWithParentByTitle: {
   [title: string]: BookWithSubject[];

@@ -7,7 +7,7 @@
 
 <script lang="ts">
   //	import { slide } from 'svelte/transition'
-  import type { Subject } from "../scripts/purge-subject-tree";
+  import type { Subject } from "../scripts/lib/types";
   export let tree;
   const { name, children, books = [], subjectBook } = tree as Subject;
 

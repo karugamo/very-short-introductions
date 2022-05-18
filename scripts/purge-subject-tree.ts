@@ -1,6 +1,8 @@
 import { readFileSync, writeFileSync } from "fs";
+import addGoodReadsData from "./lib/add-goodreads-data.js";
 import purgeDuplicateBooks from "./lib/purge-duplicate-books.js";
 import moveBooksWithSubjectNameIntoSubject from "./lib/subject-can-be-book.js";
+import { Subject, Book, GoodreadsBook } from "./lib/types.js";
 import { BookEntry } from "./process-subject-books.js";
 
 const rawSubjects = JSON.parse(
@@ -70,6 +72,8 @@ traverseTree(oldTree.children, newTree);
 
 const subjectsWithBooks = moveBooksWithSubjectNameIntoSubject(newTree);
 
+const numberOfGoodreadsEntries = addGoodReadsData(newTree);
+
 console.log(
   `Found ${subjectsWithBooks.length} subjects with matching book titles`
 );
@@ -81,6 +85,8 @@ console.log(
 console.log(
   `Purged ${purgedSubjectsWithOnlyOneSubCategory} subjects with only one child subject and no books`
 );
+
+console.log(`Added ${numberOfGoodreadsEntries} goodreads entries`);
 
 writeFileSync(
   "./data/purged-subjects-with-books.json",
@@ -104,13 +110,7 @@ interface RawSubject {
   children: RawSubject[];
 }
 
-export interface Subject {
-  name: string;
-  subjectId: string;
-  subjectBook?: Book;
-  books: Book[];
-  children: Subject[];
-}
+
 
 function addBooks(subject: Subject, books?: Book[]) {
   for (const book of books ?? []) {
@@ -118,18 +118,7 @@ function addBooks(subject: Subject, books?: Book[]) {
   }
 }
 
-export interface Book {
-  title: string;
-  uploadDate: string;
-  module: string;
-  authors: string;
-  printDate: string;
-  doi: string;
-  disciplines: string;
-  isbn: string;
-  url: string;
-  moduleName: string;
-}
+
 
 function convertBookEntry(bookEntry: BookEntry): Book {
   return {
