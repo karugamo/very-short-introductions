@@ -593,7 +593,7 @@
             "moduleName": "VSIO_SUBJECTS:AHU00010"
           },
           {
-            "title": "Eugenics: A Very Short introduction",
+            "title": "Eugenics",
             "uploadDate": "Jan-17",
             "module": "Arts and Humanities",
             "authors": "Levine",
@@ -3216,7 +3216,7 @@
             "moduleName": "VSIO_SUBJECTS:AHU00010"
           },
           {
-            "title": "Analytic Philosophy: A Very Short introduction",
+            "title": "Analytic Philosophy",
             "uploadDate": "Nov-17",
             "module": "Arts and Humanities",
             "authors": "Beaney",
@@ -4013,18 +4013,6 @@
             "books": [
               {
                 "title": "Philosophy of Science",
-                "uploadDate": "Sep-13",
-                "module": "Arts and Humanities",
-                "authors": "Okasha",
-                "printDate": "2002",
-                "doi": "10.1093/actrade/9780192802835.001.0001",
-                "isbn": "9780192802835",
-                "disciplines": "Arts and Humanities, Philosophy, Philosophy of Science, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802835.001.0001/actrade-9780192802835",
-                "moduleName": "VSIO_SUBJECTS:AHU00010"
-              },
-              {
-                "title": "Philosophy of Science: Very Short Introduction",
                 "uploadDate": "Jul-16",
                 "module": "Arts and Humanities",
                 "authors": "Okasha",

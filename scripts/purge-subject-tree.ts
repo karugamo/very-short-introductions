@@ -129,5 +129,5 @@ function convertBookEntry(bookEntry: BookEntry): Book {
 }
 
 function cleanTitle(title: string) {
-  return title.replace(": A Very Short Introduction", "");
+  return title.split(':')[0];
 }
