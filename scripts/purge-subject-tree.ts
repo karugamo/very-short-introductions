@@ -2,9 +2,9 @@ import { readFileSync, writeFileSync } from "fs";
 import purgeDuplicateBooks from "./lib/purge-duplicate-books.js";
 import { BookEntry } from "./process-subject-books.js";
 
-const booksBySubject = JSON.parse(
+const rawSubjects = JSON.parse(
   readFileSync("./data/books-by-subject.json", "utf-8")
-);
+) as RawSubject[];
 
 const newTree: Subject = {
   name: "Root",
@@ -14,28 +14,37 @@ const newTree: Subject = {
 };
 
 let purgedSubjectsWithOnlyOneBook = 0;
+let purgedSubjectsWithOnlyOneSubCategory = 0;
 
-function traverseTree(subtree: RawSubject[], parent: Subject) {
-  for (const rawSubject of subtree) {
-    if (subjectWithOnlyOneBook(rawSubject)) {
-      addBooks(parent, rawSubject.books);
-      console.log(
-        `${rawSubject.name}\t\t->\t\t${cleanTitle(rawSubject.books[0].Title)}`
-      );
+function traverseTree(subjects: Subject[], parent: Subject) {
+  for (const subject of subjects) {
+    if (subjectWithOnlyOneBook(subject)) {
+      addBooks(parent, subject.books);
       purgedSubjectsWithOnlyOneBook++;
       continue;
     }
-    const subject = addSubjectWithoutChildren(parent, rawSubject);
-    if (shouldContinueTraverse(rawSubject))
-      traverseTree(rawSubject.children, subject);
+
+    if (subjectWithoutBooksAndOneSubCategory(subject)) {
+      traverseTree(subject.children, parent);
+      purgedSubjectsWithOnlyOneSubCategory++;
+      continue;
+    }
+
+    const childSubject = addSubjectWithoutChildren(parent, subject);
+    if (shouldContinueTraverse(subject))
+      traverseTree(subject.children, childSubject);
   }
 
-  function shouldContinueTraverse(rawSubject: RawSubject): boolean {
+  function shouldContinueTraverse(rawSubject: Subject): boolean {
     if (rawSubject.children.length === 0) return false;
     return true;
   }
 
-  function subjectWithOnlyOneBook(subject: RawSubject) {
+  function subjectWithoutBooksAndOneSubCategory(subject: Subject) {
+    return (subject.books?.length ?? 0) === 0 && subject.children.length === 1;
+  }
+
+  function subjectWithOnlyOneBook(subject: Subject) {
     const numberOfBooks = subject.books?.length ?? 0;
     const hasOnlyOneBook = numberOfBooks === 1;
     const hasChildSubjects = subject.children.length > 0;
@@ -44,13 +53,19 @@ function traverseTree(subtree: RawSubject[], parent: Subject) {
   }
 }
 
-traverseTree(booksBySubject, newTree);
+console.log("\n\n");
+
+traverseTree(rawSubjects.map(convertRawSubjectToSubject), newTree);
 console.log(
-  `\n\nPurged: ${purgedSubjectsWithOnlyOneBook} subjects with only one book`
+  `Purged: ${purgedSubjectsWithOnlyOneBook} subjects with only one book`
+);
+
+console.log(
+  `Purged ${purgedSubjectsWithOnlyOneSubCategory} subjects with only one child subject and no books`
 );
 
 const purgedDulplicateEditions = purgeDuplicateBooks(newTree);
-console.log(`Purged ${purgedDulplicateEditions} outdated editions`);  
+console.log(`Purged ${purgedDulplicateEditions} more outdated editions`);
 
 writeFileSync(
   "./data/purged-subjects-with-books.json",
@@ -59,14 +74,9 @@ writeFileSync(
 
 function addSubjectWithoutChildren(
   parentSubject: Subject,
-  rawSubject: RawSubject
+  childSubject: Subject
 ) {
-  const newSubject = {
-    subjectId: rawSubject.subjectId,
-    name: rawSubject.name,
-    books: (rawSubject.books ?? []).map(convertBookEntry),
-    children: [],
-  };
+  const newSubject = { ...childSubject, children: [] };
   parentSubject.children.push(newSubject);
   return newSubject;
 }
@@ -86,17 +96,9 @@ export interface Subject {
   children: Subject[];
 }
 
-function addBooks(subject: Subject, bookEntries?: BookEntry[]) {
-  for (const bookEntry of bookEntries ?? []) {
-    subject.books.push(convertBookEntry(bookEntry));
-  }
-}
-
-function addBook(subject: Subject, book: any) {
-  if (subject.books) {
+function addBooks(subject: Subject, books?: Book[]) {
+  for (const book of books ?? []) {
     subject.books.push(book);
-  } else {
-    subject.books = [book];
   }
 }
 
@@ -129,5 +131,14 @@ function convertBookEntry(bookEntry: BookEntry): Book {
 }
 
 function cleanTitle(title: string) {
-  return title.split(':')[0];
+  return title.split(":")[0];
+}
+
+function convertRawSubjectToSubject(rawSubject: RawSubject): Subject {
+  return {
+    name: rawSubject.name,
+    subjectId: rawSubject.subjectId,
+    books: rawSubject.books?.map(convertBookEntry) ?? [],
+    children: rawSubject.children.map(convertRawSubjectToSubject),
+  };
 }
