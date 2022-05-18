@@ -1,4 +1,5 @@
 import { readFileSync, writeFileSync } from "fs";
+import purgeDuplicateBooks from "./lib/purge-duplicate-books.js";
 import { BookEntry } from "./process-subject-books.js";
 
 const booksBySubject = JSON.parse(
@@ -12,7 +13,7 @@ const newTree: Subject = {
   books: [],
 };
 
-let purged = 0;
+let purgedSubjectsWithOnlyOneBook = 0;
 
 function traverseTree(subtree: RawSubject[], parent: Subject) {
   for (const rawSubject of subtree) {
@@ -21,7 +22,7 @@ function traverseTree(subtree: RawSubject[], parent: Subject) {
       console.log(
         `${rawSubject.name}\t\t->\t\t${cleanTitle(rawSubject.books[0].Title)}`
       );
-      purged++;
+      purgedSubjectsWithOnlyOneBook++;
       continue;
     }
     const subject = addSubjectWithoutChildren(parent, rawSubject);
@@ -44,7 +45,12 @@ function traverseTree(subtree: RawSubject[], parent: Subject) {
 }
 
 traverseTree(booksBySubject, newTree);
-console.log(`\n\nPurged: ${purged} subjects with only one book`);
+console.log(
+  `\n\nPurged: ${purgedSubjectsWithOnlyOneBook} subjects with only one book`
+);
+
+const purgedDulplicateEditions = purgeDuplicateBooks(newTree);
+console.log(`Purged ${purgedDulplicateEditions} outdated editions`);  
 
 writeFileSync(
   "./data/purged-subjects-with-books.json",
@@ -73,7 +79,7 @@ interface RawSubject {
   children: RawSubject[];
 }
 
-interface Subject {
+export interface Subject {
   name: string;
   subjectId: string;
   books: Book[];
@@ -94,7 +100,7 @@ function addBook(subject: Subject, book: any) {
   }
 }
 
-interface Book {
+export interface Book {
   title: string;
   uploadDate: string;
   module: string;
