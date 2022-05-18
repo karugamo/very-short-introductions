@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "fs";
 import addGoodReadsData from "./lib/add-goodreads-data.js";
 import purgeDuplicateBooks from "./lib/purge-duplicate-books.js";
 import moveBooksWithSubjectNameIntoSubject from "./lib/subject-can-be-book.js";
-import { Subject, Book, GoodreadsBook } from "./lib/types.js";
+import { Book, Subject } from "./lib/types.js";
 import { BookEntry } from "./process-subject-books.js";
 
 const rawSubjects = JSON.parse(
@@ -70,9 +70,9 @@ console.log(`Purged ${purgedDulplicateEditions} more outdated editions`);
 
 traverseTree(oldTree.children, newTree);
 
-const subjectsWithBooks = moveBooksWithSubjectNameIntoSubject(newTree);
-
 const numberOfGoodreadsEntries = addGoodReadsData(newTree);
+
+const subjectsWithBooks = moveBooksWithSubjectNameIntoSubject(newTree);
 
 console.log(
   `Found ${subjectsWithBooks.length} subjects with matching book titles`
@@ -110,15 +110,11 @@ interface RawSubject {
   children: RawSubject[];
 }
 
-
-
 function addBooks(subject: Subject, books?: Book[]) {
   for (const book of books ?? []) {
     subject.books.push(book);
   }
 }
-
-
 
 function convertBookEntry(bookEntry: BookEntry): Book {
   return {

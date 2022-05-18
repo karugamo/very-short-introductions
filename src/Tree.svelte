@@ -26,6 +26,9 @@
         <span class="arrow" class:arrowDown>&#x25b6</span>
         {#if subjectBook}
           <a target="_blank" href={subjectBook.url}>{name}</a>
+          {#if subjectBook.goodreadsEntry}({subjectBook.goodreadsEntry.rating.toFixed(
+              2
+            )}){/if}
         {:else}
           {name}
         {/if}
@@ -39,6 +42,9 @@
             <span>
               <span class="no-arrow" />
               <a target="_blank" href={book.url}>{book.title}</a>
+              {#if book.goodreadsEntry}({book.goodreadsEntry.rating.toFixed(
+                  2
+                )}){/if}
             </span>
           </li>
         {/each}
