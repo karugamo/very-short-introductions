@@ -5,10 +5,11 @@
   };
 </script>
 
-<script>
+<script lang="ts">
   //	import { slide } from 'svelte/transition'
+  import type { Subject } from "../scripts/purge-subject-tree";
   export let tree;
-  const { name, children, books = [] } = tree;
+  const { name, children, books = [], subjectBook } = tree as Subject;
 
   let expanded = _expansionState[name] || false;
   const toggleExpansion = () => {
@@ -23,7 +24,11 @@
     {#if children.length || books.length}
       <span on:click={toggleExpansion}>
         <span class="arrow" class:arrowDown>&#x25b6</span>
-        {name}
+        {#if subjectBook}
+          <a target="_blank" href={subjectBook.url}>{name}</a>
+        {:else}
+          {name}
+        {/if}
       </span>
       {#if expanded}
         {#each children as child}

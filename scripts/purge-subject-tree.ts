@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from "fs";
 import purgeDuplicateBooks from "./lib/purge-duplicate-books.js";
+import moveBooksWithSubjectNameIntoSubject from "./lib/subject-can-be-book.js";
 import { BookEntry } from "./process-subject-books.js";
 
 const rawSubjects = JSON.parse(
@@ -66,6 +67,13 @@ const purgedDulplicateEditions = purgeDuplicateBooks(oldTree);
 console.log(`Purged ${purgedDulplicateEditions} more outdated editions`);
 
 traverseTree(oldTree.children, newTree);
+
+const subjectsWithBooks = moveBooksWithSubjectNameIntoSubject(newTree);
+
+console.log(
+  `Found ${subjectsWithBooks.length} subjects with matching book titles`
+);
+
 console.log(
   `Purged: ${purgedSubjectsWithOnlyOneBook} subjects with only one book`
 );
@@ -99,6 +107,7 @@ interface RawSubject {
 export interface Subject {
   name: string;
   subjectId: string;
+  subjectBook?: Book;
   books: Book[];
   children: Subject[];
 }

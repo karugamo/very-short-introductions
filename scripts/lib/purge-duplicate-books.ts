@@ -4,7 +4,7 @@ const booksWithParentByTitle: {
   [title: string]: BookWithSubject[];
 } = {};
 
-export default function   purgeDuplicateBooks(subject: Subject) {
+export default function purgeDuplicateBooks(subject: Subject) {
   const booksWithParentByTitle = collectBooksByTitle(subject);
 
   const titles = Object.keys(booksWithParentByTitle);
@@ -53,7 +53,7 @@ function sortByDate(books: BookWithSubject[]) {
   });
 }
 
-interface BookWithSubject {
+export interface BookWithSubject {
   book: Book;
   subject: Subject;
 }
