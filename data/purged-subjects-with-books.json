@@ -14,6 +14,18 @@
         "disciplines": "Arts and Humanities, Byzantine Studies, null",
         "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236114.001.0001/actrade-9780199236114",
         "moduleName": "VSIO_SUBJECTS:AHU00010"
+      },
+      {
+        "title": "Journalism",
+        "uploadDate": "Aug-14",
+        "module": "Arts and Humanities",
+        "authors": "Hargreaves",
+        "printDate": "2014",
+        "doi": "10.1093/actrade/9780199686872.001.0001",
+        "isbn": "9780199686872",
+        "disciplines": "Arts and Humanities, Journalism, null",
+        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199686872.001.0001/actrade-9780199686872",
+        "moduleName": "VSIO_SUBJECTS:AHU00010"
       }
     ],
     "children": [
@@ -569,6 +581,18 @@
             "moduleName": "VSIO_SUBJECTS:AHU00010"
           },
           {
+            "title": "The Cold War",
+            "uploadDate": "Feb-21",
+            "module": "Arts and Humanities",
+            "authors": "McMahon",
+            "printDate": "2021",
+            "doi": "10.1093/actrade/9780198859543.001.0001",
+            "isbn": "9780198859543",
+            "disciplines": "null, Arts and Humanities, History, Cold War, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198859543.001.0001/actrade-9780198859543",
+            "moduleName": "VSIO_SUBJECTS:AHU00010"
+          },
+          {
             "title": "Empire",
             "uploadDate": "Sep-13",
             "module": "Arts and Humanities",
@@ -690,25 +714,6 @@
           }
         ],
         "children": [
-          {
-            "name": "Cold War",
-            "subjectId": "AHU01060",
-            "books": [
-              {
-                "title": "The Cold War",
-                "uploadDate": "Feb-21",
-                "module": "Arts and Humanities",
-                "authors": "McMahon",
-                "printDate": "2021",
-                "doi": "10.1093/actrade/9780198859543.001.0001",
-                "isbn": "9780198859543",
-                "disciplines": "null, Arts and Humanities, History, Cold War, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198859543.001.0001/actrade-9780198859543",
-                "moduleName": "VSIO_SUBJECTS:AHU00010"
-              }
-            ],
-            "children": []
-          },
           {
             "name": "History by Period",
             "subjectId": "AHU00860",
@@ -1691,6 +1696,18 @@
                     "moduleName": "VSIO_SUBJECTS:AHU00010"
                   },
                   {
+                    "title": "Asian American History",
+                    "uploadDate": "Dec-16",
+                    "module": "Arts and Humanities",
+                    "authors": "Hsu",
+                    "printDate": "2017",
+                    "doi": "10.1093/actrade/9780190219765.001.0001",
+                    "isbn": "9780190219765",
+                    "disciplines": "Arts and Humanities, History, Regional and National History, United States History, US History (Immigration and Ethnicity), null",
+                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780190219765.001.0001/actrade-9780190219765",
+                    "moduleName": "VSIO_SUBJECTS:AHU00010"
+                  },
+                  {
                     "title": "The American West",
                     "uploadDate": "Jan-15",
                     "module": "Arts and Humanities",
@@ -1773,25 +1790,6 @@
                         "isbn": "9780199766239",
                         "disciplines": "Arts and Humanities, History, Regional and National History, United States History, US Colonial and Revolutionary History, null",
                         "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766239.001.0001/actrade-9780199766239",
-                        "moduleName": "VSIO_SUBJECTS:AHU00010"
-                      }
-                    ],
-                    "children": []
-                  },
-                  {
-                    "name": "US History (Immigration and Ethnicity)",
-                    "subjectId": "AHU91044",
-                    "books": [
-                      {
-                        "title": "Asian American History",
-                        "uploadDate": "Dec-16",
-                        "module": "Arts and Humanities",
-                        "authors": "Hsu",
-                        "printDate": "2017",
-                        "doi": "10.1093/actrade/9780190219765.001.0001",
-                        "isbn": "9780190219765",
-                        "disciplines": "Arts and Humanities, History, Regional and National History, United States History, US History (Immigration and Ethnicity), null",
-                        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780190219765.001.0001/actrade-9780190219765",
                         "moduleName": "VSIO_SUBJECTS:AHU00010"
                       }
                     ],
@@ -1998,25 +1996,6 @@
             "children": []
           }
         ]
-      },
-      {
-        "name": "Journalism",
-        "subjectId": "AHU03568",
-        "books": [
-          {
-            "title": "Journalism",
-            "uploadDate": "Aug-14",
-            "module": "Arts and Humanities",
-            "authors": "Hargreaves",
-            "printDate": "2014",
-            "doi": "10.1093/actrade/9780199686872.001.0001",
-            "isbn": "9780199686872",
-            "disciplines": "Arts and Humanities, Journalism, null",
-            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199686872.001.0001/actrade-9780199686872",
-            "moduleName": "VSIO_SUBJECTS:AHU00010"
-          }
-        ],
-        "children": []
       },
       {
         "name": "Linguistics",
@@ -2287,6 +2266,18 @@
             "isbn": "9780198850090",
             "disciplines": "null, Arts and Humanities, Literature, Literary Studies (Plays and Playwrights), null",
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850090.001.0001/actrade-9780198850090",
+            "moduleName": "VSIO_SUBJECTS:AHU00010"
+          },
+          {
+            "title": "Postcolonialism",
+            "uploadDate": "Oct-20",
+            "module": "Arts and Humanities",
+            "authors": "Young",
+            "printDate": "2020",
+            "doi": "10.1093/actrade/9780198856832.001.0001",
+            "isbn": "9780198856832",
+            "disciplines": "null, Arts and Humanities, Literature, Literary Studies (Postcolonial Literature), null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198856832.001.0001/actrade-9780198856832",
             "moduleName": "VSIO_SUBJECTS:AHU00010"
           },
           {
@@ -2719,25 +2710,6 @@
                 "isbn": "9780198851417",
                 "disciplines": "null, Arts and Humanities, Literature, Literary Studies (Poetry and Poets), null",
                 "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198851417.001.0001/actrade-9780198851417",
-                "moduleName": "VSIO_SUBJECTS:AHU00010"
-              }
-            ],
-            "children": []
-          },
-          {
-            "name": "Literary Studies (Postcolonial Literature)",
-            "subjectId": "AHU01660",
-            "books": [
-              {
-                "title": "Postcolonialism",
-                "uploadDate": "Oct-20",
-                "module": "Arts and Humanities",
-                "authors": "Young",
-                "printDate": "2020",
-                "doi": "10.1093/actrade/9780198856832.001.0001",
-                "isbn": "9780198856832",
-                "disciplines": "null, Arts and Humanities, Literature, Literary Studies (Postcolonial Literature), null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198856832.001.0001/actrade-9780198856832",
                 "moduleName": "VSIO_SUBJECTS:AHU00010"
               }
             ],
@@ -3205,6 +3177,18 @@
             "isbn": "9780192853745",
             "disciplines": "Arts and Humanities, Philosophy, Non-Western Philosophy, South Asian Philosophy, null",
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853745.001.0001/actrade-9780192853745",
+            "moduleName": "VSIO_SUBJECTS:AHU00010"
+          },
+          {
+            "title": "Logic",
+            "uploadDate": "Oct-17",
+            "module": "Arts and Humanities",
+            "authors": "Priest",
+            "printDate": "2017",
+            "doi": "10.1093/actrade/9780198811701.001.0001",
+            "isbn": "9780198811701",
+            "disciplines": "Arts and Humanities, Philosophy, Philosophy of Mathematics and Logic, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811701.001.0001/actrade-9780198811701",
             "moduleName": "VSIO_SUBJECTS:AHU00010"
           }
         ],
@@ -3852,25 +3836,6 @@
             "children": []
           },
           {
-            "name": "Philosophy of Mathematics and Logic",
-            "subjectId": "AHU02940",
-            "books": [
-              {
-                "title": "Logic",
-                "uploadDate": "Oct-17",
-                "module": "Arts and Humanities",
-                "authors": "Priest",
-                "printDate": "2017",
-                "doi": "10.1093/actrade/9780198811701.001.0001",
-                "isbn": "9780198811701",
-                "disciplines": "Arts and Humanities, Philosophy, Philosophy of Mathematics and Logic, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811701.001.0001/actrade-9780198811701",
-                "moduleName": "VSIO_SUBJECTS:AHU00010"
-              }
-            ],
-            "children": []
-          },
-          {
             "name": "Philosophy of Mind",
             "subjectId": "AHU02950",
             "books": [
@@ -4050,29 +4015,21 @@
                 "disciplines": "null, Arts and Humanities, Philosophy, Practical Ethics, null",
                 "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198797166.001.0001/actrade-9780198797166",
                 "moduleName": "VSIO_SUBJECTS:AHU00010"
+              },
+              {
+                "title": "Medical Ethics",
+                "uploadDate": "Nov-18",
+                "module": "Arts and Humanities",
+                "authors": "Dunn, Hope",
+                "printDate": "2018",
+                "doi": "10.1093/actrade/9780198815600.001.0001",
+                "isbn": "9780198815600",
+                "disciplines": "Arts and Humanities, Philosophy, Practical Ethics, Bioethics and Medical Ethics, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198815600.001.0001/actrade-9780198815600",
+                "moduleName": "VSIO_SUBJECTS:AHU00010"
               }
             ],
-            "children": [
-              {
-                "name": "Bioethics and Medical Ethics",
-                "subjectId": "AHU03004",
-                "books": [
-                  {
-                    "title": "Medical Ethics",
-                    "uploadDate": "Nov-18",
-                    "module": "Arts and Humanities",
-                    "authors": "Dunn, Hope",
-                    "printDate": "2018",
-                    "doi": "10.1093/actrade/9780198815600.001.0001",
-                    "isbn": "9780198815600",
-                    "disciplines": "Arts and Humanities, Philosophy, Practical Ethics, Bioethics and Medical Ethics, null",
-                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198815600.001.0001/actrade-9780198815600",
-                    "moduleName": "VSIO_SUBJECTS:AHU00010"
-                  }
-                ],
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "name": "Social and Political Philosophy",
@@ -4169,6 +4126,42 @@
             "isbn": "9780195398915",
             "disciplines": "Arts and Humanities, Religion, East Asian Religions, Confucianism, null",
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780195398915.001.0001/actrade-9780195398915",
+            "moduleName": "VSIO_SUBJECTS:AHU00010"
+          },
+          {
+            "title": "Hinduism",
+            "uploadDate": "Feb-16",
+            "module": "Arts and Humanities",
+            "authors": "Knott",
+            "printDate": "2016",
+            "doi": "10.1093/actrade/9780198745549.001.0001",
+            "isbn": "9780198745549",
+            "disciplines": "Arts and Humanities, Religion, Hinduism, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745549.001.0001/actrade-9780198745549",
+            "moduleName": "VSIO_SUBJECTS:AHU00010"
+          },
+          {
+            "title": "Science and Religion",
+            "uploadDate": "Feb-22",
+            "module": "Arts and Humanities",
+            "authors": "Dixon, Shapiro",
+            "printDate": "2022",
+            "doi": "10.1093/actrade/9780198831020.001.0001",
+            "isbn": "9780198831020",
+            "disciplines": "null, Arts and Humanities, Religion, Religion and Science, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831020.001.0001/actrade-9780198831020",
+            "moduleName": "VSIO_SUBJECTS:AHU00010"
+          },
+          {
+            "title": "Sikhism",
+            "uploadDate": "Apr-16",
+            "module": "Arts and Humanities",
+            "authors": "Nesbitt",
+            "printDate": "2016",
+            "doi": "10.1093/actrade/9780198745570.001.0001",
+            "isbn": "9780198745570",
+            "disciplines": "Arts and Humanities, Religion, Sikhism, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745570.001.0001/actrade-9780198745570",
             "moduleName": "VSIO_SUBJECTS:AHU00010"
           },
           {
@@ -4436,6 +4429,18 @@
                     "disciplines": "Arts and Humanities, Religion, Christianity, Christian Churches and Denominations, Orthodox and Oriental Churches, null",
                     "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780190883270.001.0001/actrade-9780190883270",
                     "moduleName": "VSIO_SUBJECTS:AHU00010"
+                  },
+                  {
+                    "title": "Catholicism",
+                    "uploadDate": "May-17",
+                    "module": "Arts and Humanities",
+                    "authors": "O'Collins",
+                    "printDate": "2017",
+                    "doi": "10.1093/actrade/9780198796855.001.0001",
+                    "isbn": "9780198796855",
+                    "disciplines": "Arts and Humanities, Religion, Christianity, Christian Churches and Denominations, Roman Catholicism, Roman Catholic Church, null",
+                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198796855.001.0001/actrade-9780198796855",
+                    "moduleName": "VSIO_SUBJECTS:AHU00010"
                   }
                 ],
                 "children": [
@@ -4525,25 +4530,6 @@
                         "isbn": "9780199575152",
                         "disciplines": "Arts and Humanities, Religion, Christianity, Christian Churches and Denominations, Protestantism and Protestant Churches, Pentecostal Churches, null",
                         "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575152.001.0001/actrade-9780199575152",
-                        "moduleName": "VSIO_SUBJECTS:AHU00010"
-                      }
-                    ],
-                    "children": []
-                  },
-                  {
-                    "name": "Roman Catholicism, Roman Catholic Church",
-                    "subjectId": "AHU03106",
-                    "books": [
-                      {
-                        "title": "Catholicism",
-                        "uploadDate": "May-17",
-                        "module": "Arts and Humanities",
-                        "authors": "O'Collins",
-                        "printDate": "2017",
-                        "doi": "10.1093/actrade/9780198796855.001.0001",
-                        "isbn": "9780198796855",
-                        "disciplines": "Arts and Humanities, Religion, Christianity, Christian Churches and Denominations, Roman Catholicism, Roman Catholic Church, null",
-                        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198796855.001.0001/actrade-9780198796855",
                         "moduleName": "VSIO_SUBJECTS:AHU00010"
                       }
                     ],
@@ -4638,25 +4624,6 @@
                 "children": []
               }
             ]
-          },
-          {
-            "name": "Hinduism",
-            "subjectId": "AHU03250",
-            "books": [
-              {
-                "title": "Hinduism",
-                "uploadDate": "Feb-16",
-                "module": "Arts and Humanities",
-                "authors": "Knott",
-                "printDate": "2016",
-                "doi": "10.1093/actrade/9780198745549.001.0001",
-                "isbn": "9780198745549",
-                "disciplines": "Arts and Humanities, Religion, Hinduism, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745549.001.0001/actrade-9780198745549",
-                "moduleName": "VSIO_SUBJECTS:AHU00010"
-              }
-            ],
-            "children": []
           },
           {
             "name": "History of Religion",
@@ -4923,25 +4890,6 @@
             "children": []
           },
           {
-            "name": "Religion and Science",
-            "subjectId": "AHU03350",
-            "books": [
-              {
-                "title": "Science and Religion",
-                "uploadDate": "Feb-22",
-                "module": "Arts and Humanities",
-                "authors": "Dixon, Shapiro",
-                "printDate": "2022",
-                "doi": "10.1093/actrade/9780198831020.001.0001",
-                "isbn": "9780198831020",
-                "disciplines": "null, Arts and Humanities, Religion, Religion and Science, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831020.001.0001/actrade-9780198831020",
-                "moduleName": "VSIO_SUBJECTS:AHU00010"
-              }
-            ],
-            "children": []
-          },
-          {
             "name": "Religious Studies",
             "subjectId": "AHU03290",
             "books": [
@@ -5094,25 +5042,6 @@
                 "children": []
               }
             ]
-          },
-          {
-            "name": "Sikhism",
-            "subjectId": "AHU03370",
-            "books": [
-              {
-                "title": "Sikhism",
-                "uploadDate": "Apr-16",
-                "module": "Arts and Humanities",
-                "authors": "Nesbitt",
-                "printDate": "2016",
-                "doi": "10.1093/actrade/9780198745570.001.0001",
-                "isbn": "9780198745570",
-                "disciplines": "Arts and Humanities, Religion, Sikhism, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745570.001.0001/actrade-9780198745570",
-                "moduleName": "VSIO_SUBJECTS:AHU00010"
-              }
-            ],
-            "children": []
           }
         ]
       },
@@ -5306,6 +5235,18 @@
         "moduleName": "VSIO_SUBJECTS:LAW00010"
       },
       {
+        "title": "Human Rights",
+        "uploadDate": "Nov-15",
+        "module": "Law",
+        "authors": "Clapham",
+        "printDate": "2015",
+        "doi": "10.1093/actrade/9780198706168.001.0001",
+        "isbn": "9780198706168",
+        "disciplines": "Law, Human Rights and Immigration, null",
+        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706168.001.0001/actrade-9780198706168",
+        "moduleName": "VSIO_SUBJECTS:LAW00010"
+      },
+      {
         "title": "Intellectual Property",
         "uploadDate": "Mar-17",
         "module": "Law",
@@ -5315,6 +5256,18 @@
         "isbn": "9780195372779",
         "disciplines": "Law, Intellectual Property Law, null",
         "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780195372779.001.0001/actrade-9780195372779",
+        "moduleName": "VSIO_SUBJECTS:LAW00010"
+      },
+      {
+        "title": "Philosophy of Law",
+        "uploadDate": "Feb-14",
+        "module": "Law",
+        "authors": "Wacks",
+        "printDate": "2014",
+        "doi": "10.1093/actrade/9780199687008.001.0001",
+        "isbn": "9780199687008",
+        "disciplines": "Law, Jurisprudence and Philosophy of Law, null",
+        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687008.001.0001/actrade-9780199687008",
         "moduleName": "VSIO_SUBJECTS:LAW00010"
       },
       {
@@ -5394,25 +5347,6 @@
         "children": []
       },
       {
-        "name": "Human Rights and Immigration",
-        "subjectId": "LAW00320",
-        "books": [
-          {
-            "title": "Human Rights",
-            "uploadDate": "Nov-15",
-            "module": "Law",
-            "authors": "Clapham",
-            "printDate": "2015",
-            "doi": "10.1093/actrade/9780198706168.001.0001",
-            "isbn": "9780198706168",
-            "disciplines": "Law, Human Rights and Immigration, null",
-            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706168.001.0001/actrade-9780198706168",
-            "moduleName": "VSIO_SUBJECTS:LAW00010"
-          }
-        ],
-        "children": []
-      },
-      {
         "name": "International Law",
         "subjectId": "LAW00340",
         "books": [
@@ -5438,25 +5372,6 @@
             "isbn": "9780198794189",
             "disciplines": "Law, International Law, Public International Law, International Environmental Law, null",
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198794189.001.0001/actrade-9780198794189",
-            "moduleName": "VSIO_SUBJECTS:LAW00010"
-          }
-        ],
-        "children": []
-      },
-      {
-        "name": "Jurisprudence and Philosophy of Law",
-        "subjectId": "LAW00390",
-        "books": [
-          {
-            "title": "Philosophy of Law",
-            "uploadDate": "Feb-14",
-            "module": "Law",
-            "authors": "Wacks",
-            "printDate": "2014",
-            "doi": "10.1093/actrade/9780199687008.001.0001",
-            "isbn": "9780199687008",
-            "disciplines": "Law, Jurisprudence and Philosophy of Law, null",
-            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687008.001.0001/actrade-9780199687008",
             "moduleName": "VSIO_SUBJECTS:LAW00010"
           }
         ],
@@ -5552,6 +5467,30 @@
         "isbn": "9780198753902",
         "disciplines": "Medicine and Health, Pathology, Immunology, null",
         "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753902.001.0001/actrade-9780198753902",
+        "moduleName": "VSIO_SUBJECTS:MED00010"
+      },
+      {
+        "title": "Drugs",
+        "uploadDate": "Jun-16",
+        "module": "Medicine and Health",
+        "authors": "Iversen",
+        "printDate": "2016",
+        "doi": "10.1093/actrade/9780198745792.001.0001",
+        "isbn": "9780198745792",
+        "disciplines": "Medicine and Health, Pharmacology, null",
+        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745792.001.0001/actrade-9780198745792",
+        "moduleName": "VSIO_SUBJECTS:MED00010"
+      },
+      {
+        "title": "Psychiatry",
+        "uploadDate": "Oct-18",
+        "module": "Medicine and Health",
+        "authors": "Burns",
+        "printDate": "2018",
+        "doi": "10.1093/actrade/9780198826200.001.0001",
+        "isbn": "9780198826200",
+        "disciplines": "Medicine and Health, Psychiatry, null",
+        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826200.001.0001/actrade-9780198826200",
         "moduleName": "VSIO_SUBJECTS:MED00010"
       }
     ],
@@ -5674,25 +5613,6 @@
         "children": []
       },
       {
-        "name": "Pharmacology",
-        "subjectId": "MED00410",
-        "books": [
-          {
-            "title": "Drugs",
-            "uploadDate": "Jun-16",
-            "module": "Medicine and Health",
-            "authors": "Iversen",
-            "printDate": "2016",
-            "doi": "10.1093/actrade/9780198745792.001.0001",
-            "isbn": "9780198745792",
-            "disciplines": "Medicine and Health, Pharmacology, null",
-            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745792.001.0001/actrade-9780198745792",
-            "moduleName": "VSIO_SUBJECTS:MED00010"
-          }
-        ],
-        "children": []
-      },
-      {
         "name": "Preclinical Medicine",
         "subjectId": "MED00770",
         "books": [
@@ -5730,25 +5650,6 @@
             "isbn": "9780199665563",
             "disciplines": "Medicine and Health, Preclinical Medicine, Reproduction, Growth and Development, null",
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665563.001.0001/actrade-9780199665563",
-            "moduleName": "VSIO_SUBJECTS:MED00010"
-          }
-        ],
-        "children": []
-      },
-      {
-        "name": "Psychiatry",
-        "subjectId": "MED00800",
-        "books": [
-          {
-            "title": "Psychiatry",
-            "uploadDate": "Oct-18",
-            "module": "Medicine and Health",
-            "authors": "Burns",
-            "printDate": "2018",
-            "doi": "10.1093/actrade/9780198826200.001.0001",
-            "isbn": "9780198826200",
-            "disciplines": "Medicine and Health, Psychiatry, null",
-            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826200.001.0001/actrade-9780198826200",
             "moduleName": "VSIO_SUBJECTS:MED00010"
           }
         ],
@@ -5909,6 +5810,18 @@
             "moduleName": "VSIO_SUBJECTS:SCI00010"
           },
           {
+            "title": "Marine Biology",
+            "uploadDate": "Feb-20",
+            "module": "Science and Mathematics",
+            "authors": "Mladenov",
+            "printDate": "2020",
+            "doi": "10.1093/actrade/9780198841715.001.0001",
+            "isbn": "9780198841715",
+            "disciplines": "null, Science and Mathematics, Biological Sciences, Aquatic Biology, Marine and Estuarine Biology, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198841715.001.0001/actrade-9780198841715",
+            "moduleName": "VSIO_SUBJECTS:SCI00010"
+          },
+          {
             "title": "Biometrics",
             "uploadDate": "Nov-18",
             "module": "Science and Mathematics",
@@ -5946,25 +5859,6 @@
           }
         ],
         "children": [
-          {
-            "name": "Marine and Estuarine Biology",
-            "subjectId": "SCI01170",
-            "books": [
-              {
-                "title": "Marine Biology",
-                "uploadDate": "Feb-20",
-                "module": "Science and Mathematics",
-                "authors": "Mladenov",
-                "printDate": "2020",
-                "doi": "10.1093/actrade/9780198841715.001.0001",
-                "isbn": "9780198841715",
-                "disciplines": "null, Science and Mathematics, Biological Sciences, Aquatic Biology, Marine and Estuarine Biology, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198841715.001.0001/actrade-9780198841715",
-                "moduleName": "VSIO_SUBJECTS:SCI00010"
-              }
-            ],
-            "children": []
-          },
           {
             "name": "Biochemistry",
             "subjectId": "SCI00980",
@@ -6220,29 +6114,21 @@
                 "disciplines": "Science and Mathematics, Biological Sciences, Microbiology, null",
                 "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198701262.001.0001/actrade-9780198701262",
                 "moduleName": "VSIO_SUBJECTS:SCI00010"
+              },
+              {
+                "title": "Viruses",
+                "uploadDate": "Mar-18",
+                "module": "Science and Mathematics",
+                "authors": "Crawford",
+                "printDate": "2018",
+                "doi": "10.1093/actrade/9780198811718.001.0001",
+                "isbn": "9780198811718",
+                "disciplines": "null, Science and Mathematics, Biological Sciences, Microbiology, Virology, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811718.001.0001/actrade-9780198811718",
+                "moduleName": "VSIO_SUBJECTS:SCI00010"
               }
             ],
-            "children": [
-              {
-                "name": "Virology",
-                "subjectId": "SCI02285",
-                "books": [
-                  {
-                    "title": "Viruses",
-                    "uploadDate": "Mar-18",
-                    "module": "Science and Mathematics",
-                    "authors": "Crawford",
-                    "printDate": "2018",
-                    "doi": "10.1093/actrade/9780198811718.001.0001",
-                    "isbn": "9780198811718",
-                    "disciplines": "null, Science and Mathematics, Biological Sciences, Microbiology, Virology, null",
-                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811718.001.0001/actrade-9780198811718",
-                    "moduleName": "VSIO_SUBJECTS:SCI00010"
-                  }
-                ],
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "name": "Molecular and Cell Biology",
@@ -8232,6 +8118,18 @@
                 "moduleName": "VSIO_SUBJECTS:SCI00010"
               },
               {
+                "title": "Consciousness",
+                "uploadDate": "Oct-17",
+                "module": "Science and Mathematics",
+                "authors": "Blackmore",
+                "printDate": "2017",
+                "doi": "10.1093/actrade/9780198794738.001.0001",
+                "isbn": "9780198794738",
+                "disciplines": "Science and Mathematics, Psychology, Cognitive Psychology, Consciousness, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198794738.001.0001/actrade-9780198794738",
+                "moduleName": "VSIO_SUBJECTS:SCI00010"
+              },
+              {
                 "title": "Learning",
                 "uploadDate": "Jul-16",
                 "module": "Science and Mathematics",
@@ -8257,25 +8155,6 @@
               }
             ],
             "children": [
-              {
-                "name": "Consciousness",
-                "subjectId": "SCI02139",
-                "books": [
-                  {
-                    "title": "Consciousness",
-                    "uploadDate": "Oct-17",
-                    "module": "Science and Mathematics",
-                    "authors": "Blackmore",
-                    "printDate": "2017",
-                    "doi": "10.1093/actrade/9780198794738.001.0001",
-                    "isbn": "9780198794738",
-                    "disciplines": "Science and Mathematics, Psychology, Cognitive Psychology, Consciousness, null",
-                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198794738.001.0001/actrade-9780198794738",
-                    "moduleName": "VSIO_SUBJECTS:SCI00010"
-                  }
-                ],
-                "children": []
-              },
               {
                 "name": "Psychology of Intelligence and Reasoning",
                 "subjectId": "SCI02132",
@@ -8447,6 +8326,18 @@
         "moduleName": "VSIO_SUBJECTS:SOC00010"
       },
       {
+        "title": "Education",
+        "uploadDate": "Sep-21",
+        "module": "Social Sciences",
+        "authors": "Thomas",
+        "printDate": "2021",
+        "doi": "10.1093/actrade/9780198859086.001.0001",
+        "isbn": "9780198859086",
+        "disciplines": "null, Social Sciences, Education, null",
+        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198859086.001.0001/actrade-9780198859086",
+        "moduleName": "VSIO_SUBJECTS:SOC00010"
+      },
+      {
         "title": "Risk",
         "uploadDate": "Sep-13",
         "module": "Social Sciences",
@@ -8477,6 +8368,18 @@
         "subjectId": "SOC00020",
         "books": [
           {
+            "title": "Human Evolution",
+            "uploadDate": "Jun-19",
+            "module": "Social Sciences",
+            "authors": "Wood",
+            "printDate": "2019",
+            "doi": "10.1093/actrade/9780198831747.001.0001",
+            "isbn": "9780198831747",
+            "disciplines": "Social Sciences, Anthropology, Human Evolution, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831747.001.0001/actrade-9780198831747",
+            "moduleName": "VSIO_SUBJECTS:SOC00010"
+          },
+          {
             "title": "Social and Cultural Anthropology",
             "uploadDate": "Sep-13",
             "module": "Social Sciences",
@@ -8489,27 +8392,7 @@
             "moduleName": "VSIO_SUBJECTS:SOC00010"
           }
         ],
-        "children": [
-          {
-            "name": "Human Evolution",
-            "subjectId": "SOC00030",
-            "books": [
-              {
-                "title": "Human Evolution",
-                "uploadDate": "Jun-19",
-                "module": "Social Sciences",
-                "authors": "Wood",
-                "printDate": "2019",
-                "doi": "10.1093/actrade/9780198831747.001.0001",
-                "isbn": "9780198831747",
-                "disciplines": "Social Sciences, Anthropology, Human Evolution, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831747.001.0001/actrade-9780198831747",
-                "moduleName": "VSIO_SUBJECTS:SOC00010"
-              }
-            ],
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "name": "Business and Management",
@@ -8564,6 +8447,18 @@
             "moduleName": "VSIO_SUBJECTS:SOC00010"
           },
           {
+            "title": "Innovation",
+            "uploadDate": "Aug-18",
+            "module": "Social Sciences",
+            "authors": "Dodgson, Gann",
+            "printDate": "2018",
+            "doi": "10.1093/actrade/9780198825043.001.0001",
+            "isbn": "9780198825043",
+            "disciplines": "Social Sciences, Business and Management, Innovation, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825043.001.0001/actrade-9780198825043",
+            "moduleName": "VSIO_SUBJECTS:SOC00010"
+          },
+          {
             "title": "Organizations",
             "uploadDate": "Sep-13",
             "module": "Social Sciences",
@@ -8589,25 +8484,6 @@
           }
         ],
         "children": [
-          {
-            "name": "Innovation",
-            "subjectId": "SOC00290",
-            "books": [
-              {
-                "title": "Innovation",
-                "uploadDate": "Aug-18",
-                "module": "Social Sciences",
-                "authors": "Dodgson, Gann",
-                "printDate": "2018",
-                "doi": "10.1093/actrade/9780198825043.001.0001",
-                "isbn": "9780198825043",
-                "disciplines": "Social Sciences, Business and Management, Innovation, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825043.001.0001/actrade-9780198825043",
-                "moduleName": "VSIO_SUBJECTS:SOC00010"
-              }
-            ],
-            "children": []
-          },
           {
             "name": "Management and Management Techniques",
             "subjectId": "SOC00320",
@@ -8939,6 +8815,18 @@
                 "moduleName": "VSIO_SUBJECTS:SOC00010"
               },
               {
+                "title": "Globalization",
+                "uploadDate": "May-20",
+                "module": "Social Sciences",
+                "authors": "Steger",
+                "printDate": "2020",
+                "doi": "10.1093/actrade/9780198849452.001.0001",
+                "isbn": "9780198849452",
+                "disciplines": "null, Social Sciences, Economics, International Economics, International Relations and International Political Economy, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198849452.001.0001/actrade-9780198849452",
+                "moduleName": "VSIO_SUBJECTS:SOC00010"
+              },
+              {
                 "title": "The World Trade Organization",
                 "uploadDate": "Sep-13",
                 "module": "Social Sciences",
@@ -8951,48 +8839,9 @@
                 "moduleName": "VSIO_SUBJECTS:SOC00010"
               }
             ],
-            "children": [
-              {
-                "name": "International Relations and International Political Economy",
-                "subjectId": "SOC01450",
-                "books": [
-                  {
-                    "title": "Globalization",
-                    "uploadDate": "May-20",
-                    "module": "Social Sciences",
-                    "authors": "Steger",
-                    "printDate": "2020",
-                    "doi": "10.1093/actrade/9780198849452.001.0001",
-                    "isbn": "9780198849452",
-                    "disciplines": "null, Social Sciences, Economics, International Economics, International Relations and International Political Economy, null",
-                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198849452.001.0001/actrade-9780198849452",
-                    "moduleName": "VSIO_SUBJECTS:SOC00010"
-                  }
-                ],
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
-      },
-      {
-        "name": "Education",
-        "subjectId": "SOC01940",
-        "books": [
-          {
-            "title": "Education",
-            "uploadDate": "Sep-21",
-            "module": "Social Sciences",
-            "authors": "Thomas",
-            "printDate": "2021",
-            "doi": "10.1093/actrade/9780198859086.001.0001",
-            "isbn": "9780198859086",
-            "disciplines": "null, Social Sciences, Education, null",
-            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198859086.001.0001/actrade-9780198859086",
-            "moduleName": "VSIO_SUBJECTS:SOC00010"
-          }
-        ],
-        "children": []
       },
       {
         "name": "Environment",
@@ -9011,6 +8860,18 @@
             "moduleName": "VSIO_SUBJECTS:SOC00010"
           },
           {
+            "title": "Climate Change",
+            "uploadDate": "Aug-21",
+            "module": "Social Sciences",
+            "authors": "Maslin",
+            "printDate": "2021",
+            "doi": "10.1093/actrade/9780198867869.001.0001",
+            "isbn": "9780198867869",
+            "disciplines": "null, Social Sciences, Environment, Climate Change, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198867869.001.0001/actrade-9780198867869",
+            "moduleName": "VSIO_SUBJECTS:SOC00010"
+          },
+          {
             "title": "Global Catastrophes",
             "uploadDate": "Aug-14",
             "module": "Social Sciences",
@@ -9023,27 +8884,7 @@
             "moduleName": "VSIO_SUBJECTS:SOC00010"
           }
         ],
-        "children": [
-          {
-            "name": "Climate Change",
-            "subjectId": "SOC02120",
-            "books": [
-              {
-                "title": "Climate Change",
-                "uploadDate": "Aug-21",
-                "module": "Social Sciences",
-                "authors": "Maslin",
-                "printDate": "2021",
-                "doi": "10.1093/actrade/9780198867869.001.0001",
-                "isbn": "9780198867869",
-                "disciplines": "null, Social Sciences, Environment, Climate Change, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198867869.001.0001/actrade-9780198867869",
-                "moduleName": "VSIO_SUBJECTS:SOC00010"
-              }
-            ],
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "name": "Human Geography",
@@ -9185,6 +9026,18 @@
             "moduleName": "VSIO_SUBJECTS:SOC00010"
           },
           {
+            "title": "The European Union",
+            "uploadDate": "Jan-18",
+            "module": "Social Sciences",
+            "authors": "Usherwood, Pinder",
+            "printDate": "2018",
+            "doi": "10.1093/actrade/9780198808855.001.0001",
+            "isbn": "9780198808855",
+            "disciplines": "Social Sciences, Politics, European Union, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198808855.001.0001/actrade-9780198808855",
+            "moduleName": "VSIO_SUBJECTS:SOC00010"
+          },
+          {
             "title": "Modern India",
             "uploadDate": "Nov-17",
             "module": "Social Sciences",
@@ -9219,28 +9072,21 @@
             "disciplines": "Social Sciences, Politics, State and Local Government, null",
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802538.001.0001/actrade-9780192802538",
             "moduleName": "VSIO_SUBJECTS:SOC00010"
+          },
+          {
+            "title": "British Politics",
+            "uploadDate": "Jun-20",
+            "module": "Social Sciences",
+            "authors": "Wright",
+            "printDate": "2020",
+            "doi": "10.1093/actrade/9780198827320.001.0001",
+            "isbn": "9780198827320",
+            "disciplines": "null, Social Sciences, Politics, UK Politics, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198827320.001.0001/actrade-9780198827320",
+            "moduleName": "VSIO_SUBJECTS:SOC00010"
           }
         ],
         "children": [
-          {
-            "name": "European Union",
-            "subjectId": "SOC02290",
-            "books": [
-              {
-                "title": "The European Union",
-                "uploadDate": "Jan-18",
-                "module": "Social Sciences",
-                "authors": "Usherwood, Pinder",
-                "printDate": "2018",
-                "doi": "10.1093/actrade/9780198808855.001.0001",
-                "isbn": "9780198808855",
-                "disciplines": "Social Sciences, Politics, European Union, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198808855.001.0001/actrade-9780198808855",
-                "moduleName": "VSIO_SUBJECTS:SOC00010"
-              }
-            ],
-            "children": []
-          },
           {
             "name": "International Relations",
             "subjectId": "SOC02300",
@@ -9623,25 +9469,6 @@
             "children": []
           },
           {
-            "name": "UK Politics",
-            "subjectId": "SOC02410",
-            "books": [
-              {
-                "title": "British Politics",
-                "uploadDate": "Jun-20",
-                "module": "Social Sciences",
-                "authors": "Wright",
-                "printDate": "2020",
-                "doi": "10.1093/actrade/9780198827320.001.0001",
-                "isbn": "9780198827320",
-                "disciplines": "null, Social Sciences, Politics, UK Politics, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198827320.001.0001/actrade-9780198827320",
-                "moduleName": "VSIO_SUBJECTS:SOC00010"
-              }
-            ],
-            "children": []
-          },
-          {
             "name": "US Politics",
             "subjectId": "SOC02420",
             "books": [
@@ -9787,6 +9614,18 @@
             "moduleName": "VSIO_SUBJECTS:SOC00010"
           },
           {
+            "title": "Racism",
+            "uploadDate": "Mar-20",
+            "module": "Social Sciences",
+            "authors": "Rattansi",
+            "printDate": "2020",
+            "doi": "10.1093/actrade/9780198834793.001.0001",
+            "isbn": "9780198834793",
+            "disciplines": "null, Social Sciences, Sociology, Race and Ethnicity, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198834793.001.0001/actrade-9780198834793",
+            "moduleName": "VSIO_SUBJECTS:SOC00010"
+          },
+          {
             "title": "Multiculturalism",
             "uploadDate": "Sep-13",
             "module": "Social Sciences",
@@ -9881,25 +9720,6 @@
                 "isbn": "9780198811787",
                 "disciplines": "null, Social Sciences, Sociology, Migration Studies, null",
                 "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811787.001.0001/actrade-9780198811787",
-                "moduleName": "VSIO_SUBJECTS:SOC00010"
-              }
-            ],
-            "children": []
-          },
-          {
-            "name": "Race and Ethnicity",
-            "subjectId": "SOC02680",
-            "books": [
-              {
-                "title": "Racism",
-                "uploadDate": "Mar-20",
-                "module": "Social Sciences",
-                "authors": "Rattansi",
-                "printDate": "2020",
-                "doi": "10.1093/actrade/9780198834793.001.0001",
-                "isbn": "9780198834793",
-                "disciplines": "null, Social Sciences, Sociology, Race and Ethnicity, null",
-                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198834793.001.0001/actrade-9780198834793",
                 "moduleName": "VSIO_SUBJECTS:SOC00010"
               }
             ],

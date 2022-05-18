@@ -6,6 +6,13 @@ const rawSubjects = JSON.parse(
   readFileSync("./data/books-by-subject.json", "utf-8")
 ) as RawSubject[];
 
+const oldTree: Subject = {
+  name: "Root",
+  subjectId: "root",
+  children: rawSubjects.map(convertRawSubjectToSubject),
+  books: [],
+};
+
 const newTree: Subject = {
   name: "Root",
   subjectId: "root",
@@ -55,7 +62,10 @@ function traverseTree(subjects: Subject[], parent: Subject) {
 
 console.log("\n\n");
 
-traverseTree(rawSubjects.map(convertRawSubjectToSubject), newTree);
+const purgedDulplicateEditions = purgeDuplicateBooks(oldTree);
+console.log(`Purged ${purgedDulplicateEditions} more outdated editions`);
+
+traverseTree(oldTree.children, newTree);
 console.log(
   `Purged: ${purgedSubjectsWithOnlyOneBook} subjects with only one book`
 );
@@ -63,9 +73,6 @@ console.log(
 console.log(
   `Purged ${purgedSubjectsWithOnlyOneSubCategory} subjects with only one child subject and no books`
 );
-
-const purgedDulplicateEditions = purgeDuplicateBooks(newTree);
-console.log(`Purged ${purgedDulplicateEditions} more outdated editions`);
 
 writeFileSync(
   "./data/purged-subjects-with-books.json",
