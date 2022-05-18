@@ -1,5 +1,5 @@
 <script lang="ts">
-  import bookData from "../data/books-by-subject.json";
+  import bookData from "../data/purged-subjects-with-books.json";
   import Tree from "./Tree.svelte";
 </script>
 

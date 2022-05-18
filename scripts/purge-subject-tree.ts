@@ -48,7 +48,7 @@ console.log(`\n\nPurged: ${purged} subjects with only one book`);
 
 writeFileSync(
   "./data/purged-subjects-with-books.json",
-  JSON.stringify(newTree, null, 2)
+  JSON.stringify(newTree.children, null, 2)
 );
 
 function addSubjectWithoutChildren(

@@ -33,7 +33,7 @@
           <li>
             <span>
               <span class="no-arrow" />
-              <a target="_blank" href={book.LINK}>{book.Title}</a>
+              <a target="_blank" href={book.url}>{book.title}</a>
             </span>
           </li>
         {/each}
