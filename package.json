@@ -10,7 +10,8 @@
     "check": "svelte-check --tsconfig ./tsconfig.json",
     "fetch-books": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/fetch-books.ts",
     "process-subject-books": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/process-subject-books.ts",
-    "parse-subjects": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/parse-subjects.ts"
+    "parse-subjects": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/parse-subjects.ts",
+    "purge-subject-tree": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/purge-subject-tree.ts"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
