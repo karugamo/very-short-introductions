@@ -60,7 +60,9 @@
   }
 
   .subcategory {
-    border: 1px solid black;
+    border: 2px solid #574677;
+    color: #40315c;
+    border-radius: 4px;
     background-color: white;
     height: 200px;
     box-sizing: border-box;
@@ -74,5 +76,6 @@
 
   .image {
     height: 200px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
   }
 </style>
