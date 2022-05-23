@@ -46,7 +46,7 @@
   }
 
   .subcategorycount {
-    color: grey;
+    color: #5F787A;
   }
 
   :root {
@@ -61,9 +61,9 @@
 
   .subcategory {
     border: 2px solid #574677;
-    color: #40315c;
+    color: var(--primary-text);
     border-radius: 4px;
-    background-color: white;
+    background-color: #f0f0f0;
     height: 200px;
     box-sizing: border-box;
     width: 130px;
@@ -72,7 +72,7 @@
     text-align: center;
     align-items: center;
     cursor: pointer;
-
+    padding: 4px;
   }
 
   .image {

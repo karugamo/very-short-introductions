@@ -62,6 +62,14 @@
 </main>
 
 <style>
+  :root {
+    --primary-text: #40315c;
+  }
+
+  a {
+    color: var(--primary-text);
+  }
+
   .separator {
     margin: 0 0.5em;
   }
