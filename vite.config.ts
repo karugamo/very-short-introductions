@@ -4,5 +4,5 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [svelte()],
-  base: "/very-short-introductions",
+  base: "/very-short-introductions/",
 });
