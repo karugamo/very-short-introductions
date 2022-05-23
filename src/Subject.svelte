@@ -4,11 +4,26 @@
   export let onSelectSubject;
 
   const { name, children, books = [], subjectBook } = tree as Subject;
+
+  function sumAllBooks(subject: Subject) {
+    return (
+      (subject.books?.length ?? 0) +
+      subject.children.reduce((sum, child) => sum + sumAllBooks(child), 0)
+    );
+  }
 </script>
 
 <section>
-  <h3>{name}</h3>
+  <h3>{name} ({sumAllBooks(tree)})</h3>
   <div class="container">
+    {#each children as child}
+      <div class="subcategory" on:click={() => onSelectSubject(child)}>
+        <div>
+          <div class="subcategoryname">{child.name}</div>
+          <div class="subcategorycount">({sumAllBooks(child)})</div>
+        </div>
+      </div>
+    {/each}
     {#each books as book}
       <div class="image">
         <a href={book.url} target="_blank">
@@ -21,19 +36,22 @@
         >
       </div>
     {/each}
-    {#each children as child}
-      <div class="subcategory" on:click={() => onSelectSubject(child)}>
-        <h4>{child.name}</h4>
-      </div>
-    {/each}
   </div>
 </section>
 
 <style>
+  .subcategoryname {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+
+  .subcategorycount {
+    color: grey;
+  }
+
   :root {
     font-family: sans-serif;
   }
-
 
   .container {
     display: flex;
