@@ -11,12 +11,14 @@
     "fetch-books": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/fetch-books.ts",
     "process-subject-books": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/process-subject-books.ts",
     "parse-subjects": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/parse-subjects.ts",
-    "purge-subject-tree": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/purge-subject-tree.ts"
+    "purge-subject-tree": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/purge-subject-tree.ts",
+    "books-by-country": "node --loader ts-node/esm/transpile-only --no-warnings ./scripts/books-by-country.ts"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
     "@tsconfig/svelte": "^2.0.1",
     "@types/node": "^17.0.34",
+    "country-list": "^2.2.0",
     "csv-string": "^4.1.0",
     "got": "^12.0.4",
     "jsdom": "^19.0.0",
@@ -29,6 +31,8 @@
     "vite": "^2.9.9"
   },
   "dependencies": {
-    "@types/jsdom": "^16.2.14"
+    "@types/country-list": "^2.1.0",
+    "@types/jsdom": "^16.2.14",
+    "i18n-nationality": "^1.2.0"
   }
 }
