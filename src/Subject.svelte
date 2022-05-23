@@ -32,19 +32,41 @@
             alt={book.title}
             height="200"
             width="130"
-          /></a
-        >
+          />
+        </a>
+        {#if book.goodreadsEntry}<div class="rating">
+            <a
+              href={`https://goodreads.com${book.goodreadsEntry?.url}`}
+              target="_blank">{book.goodreadsEntry?.rating} ★</a
+            >
+          </div>{/if}
       </div>
     {/each}
   </div>
 </section>
 
 <style>
+  .rating {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 4px;
+    text-align: right;
+    box-sizing: border-box;
+    width: 100%;
+    color: var(--primary-text);
+  }
+
+  .rating a {
+    color: var(--primary-text);
+    text-decoration: none;  
+  }
   .child {
+    position: relative;
     transition: all 0.2s ease-in-out;
   }
   .child:hover {
-    transform: translate3d(0, -5px, 0)
+    transform: translate3d(0, -5px, 0);
   }
 
   .subcategoryname {
@@ -53,7 +75,7 @@
   }
 
   .subcategorycount {
-    color: #5F787A;
+    color: #5f787a;
   }
 
   :root {
