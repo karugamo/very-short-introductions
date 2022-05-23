@@ -37,7 +37,7 @@
         {#if book.goodreadsEntry}<div class="rating">
             <a
               href={`https://goodreads.com${book.goodreadsEntry?.url}`}
-              target="_blank">{book.goodreadsEntry?.rating} ★</a
+              target="_blank">{book.goodreadsEntry?.rating?.toFixed(2)} ★</a
             >
           </div>{/if}
       </div>
