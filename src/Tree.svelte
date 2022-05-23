@@ -25,7 +25,7 @@
       <span on:click={toggleExpansion}>
         <span class="arrow" class:arrowDown>&#x25b6</span>
         {#if subjectBook}
-          <a target="_blank" href={subjectBook.url}>{name}</a>
+          <a target="_blank" href={subjectBook.goodreadsEntry ? `https://goodreads.com/${subjectBook.goodreadsEntry.url}` : subjectBook.url}>{name}</a>
           {#if subjectBook.goodreadsEntry}({subjectBook.goodreadsEntry.rating.toFixed(
               2
             )}){/if}

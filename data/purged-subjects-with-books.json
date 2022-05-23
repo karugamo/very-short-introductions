@@ -48,6 +48,25 @@
         "subjectId": "AHU00020",
         "books": [
           {
+            "title": "Archaeology",
+            "uploadDate": "Sep-13",
+            "module": "Arts and Humanities",
+            "authors": "Bahn",
+            "printDate": "2012",
+            "doi": "10.1093/actrade/9780199657438.001.0001",
+            "isbn": "9780199657438",
+            "disciplines": "Arts and Humanities, Archaeology, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199657438.001.0001/actrade-9780199657438",
+            "moduleName": "VSIO_SUBJECTS:AHU00010",
+            "goodreadsEntry": {
+              "rating": 3.56,
+              "numberOfRatings": 501,
+              "url": "/book/show/689738.Archaeology",
+              "title": "Archaeology",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348056105i/689738._SY75_.jpg"
+            }
+          },
+          {
             "title": "Biblical Archaeology",
             "uploadDate": "Sep-13",
             "module": "Arts and Humanities",
@@ -67,31 +86,31 @@
             }
           }
         ],
-        "children": [],
-        "subjectBook": {
-          "title": "Archaeology",
-          "uploadDate": "Sep-13",
-          "module": "Arts and Humanities",
-          "authors": "Bahn",
-          "printDate": "2012",
-          "doi": "10.1093/actrade/9780199657438.001.0001",
-          "isbn": "9780199657438",
-          "disciplines": "Arts and Humanities, Archaeology, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199657438.001.0001/actrade-9780199657438",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": {
-            "rating": 3.56,
-            "numberOfRatings": 501,
-            "url": "/book/show/689738.Archaeology",
-            "title": "Archaeology",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348056105i/689738._SY75_.jpg"
-          }
-        }
+        "children": []
       },
       {
         "name": "Architecture",
         "subjectId": "AHU00200",
         "books": [
+          {
+            "title": "Architecture",
+            "uploadDate": "Sep-13",
+            "module": "Arts and Humanities",
+            "authors": "Ballantyne",
+            "printDate": "2002",
+            "doi": "10.1093/actrade/9780192801791.001.0001",
+            "isbn": "9780192801791",
+            "disciplines": "Arts and Humanities, Architecture, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801791.001.0001/actrade-9780192801791",
+            "moduleName": "VSIO_SUBJECTS:AHU00010",
+            "goodreadsEntry": {
+              "rating": 3.41,
+              "numberOfRatings": 276,
+              "url": "/book/show/784169.Architecture",
+              "title": "Architecture",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347617917i/784169._SY75_.jpg"
+            }
+          },
           {
             "title": "Modern Architecture",
             "uploadDate": "Nov-18",
@@ -125,26 +144,7 @@
             }
           }
         ],
-        "children": [],
-        "subjectBook": {
-          "title": "Architecture",
-          "uploadDate": "Sep-13",
-          "module": "Arts and Humanities",
-          "authors": "Ballantyne",
-          "printDate": "2002",
-          "doi": "10.1093/actrade/9780192801791.001.0001",
-          "isbn": "9780192801791",
-          "disciplines": "Arts and Humanities, Architecture, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801791.001.0001/actrade-9780192801791",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": {
-            "rating": 3.41,
-            "numberOfRatings": 276,
-            "url": "/book/show/784169.Architecture",
-            "title": "Architecture",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347617917i/784169._SY75_.jpg"
-          }
-        }
+        "children": []
       },
       {
         "name": "Art",
@@ -636,6 +636,25 @@
                 }
               },
               {
+                "title": "Classical Literature",
+                "uploadDate": "Mar-14",
+                "module": "Arts and Humanities",
+                "authors": "Allan",
+                "printDate": "2014",
+                "doi": "10.1093/actrade/9780199665457.001.0001",
+                "isbn": "9780199665457",
+                "disciplines": "Arts and Humanities, Classical Studies, Classical Literature, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665457.001.0001/actrade-9780199665457",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": {
+                  "rating": 3.98,
+                  "numberOfRatings": 127,
+                  "url": "/book/show/18782676-classical-literature",
+                  "title": "Classical Literature",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405906885i/18782676._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Herodotus",
                 "uploadDate": "Sep-13",
                 "module": "Arts and Humanities",
@@ -689,26 +708,7 @@
                 ],
                 "children": []
               }
-            ],
-            "subjectBook": {
-              "title": "Classical Literature",
-              "uploadDate": "Mar-14",
-              "module": "Arts and Humanities",
-              "authors": "Allan",
-              "printDate": "2014",
-              "doi": "10.1093/actrade/9780199665457.001.0001",
-              "isbn": "9780199665457",
-              "disciplines": "Arts and Humanities, Classical Studies, Classical Literature, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665457.001.0001/actrade-9780199665457",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": {
-                "rating": 3.98,
-                "numberOfRatings": 127,
-                "url": "/book/show/18782676-classical-literature",
-                "title": "Classical Literature",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405906885i/18782676._SY75_.jpg"
-              }
-            }
+            ]
           }
         ]
       },
@@ -780,6 +780,25 @@
         "name": "History",
         "subjectId": "AHU00830",
         "books": [
+          {
+            "title": "History",
+            "uploadDate": "Sep-13",
+            "module": "Arts and Humanities",
+            "authors": "Arnold",
+            "printDate": "2000",
+            "doi": "10.1093/actrade/9780192853523.001.0001",
+            "isbn": "9780192853523",
+            "disciplines": "Arts and Humanities, History, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853523.001.0001/actrade-9780192853523",
+            "moduleName": "VSIO_SUBJECTS:AHU00010",
+            "goodreadsEntry": {
+              "rating": 3.78,
+              "numberOfRatings": 1653,
+              "url": "/book/show/74635.History",
+              "title": "History",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388194514i/74635._SY75_.jpg"
+            }
+          },
           {
             "title": "The Cold War",
             "uploadDate": "Feb-21",
@@ -2641,31 +2660,31 @@
             ],
             "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "History",
-          "uploadDate": "Sep-13",
-          "module": "Arts and Humanities",
-          "authors": "Arnold",
-          "printDate": "2000",
-          "doi": "10.1093/actrade/9780192853523.001.0001",
-          "isbn": "9780192853523",
-          "disciplines": "Arts and Humanities, History, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853523.001.0001/actrade-9780192853523",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": {
-            "rating": 3.78,
-            "numberOfRatings": 1653,
-            "url": "/book/show/74635.History",
-            "title": "History",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388194514i/74635._SY75_.jpg"
-          }
-        }
+        ]
       },
       {
         "name": "Linguistics",
         "subjectId": "AHU01290",
         "books": [
+          {
+            "title": "Linguistics",
+            "uploadDate": "Sep-13",
+            "module": "Arts and Humanities",
+            "authors": "Matthews",
+            "printDate": "2003",
+            "doi": "10.1093/actrade/9780192801487.001.0001",
+            "isbn": "9780192801487",
+            "disciplines": "Arts and Humanities, Linguistics, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801487.001.0001/actrade-9780192801487",
+            "moduleName": "VSIO_SUBJECTS:AHU00010",
+            "goodreadsEntry": {
+              "rating": 3.29,
+              "numberOfRatings": 664,
+              "url": "/book/show/1473067.Linguistics",
+              "title": "Linguistics",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347564312i/1473067._SY75_.jpg"
+            }
+          },
           {
             "title": "Dyslexia",
             "uploadDate": "May-19",
@@ -2780,43 +2799,24 @@
                 "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724995.001.0001/actrade-9780198724995",
                 "moduleName": "VSIO_SUBJECTS:AHU00010",
                 "goodreadsEntry": null
+              },
+              {
+                "title": "Sociolinguistics",
+                "uploadDate": "Sep-13",
+                "module": "Arts and Humanities",
+                "authors": "Edwards",
+                "printDate": "2013",
+                "doi": "10.1093/actrade/9780199858613.001.0001",
+                "isbn": "9780199858613",
+                "disciplines": "Arts and Humanities, Linguistics, Sociolinguistics, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858613.001.0001/actrade-9780199858613",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": null
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Sociolinguistics",
-              "uploadDate": "Sep-13",
-              "module": "Arts and Humanities",
-              "authors": "Edwards",
-              "printDate": "2013",
-              "doi": "10.1093/actrade/9780199858613.001.0001",
-              "isbn": "9780199858613",
-              "disciplines": "Arts and Humanities, Linguistics, Sociolinguistics, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858613.001.0001/actrade-9780199858613",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": null
-            }
+            "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Linguistics",
-          "uploadDate": "Sep-13",
-          "module": "Arts and Humanities",
-          "authors": "Matthews",
-          "printDate": "2003",
-          "doi": "10.1093/actrade/9780192801487.001.0001",
-          "isbn": "9780192801487",
-          "disciplines": "Arts and Humanities, Linguistics, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801487.001.0001/actrade-9780192801487",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": {
-            "rating": 3.29,
-            "numberOfRatings": 664,
-            "url": "/book/show/1473067.Linguistics",
-            "title": "Linguistics",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347564312i/1473067._SY75_.jpg"
-          }
-        }
+        ]
       },
       {
         "name": "Literature",
@@ -3866,6 +3866,25 @@
             "goodreadsEntry": null
           },
           {
+            "title": "Film",
+            "uploadDate": "Sep-13",
+            "module": "Arts and Humanities",
+            "authors": "Wood",
+            "printDate": "2012",
+            "doi": "10.1093/actrade/9780192803535.001.0001",
+            "isbn": "9780192803535",
+            "disciplines": "Arts and Humanities, Media Studies, Film, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803535.001.0001/actrade-9780192803535",
+            "moduleName": "VSIO_SUBJECTS:AHU00010",
+            "goodreadsEntry": {
+              "rating": 3.34,
+              "numberOfRatings": 160,
+              "url": "/book/show/12824239-film",
+              "title": "Film",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348015622i/12824239._SY75_.jpg"
+            }
+          },
+          {
             "title": "Silent Film",
             "uploadDate": "Oct-20",
             "module": "Arts and Humanities",
@@ -3879,31 +3898,31 @@
             "goodreadsEntry": null
           }
         ],
-        "children": [],
-        "subjectBook": {
-          "title": "Film",
-          "uploadDate": "Sep-13",
-          "module": "Arts and Humanities",
-          "authors": "Wood",
-          "printDate": "2012",
-          "doi": "10.1093/actrade/9780192803535.001.0001",
-          "isbn": "9780192803535",
-          "disciplines": "Arts and Humanities, Media Studies, Film, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803535.001.0001/actrade-9780192803535",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": {
-            "rating": 3.34,
-            "numberOfRatings": 160,
-            "url": "/book/show/12824239-film",
-            "title": "Film",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348015622i/12824239._SY75_.jpg"
-          }
-        }
+        "children": []
       },
       {
         "name": "Music",
         "subjectId": "AHU01790",
         "books": [
+          {
+            "title": "Music",
+            "uploadDate": "Feb-21",
+            "module": "Arts and Humanities",
+            "authors": "Cook",
+            "printDate": "2021",
+            "doi": "10.1093/actrade/9780198726043.001.0001",
+            "isbn": "9780198726043",
+            "disciplines": "null, Arts and Humanities, Music, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726043.001.0001/actrade-9780198726043",
+            "moduleName": "VSIO_SUBJECTS:AHU00010",
+            "goodreadsEntry": {
+              "rating": 3.54,
+              "numberOfRatings": 752,
+              "url": "/book/show/784170.Music",
+              "title": "Music",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132279i/784170._SY75_.jpg"
+            }
+          },
           {
             "title": "The Orchestra",
             "uploadDate": "Sep-13",
@@ -3968,6 +3987,25 @@
             "subjectId": "AHU01960",
             "books": [
               {
+                "title": "Ethnomusicology",
+                "uploadDate": "Dec-13",
+                "module": "Arts and Humanities",
+                "authors": "Rice",
+                "printDate": "2014",
+                "doi": "10.1093/actrade/9780199794379.001.0001",
+                "isbn": "9780199794379",
+                "disciplines": "Arts and Humanities, Music, Ethnomusicology, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199794379.001.0001/actrade-9780199794379",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": {
+                  "rating": 3.65,
+                  "numberOfRatings": 109,
+                  "url": "/book/show/17803176-ethnomusicology",
+                  "title": "Ethnomusicology",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387716201i/17803176._SY75_.jpg"
+                }
+              },
+              {
                 "title": "World Music",
                 "uploadDate": "Jul-20",
                 "module": "Arts and Humanities",
@@ -3987,26 +4025,7 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Ethnomusicology",
-              "uploadDate": "Dec-13",
-              "module": "Arts and Humanities",
-              "authors": "Rice",
-              "printDate": "2014",
-              "doi": "10.1093/actrade/9780199794379.001.0001",
-              "isbn": "9780199794379",
-              "disciplines": "Arts and Humanities, Music, Ethnomusicology, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199794379.001.0001/actrade-9780199794379",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": {
-                "rating": 3.65,
-                "numberOfRatings": 109,
-                "url": "/book/show/17803176-ethnomusicology",
-                "title": "Ethnomusicology",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387716201i/17803176._SY75_.jpg"
-              }
-            }
+            "children": []
           },
           {
             "name": "Musical Structures, Styles, and Techniques",
@@ -4066,26 +4085,7 @@
             ],
             "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Music",
-          "uploadDate": "Feb-21",
-          "module": "Arts and Humanities",
-          "authors": "Cook",
-          "printDate": "2021",
-          "doi": "10.1093/actrade/9780198726043.001.0001",
-          "isbn": "9780198726043",
-          "disciplines": "null, Arts and Humanities, Music, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726043.001.0001/actrade-9780198726043",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": {
-            "rating": 3.54,
-            "numberOfRatings": 752,
-            "url": "/book/show/784170.Music",
-            "title": "Music",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410132279i/784170._SY75_.jpg"
-          }
-        }
+        ]
       },
       {
         "name": "Theatre",
@@ -4103,28 +4103,28 @@
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199658770.001.0001/actrade-9780199658770",
             "moduleName": "VSIO_SUBJECTS:AHU00010",
             "goodreadsEntry": null
+          },
+          {
+            "title": "Theatre",
+            "uploadDate": "Oct-14",
+            "module": "Arts and Humanities",
+            "authors": "Carlson",
+            "printDate": "2014",
+            "doi": "10.1093/actrade/9780199669820.001.0001",
+            "isbn": "9780199669820",
+            "disciplines": "Arts and Humanities, Performing Arts, Theatre, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199669820.001.0001/actrade-9780199669820",
+            "moduleName": "VSIO_SUBJECTS:AHU00010",
+            "goodreadsEntry": {
+              "rating": 3.43,
+              "numberOfRatings": 46,
+              "url": "/book/show/22104294-theatre",
+              "title": "Theatre",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400843146i/22104294._SY75_.jpg"
+            }
           }
         ],
-        "children": [],
-        "subjectBook": {
-          "title": "Theatre",
-          "uploadDate": "Oct-14",
-          "module": "Arts and Humanities",
-          "authors": "Carlson",
-          "printDate": "2014",
-          "doi": "10.1093/actrade/9780199669820.001.0001",
-          "isbn": "9780199669820",
-          "disciplines": "Arts and Humanities, Performing Arts, Theatre, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199669820.001.0001/actrade-9780199669820",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": {
-            "rating": 3.43,
-            "numberOfRatings": 46,
-            "url": "/book/show/22104294-theatre",
-            "title": "Theatre",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400843146i/22104294._SY75_.jpg"
-          }
-        }
+        "children": []
       },
       {
         "name": "Philosophy",
@@ -4179,6 +4179,25 @@
               "url": "/book/show/36384053-analytic-philosophy",
               "title": "Analytic Philosophy",
               "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507596061i/36384053._SY75_.jpg"
+            }
+          },
+          {
+            "title": "Philosophy",
+            "uploadDate": "Sep-20",
+            "module": "Arts and Humanities",
+            "authors": "Craig",
+            "printDate": "2020",
+            "doi": "10.1093/actrade/9780198861775.001.0001",
+            "isbn": "9780198861775",
+            "disciplines": "null, Arts and Humanities, Philosophy, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198861775.001.0001/actrade-9780198861775",
+            "moduleName": "VSIO_SUBJECTS:AHU00010",
+            "goodreadsEntry": {
+              "rating": 3.73,
+              "numberOfRatings": 1848,
+              "url": "/book/show/74646.Philosophy",
+              "title": "Philosophy",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413131592i/74646._SY75_.jpg"
             }
           },
           {
@@ -4826,6 +4845,25 @@
                 "subjectId": "AHU02800",
                 "books": [
                   {
+                    "title": "Ancient Philosophy",
+                    "uploadDate": "Sep-13",
+                    "module": "Arts and Humanities",
+                    "authors": "Annas",
+                    "printDate": "2000",
+                    "doi": "10.1093/actrade/9780192853578.001.0001",
+                    "isbn": "9780192853578",
+                    "disciplines": "Arts and Humanities, Philosophy, History of Western Philosophy, Ancient Philosophy, null",
+                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853578.001.0001/actrade-9780192853578",
+                    "moduleName": "VSIO_SUBJECTS:AHU00010",
+                    "goodreadsEntry": {
+                      "rating": 3.6,
+                      "numberOfRatings": 551,
+                      "url": "/book/show/100019.Ancient_Philosophy",
+                      "title": "Ancient Philosophy",
+                      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348022595i/100019._SY75_.jpg"
+                    }
+                  },
+                  {
                     "title": "Presocratic Philosophy",
                     "uploadDate": "Sep-13",
                     "module": "Arts and Humanities",
@@ -4883,31 +4921,31 @@
                     }
                   }
                 ],
-                "children": [],
-                "subjectBook": {
-                  "title": "Ancient Philosophy",
-                  "uploadDate": "Sep-13",
-                  "module": "Arts and Humanities",
-                  "authors": "Annas",
-                  "printDate": "2000",
-                  "doi": "10.1093/actrade/9780192853578.001.0001",
-                  "isbn": "9780192853578",
-                  "disciplines": "Arts and Humanities, Philosophy, History of Western Philosophy, Ancient Philosophy, null",
-                  "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853578.001.0001/actrade-9780192853578",
-                  "moduleName": "VSIO_SUBJECTS:AHU00010",
-                  "goodreadsEntry": {
-                    "rating": 3.6,
-                    "numberOfRatings": 551,
-                    "url": "/book/show/100019.Ancient_Philosophy",
-                    "title": "Ancient Philosophy",
-                    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348022595i/100019._SY75_.jpg"
-                  }
-                }
+                "children": []
               },
               {
                 "name": "Continental Philosophy",
                 "subjectId": "AHU02805",
                 "books": [
+                  {
+                    "title": "Continental Philosophy",
+                    "uploadDate": "Sep-13",
+                    "module": "Arts and Humanities",
+                    "authors": "Critchley",
+                    "printDate": "2001",
+                    "doi": "10.1093/actrade/9780192853592.001.0001",
+                    "isbn": "9780192853592",
+                    "disciplines": "Arts and Humanities, Philosophy, History of Western Philosophy, Continental Philosophy, null",
+                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853592.001.0001/actrade-9780192853592",
+                    "moduleName": "VSIO_SUBJECTS:AHU00010",
+                    "goodreadsEntry": {
+                      "rating": 3.72,
+                      "numberOfRatings": 806,
+                      "url": "/book/show/100017.Continental_Philosophy",
+                      "title": "Continental Philosophy",
+                      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411930999i/100017._SY75_.jpg"
+                    }
+                  },
                   {
                     "title": "German Philosophy",
                     "uploadDate": "Sep-13",
@@ -4941,26 +4979,7 @@
                     "goodreadsEntry": null
                   }
                 ],
-                "children": [],
-                "subjectBook": {
-                  "title": "Continental Philosophy",
-                  "uploadDate": "Sep-13",
-                  "module": "Arts and Humanities",
-                  "authors": "Critchley",
-                  "printDate": "2001",
-                  "doi": "10.1093/actrade/9780192853592.001.0001",
-                  "isbn": "9780192853592",
-                  "disciplines": "Arts and Humanities, Philosophy, History of Western Philosophy, Continental Philosophy, null",
-                  "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853592.001.0001/actrade-9780192853592",
-                  "moduleName": "VSIO_SUBJECTS:AHU00010",
-                  "goodreadsEntry": {
-                    "rating": 3.72,
-                    "numberOfRatings": 806,
-                    "url": "/book/show/100017.Continental_Philosophy",
-                    "title": "Continental Philosophy",
-                    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411930999i/100017._SY75_.jpg"
-                  }
-                }
+                "children": []
               },
               {
                 "name": "Medieval and Renaissance Philosophy",
@@ -5002,6 +5021,25 @@
             "subjectId": "AHU02850",
             "books": [
               {
+                "title": "Metaphysics",
+                "uploadDate": "Sep-13",
+                "module": "Arts and Humanities",
+                "authors": "Mumford",
+                "printDate": "2012",
+                "doi": "10.1093/actrade/9780199657124.001.0001",
+                "isbn": "9780199657124",
+                "disciplines": "Arts and Humanities, Philosophy, Metaphysics, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199657124.001.0001/actrade-9780199657124",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": {
+                  "rating": 3.85,
+                  "numberOfRatings": 646,
+                  "url": "/book/show/14828812-metaphysics",
+                  "title": "Metaphysics",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348638302i/14828812._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Causation",
                 "uploadDate": "Nov-13",
                 "module": "Arts and Humanities",
@@ -5040,26 +5078,7 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Metaphysics",
-              "uploadDate": "Sep-13",
-              "module": "Arts and Humanities",
-              "authors": "Mumford",
-              "printDate": "2012",
-              "doi": "10.1093/actrade/9780199657124.001.0001",
-              "isbn": "9780199657124",
-              "disciplines": "Arts and Humanities, Philosophy, Metaphysics, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199657124.001.0001/actrade-9780199657124",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": {
-                "rating": 3.85,
-                "numberOfRatings": 646,
-                "url": "/book/show/14828812-metaphysics",
-                "title": "Metaphysics",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348638302i/14828812._SY75_.jpg"
-              }
-            }
+            "children": []
           },
           {
             "name": "Moral Philosophy",
@@ -5173,22 +5192,22 @@
                   "title": "Free Will",
                   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348023794i/176904._SY75_.jpg"
                 }
+              },
+              {
+                "title": "Philosophy of Mind",
+                "uploadDate": "Jan-22",
+                "module": "Arts and Humanities",
+                "authors": "Montero",
+                "printDate": "2022",
+                "doi": "10.1093/actrade/9780198809074.001.0001",
+                "isbn": "9780198809074",
+                "disciplines": "null, Arts and Humanities, Philosophy, Philosophy of Mind, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809074.001.0001/actrade-9780198809074",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": null
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Philosophy of Mind",
-              "uploadDate": "Jan-22",
-              "module": "Arts and Humanities",
-              "authors": "Montero",
-              "printDate": "2022",
-              "doi": "10.1093/actrade/9780198809074.001.0001",
-              "isbn": "9780198809074",
-              "disciplines": "null, Arts and Humanities, Philosophy, Philosophy of Mind, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809074.001.0001/actrade-9780198809074",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": null
-            }
+            "children": []
           },
           {
             "name": "Philosophy of Religion",
@@ -5225,33 +5244,52 @@
                   "title": "God",
                   "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421505324i/21920792._SY75_.jpg"
                 }
+              },
+              {
+                "title": "Philosophy of Religion",
+                "uploadDate": "Feb-18",
+                "module": "Arts and Humanities",
+                "authors": "Bayne",
+                "printDate": "2018",
+                "doi": "10.1093/actrade/9780198754961.001.0001",
+                "isbn": "9780198754961",
+                "disciplines": "null, Arts and Humanities, Philosophy, Philosophy of Religion, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754961.001.0001/actrade-9780198754961",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": {
+                  "rating": 3.7,
+                  "numberOfRatings": 148,
+                  "url": "/book/show/36896187-philosophy-of-religion",
+                  "title": "Philosophy of Religion",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514778961i/36896187._SY75_.jpg"
+                }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Philosophy of Religion",
-              "uploadDate": "Feb-18",
-              "module": "Arts and Humanities",
-              "authors": "Bayne",
-              "printDate": "2018",
-              "doi": "10.1093/actrade/9780198754961.001.0001",
-              "isbn": "9780198754961",
-              "disciplines": "null, Arts and Humanities, Philosophy, Philosophy of Religion, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754961.001.0001/actrade-9780198754961",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": {
-                "rating": 3.7,
-                "numberOfRatings": 148,
-                "url": "/book/show/36896187-philosophy-of-religion",
-                "title": "Philosophy of Religion",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514778961i/36896187._SY75_.jpg"
-              }
-            }
+            "children": []
           },
           {
             "name": "Philosophy of Science",
             "subjectId": "AHU02980",
             "books": [
+              {
+                "title": "Philosophy of Science",
+                "uploadDate": "Jul-16",
+                "module": "Arts and Humanities",
+                "authors": "Okasha",
+                "printDate": "2016",
+                "doi": "10.1093/actrade/9780198745587.001.0001",
+                "isbn": "9780198745587",
+                "disciplines": "Arts and Humanities, Philosophy, Philosophy of Science, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745587.001.0001/actrade-9780198745587",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": {
+                  "rating": 3.94,
+                  "numberOfRatings": 2859,
+                  "url": "/book/show/31921.Philosophy_of_Science",
+                  "title": "Philosophy of Science",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435405005i/31921._SY75_.jpg"
+                }
+              },
               {
                 "title": "Philosophy of Biology",
                 "uploadDate": "Nov-19",
@@ -5291,26 +5329,7 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Philosophy of Science",
-              "uploadDate": "Jul-16",
-              "module": "Arts and Humanities",
-              "authors": "Okasha",
-              "printDate": "2016",
-              "doi": "10.1093/actrade/9780198745587.001.0001",
-              "isbn": "9780198745587",
-              "disciplines": "Arts and Humanities, Philosophy, Philosophy of Science, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745587.001.0001/actrade-9780198745587",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": {
-                "rating": 3.94,
-                "numberOfRatings": 2859,
-                "url": "/book/show/31921.Philosophy_of_Science",
-                "title": "Philosophy of Science",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435405005i/31921._SY75_.jpg"
-              }
-            }
+            "children": []
           },
           {
             "name": "Practical Ethics",
@@ -5491,26 +5510,7 @@
             ],
             "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Philosophy",
-          "uploadDate": "Sep-20",
-          "module": "Arts and Humanities",
-          "authors": "Craig",
-          "printDate": "2020",
-          "doi": "10.1093/actrade/9780198861775.001.0001",
-          "isbn": "9780198861775",
-          "disciplines": "null, Arts and Humanities, Philosophy, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198861775.001.0001/actrade-9780198861775",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": {
-            "rating": 3.73,
-            "numberOfRatings": 1848,
-            "url": "/book/show/74646.Philosophy",
-            "title": "Philosophy",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413131592i/74646._SY75_.jpg"
-          }
-        }
+        ]
       },
       {
         "name": "Religion",
@@ -5765,6 +5765,25 @@
             "subjectId": "AHU03030",
             "books": [
               {
+                "title": "Buddhism",
+                "uploadDate": "Sep-13",
+                "module": "Arts and Humanities",
+                "authors": "Keown",
+                "printDate": "2013",
+                "doi": "10.1093/actrade/9780199663835.001.0001",
+                "isbn": "9780199663835",
+                "disciplines": "Arts and Humanities, Religion, Buddhism, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199663835.001.0001/actrade-9780199663835",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": {
+                  "rating": 3.74,
+                  "numberOfRatings": 2081,
+                  "url": "/book/show/74657.Buddhism",
+                  "title": "Buddhism",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388193570i/74657._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Buddha",
                 "uploadDate": "Sep-13",
                 "module": "Arts and Humanities",
@@ -5822,31 +5841,31 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Buddhism",
-              "uploadDate": "Sep-13",
-              "module": "Arts and Humanities",
-              "authors": "Keown",
-              "printDate": "2013",
-              "doi": "10.1093/actrade/9780199663835.001.0001",
-              "isbn": "9780199663835",
-              "disciplines": "Arts and Humanities, Religion, Buddhism, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199663835.001.0001/actrade-9780199663835",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": {
-                "rating": 3.74,
-                "numberOfRatings": 2081,
-                "url": "/book/show/74657.Buddhism",
-                "title": "Buddhism",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388193570i/74657._SY75_.jpg"
-              }
-            }
+            "children": []
           },
           {
             "name": "Christianity",
             "subjectId": "AHU03060",
             "books": [
+              {
+                "title": "Christianity",
+                "uploadDate": "Sep-14",
+                "module": "Arts and Humanities",
+                "authors": "Woodhead",
+                "printDate": "2014",
+                "doi": "10.1093/actrade/9780199687749.001.0001",
+                "isbn": "9780199687749",
+                "disciplines": "Arts and Humanities, Religion, Christianity, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687749.001.0001/actrade-9780199687749",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": {
+                  "rating": 3.5,
+                  "numberOfRatings": 489,
+                  "url": "/book/show/74636.Christianity",
+                  "title": "Christianity",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923905i/74636._SY75_.jpg"
+                }
+              },
               {
                 "title": "Christian Ethics",
                 "uploadDate": "Sep-13",
@@ -6285,26 +6304,7 @@
                 ],
                 "children": []
               }
-            ],
-            "subjectBook": {
-              "title": "Christianity",
-              "uploadDate": "Sep-14",
-              "module": "Arts and Humanities",
-              "authors": "Woodhead",
-              "printDate": "2014",
-              "doi": "10.1093/actrade/9780199687749.001.0001",
-              "isbn": "9780199687749",
-              "disciplines": "Arts and Humanities, Religion, Christianity, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687749.001.0001/actrade-9780199687749",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": {
-                "rating": 3.5,
-                "numberOfRatings": 489,
-                "url": "/book/show/74636.Christianity",
-                "title": "Christianity",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923905i/74636._SY75_.jpg"
-              }
-            }
+            ]
           },
           {
             "name": "History of Religion",
@@ -6433,6 +6433,25 @@
                 }
               },
               {
+                "title": "Islam",
+                "uploadDate": "Sep-13",
+                "module": "Arts and Humanities",
+                "authors": "Ruthven",
+                "printDate": "2012",
+                "doi": "10.1093/actrade/9780199642878.001.0001",
+                "isbn": "9780199642878",
+                "disciplines": "Arts and Humanities, Religion, Islam, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199642878.001.0001/actrade-9780199642878",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": {
+                  "rating": 3.26,
+                  "numberOfRatings": 856,
+                  "url": "/book/show/74641.Islam",
+                  "title": "Islam",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429650769i/74641._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Muhammad",
                 "uploadDate": "Sep-13",
                 "module": "Arts and Humanities",
@@ -6492,26 +6511,7 @@
                 ],
                 "children": []
               }
-            ],
-            "subjectBook": {
-              "title": "Islam",
-              "uploadDate": "Sep-13",
-              "module": "Arts and Humanities",
-              "authors": "Ruthven",
-              "printDate": "2012",
-              "doi": "10.1093/actrade/9780199642878.001.0001",
-              "isbn": "9780199642878",
-              "disciplines": "Arts and Humanities, Religion, Islam, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199642878.001.0001/actrade-9780199642878",
-              "moduleName": "VSIO_SUBJECTS:AHU00010",
-              "goodreadsEntry": {
-                "rating": 3.26,
-                "numberOfRatings": 856,
-                "url": "/book/show/74641.Islam",
-                "title": "Islam",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429650769i/74641._SY75_.jpg"
-              }
-            }
+            ]
           },
           {
             "name": "Judaism and Jewish Studies",
@@ -6665,6 +6665,19 @@
             "name": "Religious Studies",
             "subjectId": "AHU03290",
             "books": [
+              {
+                "title": "Religion",
+                "uploadDate": "Nov-20",
+                "module": "Arts and Humanities",
+                "authors": "Tweed",
+                "printDate": "2020",
+                "doi": "10.1093/actrade/9780190064679.001.0001",
+                "isbn": "9780190064679",
+                "disciplines": "null, Arts and Humanities, Religion, Religious Studies, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780190064679.001.0001/actrade-9780190064679",
+                "moduleName": "VSIO_SUBJECTS:AHU00010",
+                "goodreadsEntry": null
+              },
               {
                 "title": "Agnosticism",
                 "uploadDate": "Sep-13",
@@ -6855,20 +6868,7 @@
               }
             ]
           }
-        ],
-        "subjectBook": {
-          "title": "Religion",
-          "uploadDate": "Nov-20",
-          "module": "Arts and Humanities",
-          "authors": "Tweed",
-          "printDate": "2020",
-          "doi": "10.1093/actrade/9780190064679.001.0001",
-          "isbn": "9780190064679",
-          "disciplines": "null, Arts and Humanities, Religion, Religious Studies, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780190064679.001.0001/actrade-9780190064679",
-          "moduleName": "VSIO_SUBJECTS:AHU00010",
-          "goodreadsEntry": null
-        }
+        ]
       },
       {
         "name": "Society and Culture",
@@ -7007,6 +7007,25 @@
     "name": "Law",
     "subjectId": "LAW00010",
     "books": [
+      {
+        "title": "Law",
+        "uploadDate": "Sep-15",
+        "module": "Law",
+        "authors": "Wacks",
+        "printDate": "2015",
+        "doi": "10.1093/actrade/9780198745624.001.0001",
+        "isbn": "9780198745624",
+        "disciplines": "Law, null",
+        "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745624.001.0001/actrade-9780198745624",
+        "moduleName": "VSIO_SUBJECTS:LAW00010",
+        "goodreadsEntry": {
+          "rating": 3.66,
+          "numberOfRatings": 482,
+          "url": "/book/show/11254576-law",
+          "title": "Law",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304180446i/11254576._SY75_.jpg"
+        }
+      },
       {
         "title": "Arbitration",
         "uploadDate": "Apr-21",
@@ -7209,6 +7228,19 @@
         "subjectId": "LAW00340",
         "books": [
           {
+            "title": "International Law",
+            "uploadDate": "Nov-15",
+            "module": "Law",
+            "authors": "Lowe",
+            "printDate": "2015",
+            "doi": "10.1093/actrade/9780199239337.001.0001",
+            "isbn": "9780199239337",
+            "disciplines": "Law, International Law, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199239337.001.0001/actrade-9780199239337",
+            "moduleName": "VSIO_SUBJECTS:LAW00010",
+            "goodreadsEntry": null
+          },
+          {
             "title": "Environmental Law",
             "uploadDate": "Oct-17",
             "module": "Law",
@@ -7222,20 +7254,7 @@
             "goodreadsEntry": null
           }
         ],
-        "children": [],
-        "subjectBook": {
-          "title": "International Law",
-          "uploadDate": "Nov-15",
-          "module": "Law",
-          "authors": "Lowe",
-          "printDate": "2015",
-          "doi": "10.1093/actrade/9780199239337.001.0001",
-          "isbn": "9780199239337",
-          "disciplines": "Law, International Law, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199239337.001.0001/actrade-9780199239337",
-          "moduleName": "VSIO_SUBJECTS:LAW00010",
-          "goodreadsEntry": null
-        }
+        "children": []
       },
       {
         "name": "Courts and Procedure",
@@ -7315,26 +7334,7 @@
         ],
         "children": []
       }
-    ],
-    "subjectBook": {
-      "title": "Law",
-      "uploadDate": "Sep-15",
-      "module": "Law",
-      "authors": "Wacks",
-      "printDate": "2015",
-      "doi": "10.1093/actrade/9780198745624.001.0001",
-      "isbn": "9780198745624",
-      "disciplines": "Law, null",
-      "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745624.001.0001/actrade-9780198745624",
-      "moduleName": "VSIO_SUBJECTS:LAW00010",
-      "goodreadsEntry": {
-        "rating": 3.66,
-        "numberOfRatings": 482,
-        "url": "/book/show/11254576-law",
-        "title": "Law",
-        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304180446i/11254576._SY75_.jpg"
-      }
-    }
+    ]
   },
   {
     "name": "Medicine and Health",
@@ -7655,6 +7655,25 @@
             "subjectId": "MED00864",
             "books": [
               {
+                "title": "Epidemiology",
+                "uploadDate": "Sep-13",
+                "module": "Medicine and Health",
+                "authors": "Saracci",
+                "printDate": "2010",
+                "doi": "10.1093/actrade/9780199543335.001.0001",
+                "isbn": "9780199543335",
+                "disciplines": "Medicine and Health, Public Health and Epidemiology, Epidemiology, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199543335.001.0001/actrade-9780199543335",
+                "moduleName": "VSIO_SUBJECTS:MED00010",
+                "goodreadsEntry": {
+                  "rating": 3.36,
+                  "numberOfRatings": 281,
+                  "url": "/book/show/7332598-epidemiology",
+                  "title": "Epidemiology",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347956256i/7332598._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Pandemics",
                 "uploadDate": "Dec-16",
                 "module": "Medicine and Health",
@@ -7674,26 +7693,7 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Epidemiology",
-              "uploadDate": "Sep-13",
-              "module": "Medicine and Health",
-              "authors": "Saracci",
-              "printDate": "2010",
-              "doi": "10.1093/actrade/9780199543335.001.0001",
-              "isbn": "9780199543335",
-              "disciplines": "Medicine and Health, Public Health and Epidemiology, Epidemiology, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199543335.001.0001/actrade-9780199543335",
-              "moduleName": "VSIO_SUBJECTS:MED00010",
-              "goodreadsEntry": {
-                "rating": 3.36,
-                "numberOfRatings": 281,
-                "url": "/book/show/7332598-epidemiology",
-                "title": "Epidemiology",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347956256i/7332598._SY75_.jpg"
-              }
-            }
+            "children": []
           },
           {
             "name": "Public Health",
@@ -7711,22 +7711,22 @@
                 "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198727491.001.0001/actrade-9780198727491",
                 "moduleName": "VSIO_SUBJECTS:MED00010",
                 "goodreadsEntry": null
+              },
+              {
+                "title": "Public Health",
+                "uploadDate": "Jul-16",
+                "module": "Medicine and Health",
+                "authors": "Berridge",
+                "printDate": "2016",
+                "doi": "10.1093/actrade/9780199688463.001.0001",
+                "isbn": "9780199688463",
+                "disciplines": "Medicine and Health, Public Health and Epidemiology, Public Health, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688463.001.0001/actrade-9780199688463",
+                "moduleName": "VSIO_SUBJECTS:MED00010",
+                "goodreadsEntry": null
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Public Health",
-              "uploadDate": "Jul-16",
-              "module": "Medicine and Health",
-              "authors": "Berridge",
-              "printDate": "2016",
-              "doi": "10.1093/actrade/9780199688463.001.0001",
-              "isbn": "9780199688463",
-              "disciplines": "Medicine and Health, Public Health and Epidemiology, Public Health, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688463.001.0001/actrade-9780199688463",
-              "moduleName": "VSIO_SUBJECTS:MED00010",
-              "goodreadsEntry": null
-            }
+            "children": []
           }
         ]
       }
@@ -7903,6 +7903,19 @@
                 }
               },
               {
+                "title": "Biochemistry",
+                "uploadDate": "May-21",
+                "module": "Science and Mathematics",
+                "authors": "Lorch",
+                "printDate": "2021",
+                "doi": "10.1093/actrade/9780198833871.001.0001",
+                "isbn": "9780198833871",
+                "disciplines": "null, Science and Mathematics, Biological Sciences, Biochemistry, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198833871.001.0001/actrade-9780198833871",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": null
+              },
+              {
                 "title": "Enzymes",
                 "uploadDate": "Nov-20",
                 "module": "Science and Mathematics",
@@ -7916,20 +7929,7 @@
                 "goodreadsEntry": null
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Biochemistry",
-              "uploadDate": "May-21",
-              "module": "Science and Mathematics",
-              "authors": "Lorch",
-              "printDate": "2021",
-              "doi": "10.1093/actrade/9780198833871.001.0001",
-              "isbn": "9780198833871",
-              "disciplines": "null, Science and Mathematics, Biological Sciences, Biochemistry, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198833871.001.0001/actrade-9780198833871",
-              "moduleName": "VSIO_SUBJECTS:SCI00010",
-              "goodreadsEntry": null
-            }
+            "children": []
           },
           {
             "name": "Ecology and Conservation",
@@ -8157,6 +8157,19 @@
             "subjectId": "SCI01150",
             "books": [
               {
+                "title": "Microbiology",
+                "uploadDate": "Dec-14",
+                "module": "Science and Mathematics",
+                "authors": "Money",
+                "printDate": "2014",
+                "doi": "10.1093/actrade/9780199681686.001.0001",
+                "isbn": "9780199681686",
+                "disciplines": "Science and Mathematics, Biological Sciences, Microbiology, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199681686.001.0001/actrade-9780199681686",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": null
+              },
+              {
                 "title": "Bacteria",
                 "uploadDate": "Sep-13",
                 "module": "Science and Mathematics",
@@ -8208,20 +8221,7 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Microbiology",
-              "uploadDate": "Dec-14",
-              "module": "Science and Mathematics",
-              "authors": "Money",
-              "printDate": "2014",
-              "doi": "10.1093/actrade/9780199681686.001.0001",
-              "isbn": "9780199681686",
-              "disciplines": "Science and Mathematics, Biological Sciences, Microbiology, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199681686.001.0001/actrade-9780199681686",
-              "moduleName": "VSIO_SUBJECTS:SCI00010",
-              "goodreadsEntry": null
-            }
+            "children": []
           },
           {
             "name": "Molecular and Cell Biology",
@@ -8541,6 +8541,19 @@
             }
           },
           {
+            "title": "Chemistry",
+            "uploadDate": "Feb-15",
+            "module": "Science and Mathematics",
+            "authors": "Atkins",
+            "printDate": "2015",
+            "doi": "10.1093/actrade/9780199683970.001.0001",
+            "isbn": "9780199683970",
+            "disciplines": "Science and Mathematics, Chemistry, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683970.001.0001/actrade-9780199683970",
+            "moduleName": "VSIO_SUBJECTS:SCI00010",
+            "goodreadsEntry": null
+          },
+          {
             "title": "The Periodic Table",
             "uploadDate": "Jul-19",
             "module": "Science and Mathematics",
@@ -8605,6 +8618,25 @@
             "subjectId": "SCI00130",
             "books": [
               {
+                "title": "Physical Chemistry",
+                "uploadDate": "Apr-14",
+                "module": "Science and Mathematics",
+                "authors": "Atkins",
+                "printDate": "2014",
+                "doi": "10.1093/actrade/9780199689095.001.0001",
+                "isbn": "9780199689095",
+                "disciplines": "Science and Mathematics, Chemistry, Physical Chemistry, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689095.001.0001/actrade-9780199689095",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": {
+                  "rating": 3.94,
+                  "numberOfRatings": 72,
+                  "url": "/book/show/23620910-physical-chemistry",
+                  "title": "Physical Chemistry",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438880127i/23620910._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Water",
                 "uploadDate": "Aug-15",
                 "module": "Science and Mathematics",
@@ -8643,46 +8675,33 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Physical Chemistry",
-              "uploadDate": "Apr-14",
-              "module": "Science and Mathematics",
-              "authors": "Atkins",
-              "printDate": "2014",
-              "doi": "10.1093/actrade/9780199689095.001.0001",
-              "isbn": "9780199689095",
-              "disciplines": "Science and Mathematics, Chemistry, Physical Chemistry, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689095.001.0001/actrade-9780199689095",
-              "moduleName": "VSIO_SUBJECTS:SCI00010",
-              "goodreadsEntry": {
-                "rating": 3.94,
-                "numberOfRatings": 72,
-                "url": "/book/show/23620910-physical-chemistry",
-                "title": "Physical Chemistry",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438880127i/23620910._SY75_.jpg"
-              }
-            }
+            "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Chemistry",
-          "uploadDate": "Feb-15",
-          "module": "Science and Mathematics",
-          "authors": "Atkins",
-          "printDate": "2015",
-          "doi": "10.1093/actrade/9780199683970.001.0001",
-          "isbn": "9780199683970",
-          "disciplines": "Science and Mathematics, Chemistry, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683970.001.0001/actrade-9780199683970",
-          "moduleName": "VSIO_SUBJECTS:SCI00010",
-          "goodreadsEntry": null
-        }
+        ]
       },
       {
         "name": "Computer Science",
         "subjectId": "SCI01540",
         "books": [
+          {
+            "title": "Computer Science",
+            "uploadDate": "Mar-16",
+            "module": "Science and Mathematics",
+            "authors": "Dasgupta",
+            "printDate": "2016",
+            "doi": "10.1093/actrade/9780198733461.001.0001",
+            "isbn": "9780198733461",
+            "disciplines": "Science and Mathematics, Computer Science, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198733461.001.0001/actrade-9780198733461",
+            "moduleName": "VSIO_SUBJECTS:SCI00010",
+            "goodreadsEntry": {
+              "rating": 3.63,
+              "numberOfRatings": 155,
+              "url": "/book/show/27309858-computer-science",
+              "title": "Computer Science",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461789153i/27309858._SY75_.jpg"
+            }
+          },
           {
             "title": "Artificial Intelligence",
             "uploadDate": "Aug-18",
@@ -8741,26 +8760,7 @@
             }
           }
         ],
-        "children": [],
-        "subjectBook": {
-          "title": "Computer Science",
-          "uploadDate": "Mar-16",
-          "module": "Science and Mathematics",
-          "authors": "Dasgupta",
-          "printDate": "2016",
-          "doi": "10.1093/actrade/9780198733461.001.0001",
-          "isbn": "9780198733461",
-          "disciplines": "Science and Mathematics, Computer Science, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198733461.001.0001/actrade-9780198733461",
-          "moduleName": "VSIO_SUBJECTS:SCI00010",
-          "goodreadsEntry": {
-            "rating": 3.63,
-            "numberOfRatings": 155,
-            "url": "/book/show/27309858-computer-science",
-            "title": "Computer Science",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461789153i/27309858._SY75_.jpg"
-          }
-        }
+        "children": []
       },
       {
         "name": "Earth Sciences and Geography",
@@ -8999,22 +8999,22 @@
                 "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198728269.001.0001/actrade-9780198728269",
                 "moduleName": "VSIO_SUBJECTS:SCI00010",
                 "goodreadsEntry": null
+              },
+              {
+                "title": "Geophysics",
+                "uploadDate": "Mar-18",
+                "module": "Science and Mathematics",
+                "authors": "Lowrie",
+                "printDate": "2018",
+                "doi": "10.1093/actrade/9780198792956.001.0001",
+                "isbn": "9780198792956",
+                "disciplines": "Science and Mathematics, Earth Sciences and Geography, Geophysics, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792956.001.0001/actrade-9780198792956",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": null
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Geophysics",
-              "uploadDate": "Mar-18",
-              "module": "Science and Mathematics",
-              "authors": "Lowrie",
-              "printDate": "2018",
-              "doi": "10.1093/actrade/9780198792956.001.0001",
-              "isbn": "9780198792956",
-              "disciplines": "Science and Mathematics, Earth Sciences and Geography, Geophysics, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792956.001.0001/actrade-9780198792956",
-              "moduleName": "VSIO_SUBJECTS:SCI00010",
-              "goodreadsEntry": null
-            }
+            "children": []
           },
           {
             "name": "Meteorology and Climatology",
@@ -9629,6 +9629,25 @@
                 }
               },
               {
+                "title": "Applied Mathematics",
+                "uploadDate": "Feb-18",
+                "module": "Science and Mathematics",
+                "authors": "Goriely",
+                "printDate": "2018",
+                "doi": "10.1093/actrade/9780198754046.001.0001",
+                "isbn": "9780198754046",
+                "disciplines": "Science and Mathematics, Mathematics, Applied Mathematics, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754046.001.0001/actrade-9780198754046",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": {
+                  "rating": 4.01,
+                  "numberOfRatings": 106,
+                  "url": "/book/show/36722229-applied-mathematics",
+                  "title": "Applied Mathematics",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515855359i/36722229._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Cryptography",
                 "uploadDate": "Sep-13",
                 "module": "Science and Mathematics",
@@ -9667,26 +9686,7 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Applied Mathematics",
-              "uploadDate": "Feb-18",
-              "module": "Science and Mathematics",
-              "authors": "Goriely",
-              "printDate": "2018",
-              "doi": "10.1093/actrade/9780198754046.001.0001",
-              "isbn": "9780198754046",
-              "disciplines": "Science and Mathematics, Mathematics, Applied Mathematics, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754046.001.0001/actrade-9780198754046",
-              "moduleName": "VSIO_SUBJECTS:SCI00010",
-              "goodreadsEntry": {
-                "rating": 4.01,
-                "numberOfRatings": 106,
-                "url": "/book/show/36722229-applied-mathematics",
-                "title": "Applied Mathematics",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515855359i/36722229._SY75_.jpg"
-              }
-            }
+            "children": []
           },
           {
             "name": "Probability and Statistics",
@@ -9749,6 +9749,25 @@
                 "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198814313.001.0001/actrade-9780198814313",
                 "moduleName": "VSIO_SUBJECTS:SCI00010",
                 "goodreadsEntry": null
+              },
+              {
+                "title": "Mathematics",
+                "uploadDate": "Sep-13",
+                "module": "Science and Mathematics",
+                "authors": "Gowers",
+                "printDate": "2002",
+                "doi": "10.1093/actrade/9780192853615.001.0001",
+                "isbn": "9780192853615",
+                "disciplines": "Science and Mathematics, Mathematics, Pure Mathematics, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853615.001.0001/actrade-9780192853615",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": {
+                  "rating": 3.87,
+                  "numberOfRatings": 1589,
+                  "url": "/book/show/74645.Mathematics",
+                  "title": "Mathematics",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391032527i/74645._SY75_.jpg"
+                }
               },
               {
                 "title": "Numbers",
@@ -9890,45 +9909,26 @@
                     "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199675982.001.0001/actrade-9780199675982",
                     "moduleName": "VSIO_SUBJECTS:SCI00010",
                     "goodreadsEntry": null
+                  },
+                  {
+                    "title": "Geometry",
+                    "uploadDate": "Jan-22",
+                    "module": "Science and Mathematics",
+                    "authors": "Dunajski",
+                    "printDate": "2022",
+                    "doi": "10.1093/actrade/9780199683680.001.0001",
+                    "isbn": "9780199683680",
+                    "disciplines": "null, Science and Mathematics, Mathematics, Pure Mathematics, Geometry, null",
+                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683680.001.0001/actrade-9780199683680",
+                    "moduleName": "VSIO_SUBJECTS:SCI00010",
+                    "goodreadsEntry": null
                   }
                 ],
-                "children": [],
-                "subjectBook": {
-                  "title": "Geometry",
-                  "uploadDate": "Jan-22",
-                  "module": "Science and Mathematics",
-                  "authors": "Dunajski",
-                  "printDate": "2022",
-                  "doi": "10.1093/actrade/9780199683680.001.0001",
-                  "isbn": "9780199683680",
-                  "disciplines": "null, Science and Mathematics, Mathematics, Pure Mathematics, Geometry, null",
-                  "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683680.001.0001/actrade-9780199683680",
-                  "moduleName": "VSIO_SUBJECTS:SCI00010",
-                  "goodreadsEntry": null
-                }
+                "children": []
               }
             ]
           }
-        ],
-        "subjectBook": {
-          "title": "Mathematics",
-          "uploadDate": "Sep-13",
-          "module": "Science and Mathematics",
-          "authors": "Gowers",
-          "printDate": "2002",
-          "doi": "10.1093/actrade/9780192853615.001.0001",
-          "isbn": "9780192853615",
-          "disciplines": "Science and Mathematics, Mathematics, Pure Mathematics, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853615.001.0001/actrade-9780192853615",
-          "moduleName": "VSIO_SUBJECTS:SCI00010",
-          "goodreadsEntry": {
-            "rating": 3.87,
-            "numberOfRatings": 1589,
-            "url": "/book/show/74645.Mathematics",
-            "title": "Mathematics",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391032527i/74645._SY75_.jpg"
-          }
-        }
+        ]
       },
       {
         "name": "Neuroscience",
@@ -9989,6 +9989,19 @@
             "isbn": "9780198806547",
             "disciplines": "Science and Mathematics, Physics, null",
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806547.001.0001/actrade-9780198806547",
+            "moduleName": "VSIO_SUBJECTS:SCI00010",
+            "goodreadsEntry": null
+          },
+          {
+            "title": "Physics",
+            "uploadDate": "Jul-19",
+            "module": "Science and Mathematics",
+            "authors": "Perkowitz",
+            "printDate": "2019",
+            "doi": "10.1093/actrade/9780198813941.001.0001",
+            "isbn": "9780198813941",
+            "disciplines": "Science and Mathematics, Physics, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198813941.001.0001/actrade-9780198813941",
             "moduleName": "VSIO_SUBJECTS:SCI00010",
             "goodreadsEntry": null
           },
@@ -10226,22 +10239,22 @@
                       "title": "Planets",
                       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348011176i/8385036._SY75_.jpg"
                     }
+                  },
+                  {
+                    "title": "Planetary Systems",
+                    "uploadDate": "Dec-21",
+                    "module": "Science and Mathematics",
+                    "authors": "Pierrehumbert",
+                    "printDate": "2021",
+                    "doi": "10.1093/actrade/9780198841128.001.0001",
+                    "isbn": "9780198841128",
+                    "disciplines": "null, Science and Mathematics, Physics, Astronomy and Astrophysics, Planetary Systems, null",
+                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198841128.001.0001/actrade-9780198841128",
+                    "moduleName": "VSIO_SUBJECTS:SCI00010",
+                    "goodreadsEntry": null
                   }
                 ],
-                "children": [],
-                "subjectBook": {
-                  "title": "Planetary Systems",
-                  "uploadDate": "Dec-21",
-                  "module": "Science and Mathematics",
-                  "authors": "Pierrehumbert",
-                  "printDate": "2021",
-                  "doi": "10.1093/actrade/9780198841128.001.0001",
-                  "isbn": "9780198841128",
-                  "disciplines": "null, Science and Mathematics, Physics, Astronomy and Astrophysics, Planetary Systems, null",
-                  "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198841128.001.0001/actrade-9780198841128",
-                  "moduleName": "VSIO_SUBJECTS:SCI00010",
-                  "goodreadsEntry": null
-                }
+                "children": []
               },
               {
                 "name": "Stars",
@@ -10265,28 +10278,28 @@
                       "title": "Black Holes",
                       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444690148i/17841724._SY75_.jpg"
                     }
+                  },
+                  {
+                    "title": "Stars",
+                    "uploadDate": "Sep-13",
+                    "module": "Science and Mathematics",
+                    "authors": "King",
+                    "printDate": "2012",
+                    "doi": "10.1093/actrade/9780199602926.001.0001",
+                    "isbn": "9780199602926",
+                    "disciplines": "Science and Mathematics, Physics, Astronomy and Astrophysics, Stars, null",
+                    "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199602926.001.0001/actrade-9780199602926",
+                    "moduleName": "VSIO_SUBJECTS:SCI00010",
+                    "goodreadsEntry": {
+                      "rating": 3.89,
+                      "numberOfRatings": 160,
+                      "url": "/book/show/14828163-stars",
+                      "title": "Stars",
+                      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347807562i/14828163._SY75_.jpg"
+                    }
                   }
                 ],
-                "children": [],
-                "subjectBook": {
-                  "title": "Stars",
-                  "uploadDate": "Sep-13",
-                  "module": "Science and Mathematics",
-                  "authors": "King",
-                  "printDate": "2012",
-                  "doi": "10.1093/actrade/9780199602926.001.0001",
-                  "isbn": "9780199602926",
-                  "disciplines": "Science and Mathematics, Physics, Astronomy and Astrophysics, Stars, null",
-                  "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199602926.001.0001/actrade-9780199602926",
-                  "moduleName": "VSIO_SUBJECTS:SCI00010",
-                  "goodreadsEntry": {
-                    "rating": 3.89,
-                    "numberOfRatings": 160,
-                    "url": "/book/show/14828163-stars",
-                    "title": "Stars",
-                    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347807562i/14828163._SY75_.jpg"
-                  }
-                }
+                "children": []
               }
             ]
           },
@@ -10405,6 +10418,19 @@
             "subjectId": "SCI02040",
             "books": [
               {
+                "title": "Nuclear Physics",
+                "uploadDate": "Jul-15",
+                "module": "Science and Mathematics",
+                "authors": "Close",
+                "printDate": "2015",
+                "doi": "10.1093/actrade/9780198718635.001.0001",
+                "isbn": "9780198718635",
+                "disciplines": "Science and Mathematics, Physics, Nuclear Physics, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718635.001.0001/actrade-9780198718635",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": null
+              },
+              {
                 "title": "Radioactivity",
                 "uploadDate": "Sep-13",
                 "module": "Science and Mathematics",
@@ -10424,20 +10450,7 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Nuclear Physics",
-              "uploadDate": "Jul-15",
-              "module": "Science and Mathematics",
-              "authors": "Close",
-              "printDate": "2015",
-              "doi": "10.1093/actrade/9780198718635.001.0001",
-              "isbn": "9780198718635",
-              "disciplines": "Science and Mathematics, Physics, Nuclear Physics, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718635.001.0001/actrade-9780198718635",
-              "moduleName": "VSIO_SUBJECTS:SCI00010",
-              "goodreadsEntry": null
-            }
+            "children": []
           },
           {
             "name": "Particles and Fields",
@@ -10523,20 +10536,7 @@
             ],
             "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Physics",
-          "uploadDate": "Jul-19",
-          "module": "Science and Mathematics",
-          "authors": "Perkowitz",
-          "printDate": "2019",
-          "doi": "10.1093/actrade/9780198813941.001.0001",
-          "isbn": "9780198813941",
-          "disciplines": "Science and Mathematics, Physics, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198813941.001.0001/actrade-9780198813941",
-          "moduleName": "VSIO_SUBJECTS:SCI00010",
-          "goodreadsEntry": null
-        }
+        ]
       },
       {
         "name": "Psychology",
@@ -10554,6 +10554,25 @@
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199590605.001.0001/actrade-9780199590605",
             "moduleName": "VSIO_SUBJECTS:SCI00010",
             "goodreadsEntry": null
+          },
+          {
+            "title": "Psychology",
+            "uploadDate": "Jan-14",
+            "module": "Science and Mathematics",
+            "authors": "Butler, McManus",
+            "printDate": "2014",
+            "doi": "10.1093/actrade/9780199670420.001.0001",
+            "isbn": "9780199670420",
+            "disciplines": "null, Science and Mathematics, Psychology, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670420.001.0001/actrade-9780199670420",
+            "moduleName": "VSIO_SUBJECTS:SCI00010",
+            "goodreadsEntry": {
+              "rating": 3.62,
+              "numberOfRatings": 852,
+              "url": "/book/show/74653.Psychology",
+              "title": "Psychology",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433212857i/74653._SY75_.jpg"
+            }
           },
           {
             "title": "Forensic Psychology",
@@ -10670,6 +10689,19 @@
                 "goodreadsEntry": null
               },
               {
+                "title": "Clinical Psychology",
+                "uploadDate": "Apr-17",
+                "module": "Science and Mathematics",
+                "authors": "Llewelyn, Aafjes-van Doorn",
+                "printDate": "2017",
+                "doi": "10.1093/actrade/9780198753896.001.0001",
+                "isbn": "9780198753896",
+                "disciplines": "Science and Mathematics, Psychology, Clinical Psychology, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753896.001.0001/actrade-9780198753896",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": null
+              },
+              {
                 "title": "Psychoanalysis",
                 "uploadDate": "Jul-15",
                 "module": "Science and Mathematics",
@@ -10730,20 +10762,7 @@
                 ],
                 "children": []
               }
-            ],
-            "subjectBook": {
-              "title": "Clinical Psychology",
-              "uploadDate": "Apr-17",
-              "module": "Science and Mathematics",
-              "authors": "Llewelyn, Aafjes-van Doorn",
-              "printDate": "2017",
-              "doi": "10.1093/actrade/9780198753896.001.0001",
-              "isbn": "9780198753896",
-              "disciplines": "Science and Mathematics, Psychology, Clinical Psychology, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753896.001.0001/actrade-9780198753896",
-              "moduleName": "VSIO_SUBJECTS:SCI00010",
-              "goodreadsEntry": null
-            }
+            ]
           },
           {
             "name": "Cognitive Psychology",
@@ -10995,6 +11014,25 @@
             "subjectId": "SCI02240",
             "books": [
               {
+                "title": "Social Psychology",
+                "uploadDate": "Aug-15",
+                "module": "Science and Mathematics",
+                "authors": "Crisp",
+                "printDate": "2015",
+                "doi": "10.1093/actrade/9780198715511.001.0001",
+                "isbn": "9780198715511",
+                "disciplines": "Science and Mathematics, Psychology, Social Psychology, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198715511.001.0001/actrade-9780198715511",
+                "moduleName": "VSIO_SUBJECTS:SCI00010",
+                "goodreadsEntry": {
+                  "rating": 3.94,
+                  "numberOfRatings": 146,
+                  "url": "/book/show/25581780-social-psychology",
+                  "title": "Social Psychology",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439363537i/25581780._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Genius",
                 "uploadDate": "Sep-13",
                 "module": "Science and Mathematics",
@@ -11027,47 +11065,9 @@
                 "goodreadsEntry": null
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Social Psychology",
-              "uploadDate": "Aug-15",
-              "module": "Science and Mathematics",
-              "authors": "Crisp",
-              "printDate": "2015",
-              "doi": "10.1093/actrade/9780198715511.001.0001",
-              "isbn": "9780198715511",
-              "disciplines": "Science and Mathematics, Psychology, Social Psychology, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198715511.001.0001/actrade-9780198715511",
-              "moduleName": "VSIO_SUBJECTS:SCI00010",
-              "goodreadsEntry": {
-                "rating": 3.94,
-                "numberOfRatings": 146,
-                "url": "/book/show/25581780-social-psychology",
-                "title": "Social Psychology",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439363537i/25581780._SY75_.jpg"
-              }
-            }
+            "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Psychology",
-          "uploadDate": "Jan-14",
-          "module": "Science and Mathematics",
-          "authors": "Butler, McManus",
-          "printDate": "2014",
-          "doi": "10.1093/actrade/9780199670420.001.0001",
-          "isbn": "9780199670420",
-          "disciplines": "null, Science and Mathematics, Psychology, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670420.001.0001/actrade-9780199670420",
-          "moduleName": "VSIO_SUBJECTS:SCI00010",
-          "goodreadsEntry": {
-            "rating": 3.62,
-            "numberOfRatings": 852,
-            "url": "/book/show/74653.Psychology",
-            "title": "Psychology",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433212857i/74653._SY75_.jpg"
-          }
-        }
+        ]
       }
     ]
   },
@@ -11384,6 +11384,19 @@
                 "goodreadsEntry": null
               },
               {
+                "title": "Marketing",
+                "uploadDate": "Feb-21",
+                "module": "Social Sciences",
+                "authors": "Le Meunier-FitzHugh",
+                "printDate": "2021",
+                "doi": "10.1093/actrade/9780198827337.001.0001",
+                "isbn": "9780198827337",
+                "disciplines": "null, Social Sciences, Business and Management, Marketing, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198827337.001.0001/actrade-9780198827337",
+                "moduleName": "VSIO_SUBJECTS:SOC00010",
+                "goodreadsEntry": null
+              },
+              {
                 "title": "Branding",
                 "uploadDate": "Jun-17",
                 "module": "Social Sciences",
@@ -11397,20 +11410,7 @@
                 "goodreadsEntry": null
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "Marketing",
-              "uploadDate": "Feb-21",
-              "module": "Social Sciences",
-              "authors": "Le Meunier-FitzHugh",
-              "printDate": "2021",
-              "doi": "10.1093/actrade/9780198827337.001.0001",
-              "isbn": "9780198827337",
-              "disciplines": "null, Social Sciences, Business and Management, Marketing, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198827337.001.0001/actrade-9780198827337",
-              "moduleName": "VSIO_SUBJECTS:SOC00010",
-              "goodreadsEntry": null
-            }
+            "children": []
           }
         ]
       },
@@ -11451,6 +11451,25 @@
         "name": "Economics",
         "subjectId": "SOC00720",
         "books": [
+          {
+            "title": "Economics",
+            "uploadDate": "Sep-13",
+            "module": "Social Sciences",
+            "authors": "Dasgupta",
+            "printDate": "2007",
+            "doi": "10.1093/actrade/9780192853455.001.0001",
+            "isbn": "9780192853455",
+            "disciplines": "Social Sciences, Economics, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853455.001.0001/actrade-9780192853455",
+            "moduleName": "VSIO_SUBJECTS:SOC00010",
+            "goodreadsEntry": {
+              "rating": 3.28,
+              "numberOfRatings": 984,
+              "url": "/book/show/784148.Economics",
+              "title": "Economics",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001092i/784148._SY75_.jpg"
+            }
+          },
           {
             "title": "Environmental Economics",
             "uploadDate": "Sep-13",
@@ -11737,26 +11756,7 @@
             ],
             "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Economics",
-          "uploadDate": "Sep-13",
-          "module": "Social Sciences",
-          "authors": "Dasgupta",
-          "printDate": "2007",
-          "doi": "10.1093/actrade/9780192853455.001.0001",
-          "isbn": "9780192853455",
-          "disciplines": "Social Sciences, Economics, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853455.001.0001/actrade-9780192853455",
-          "moduleName": "VSIO_SUBJECTS:SOC00010",
-          "goodreadsEntry": {
-            "rating": 3.28,
-            "numberOfRatings": 984,
-            "url": "/book/show/784148.Economics",
-            "title": "Economics",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001092i/784148._SY75_.jpg"
-          }
-        }
+        ]
       },
       {
         "name": "Environment",
@@ -11957,6 +11957,25 @@
             }
           },
           {
+            "title": "Politics",
+            "uploadDate": "Sep-13",
+            "module": "Social Sciences",
+            "authors": "Minogue",
+            "printDate": "2000",
+            "doi": "10.1093/actrade/9780192853882.001.0001",
+            "isbn": "9780192853882",
+            "disciplines": "Social Sciences, Politics, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853882.001.0001/actrade-9780192853882",
+            "moduleName": "VSIO_SUBJECTS:SOC00010",
+            "goodreadsEntry": {
+              "rating": 3.44,
+              "numberOfRatings": 704,
+              "url": "/book/show/132895.Politics",
+              "title": "Politics",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410129119i/132895._SY75_.jpg"
+            }
+          },
+          {
             "title": "Corruption",
             "uploadDate": "Apr-15",
             "module": "Social Sciences",
@@ -12130,6 +12149,25 @@
                 }
               },
               {
+                "title": "International Relations",
+                "uploadDate": "Apr-20",
+                "module": "Social Sciences",
+                "authors": "Reus-Smit",
+                "printDate": "2020",
+                "doi": "10.1093/actrade/9780198850212.001.0001",
+                "isbn": "9780198850212",
+                "disciplines": "null, Social Sciences, Politics, International Relations, null",
+                "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850212.001.0001/actrade-9780198850212",
+                "moduleName": "VSIO_SUBJECTS:SOC00010",
+                "goodreadsEntry": {
+                  "rating": 3.35,
+                  "numberOfRatings": 631,
+                  "url": "/book/show/689740.International_Relations",
+                  "title": "International Relations",
+                  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347579792i/689740._SY75_.jpg"
+                }
+              },
+              {
                 "title": "Nuclear Weapons",
                 "uploadDate": "Sep-20",
                 "module": "Social Sciences",
@@ -12149,26 +12187,7 @@
                 }
               }
             ],
-            "children": [],
-            "subjectBook": {
-              "title": "International Relations",
-              "uploadDate": "Apr-20",
-              "module": "Social Sciences",
-              "authors": "Reus-Smit",
-              "printDate": "2020",
-              "doi": "10.1093/actrade/9780198850212.001.0001",
-              "isbn": "9780198850212",
-              "disciplines": "null, Social Sciences, Politics, International Relations, null",
-              "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850212.001.0001/actrade-9780198850212",
-              "moduleName": "VSIO_SUBJECTS:SOC00010",
-              "goodreadsEntry": {
-                "rating": 3.35,
-                "numberOfRatings": 631,
-                "url": "/book/show/689740.International_Relations",
-                "title": "International Relations",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347579792i/689740._SY75_.jpg"
-              }
-            }
+            "children": []
           },
           {
             "name": "Political Institutions",
@@ -12730,26 +12749,7 @@
             ],
             "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Politics",
-          "uploadDate": "Sep-13",
-          "module": "Social Sciences",
-          "authors": "Minogue",
-          "printDate": "2000",
-          "doi": "10.1093/actrade/9780192853882.001.0001",
-          "isbn": "9780192853882",
-          "disciplines": "Social Sciences, Politics, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853882.001.0001/actrade-9780192853882",
-          "moduleName": "VSIO_SUBJECTS:SOC00010",
-          "goodreadsEntry": {
-            "rating": 3.44,
-            "numberOfRatings": 704,
-            "url": "/book/show/132895.Politics",
-            "title": "Politics",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410129119i/132895._SY75_.jpg"
-          }
-        }
+        ]
       },
       {
         "name": "Sociology",
@@ -12767,6 +12767,25 @@
             "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198747239.001.0001/actrade-9780198747239",
             "moduleName": "VSIO_SUBJECTS:SOC00010",
             "goodreadsEntry": null
+          },
+          {
+            "title": "Sociology",
+            "uploadDate": "Sep-18",
+            "module": "Social Sciences",
+            "authors": "Bruce",
+            "printDate": "2018",
+            "doi": "10.1093/actrade/9780198822967.001.0001",
+            "isbn": "9780198822967",
+            "disciplines": "Social Sciences, Sociology, null",
+            "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198822967.001.0001/actrade-9780198822967",
+            "moduleName": "VSIO_SUBJECTS:SOC00010",
+            "goodreadsEntry": {
+              "rating": 3.43,
+              "numberOfRatings": 669,
+              "url": "/book/show/595596.Sociology",
+              "title": "Sociology",
+              "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388276024i/595596._SY75_.jpg"
+            }
           },
           {
             "title": "Violence",
@@ -12982,26 +13001,7 @@
             ],
             "children": []
           }
-        ],
-        "subjectBook": {
-          "title": "Sociology",
-          "uploadDate": "Sep-18",
-          "module": "Social Sciences",
-          "authors": "Bruce",
-          "printDate": "2018",
-          "doi": "10.1093/actrade/9780198822967.001.0001",
-          "isbn": "9780198822967",
-          "disciplines": "Social Sciences, Sociology, null",
-          "url": "https://www.veryshortintroductions.com/view/10.1093/actrade/9780198822967.001.0001/actrade-9780198822967",
-          "moduleName": "VSIO_SUBJECTS:SOC00010",
-          "goodreadsEntry": {
-            "rating": 3.43,
-            "numberOfRatings": 669,
-            "url": "/book/show/595596.Sociology",
-            "title": "Sociology",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388276024i/595596._SY75_.jpg"
-          }
-        }
+        ]
       },
       {
         "name": "Warfare and Defence",

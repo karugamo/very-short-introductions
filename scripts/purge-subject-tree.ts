@@ -72,11 +72,11 @@ traverseTree(oldTree.children, newTree);
 
 const numberOfGoodreadsEntries = addGoodReadsData(newTree);
 
-const subjectsWithBooks = moveBooksWithSubjectNameIntoSubject(newTree);
+// const subjectsWithBooks = moveBooksWithSubjectNameIntoSubject(newTree);
 
-console.log(
-  `Found ${subjectsWithBooks.length} subjects with matching book titles`
-);
+// console.log(
+//   `Found ${subjectsWithBooks.length} subjects with matching book titles`
+// );
 
 console.log(
   `Purged: ${purgedSubjectsWithOnlyOneBook} subjects with only one book`
