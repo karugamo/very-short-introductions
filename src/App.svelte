@@ -22,7 +22,7 @@
 
   addEventListener("popstate", () => {
     const subjectId = location.hash.slice(1);
-    if (subjectId !== 'root') {
+    if (subjectId !== "root") {
       path = [root, ...subjectToPath[subjectId]];
     } else {
       path = [root];
@@ -50,7 +50,6 @@
 </script>
 
 <main>
-  <h1>Books</h1>
   {#each path as subject}
     <a href="#{subject.subjectId}">{subject.name}</a
     >{#if currentSubject !== subject}<span class="separator">> </span>{/if}

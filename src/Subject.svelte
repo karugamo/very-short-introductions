@@ -34,11 +34,6 @@
     font-family: sans-serif;
   }
 
-  section {
-    background-color: lightgray;
-    padding: 32px;
-    margin-top: 8px;
-  }
 
   .container {
     display: flex;
