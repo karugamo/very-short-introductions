@@ -13,7 +13,7 @@
   let path: SubjectType[] = [root];
 
   const subjectToPath = calculateAllPaths(root);
-  console.log(subjectToPath);
+  let randomCategory = Object.keys(subjectToPath)[Math.floor(Math.random() * Object.keys(subjectToPath).length)];
 
   function onSelectSubject(subject: SubjectType) {
     history.pushState(null, null, `#${subject.subjectId}`);
@@ -27,6 +27,7 @@
     } else {
       path = [root];
     }
+    randomCategory = Object.keys(subjectToPath)[Math.floor(Math.random() * Object.keys(subjectToPath).length)];
   });
 
   type SubjectToPath = { [id: string]: SubjectType[] };
@@ -47,6 +48,8 @@
   }
 
   $: currentSubject = path[path.length - 1];
+
+  
 </script>
 
 <main>
@@ -58,10 +61,17 @@
     {#key currentSubject}
       <Subject tree={currentSubject} {onSelectSubject} />
     {/key}
+    <section class="buttons">
+      <a href={'#' + randomCategory}>Show random category</a>
+    </section>
   </section>
 </main>
 
 <style>
+  .buttons {
+    margin-top: 16px;
+    text-align: center;
+  }
   :root {
     --primary-text: #40315c;
   }
@@ -79,6 +89,7 @@
       width: 800px;
     }
   }
+
 
   main {
     margin: 32px;
