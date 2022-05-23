@@ -17,7 +17,7 @@
   <h3>{name} ({sumAllBooks(tree)})</h3>
   <div class="container">
     {#each children as child}
-      <div class="subcategory" on:click={() => onSelectSubject(child)}>
+      <div class="subcategory child" on:click={() => onSelectSubject(child)}>
         <div>
           <div class="subcategoryname">{child.name}</div>
           <div class="subcategorycount">({sumAllBooks(child)})</div>
@@ -25,7 +25,7 @@
       </div>
     {/each}
     {#each books as book}
-      <div class="image">
+      <div class="image child">
         <a href={book.url} target="_blank">
           <img
             src={`https://www.veryshortintroductions.com/view/covers/${book.isbn}.png`}
@@ -40,6 +40,13 @@
 </section>
 
 <style>
+  .child {
+    transition: all 0.2s ease-in-out;
+  }
+  .child:hover {
+    transform: translate3d(0, -5px, 0)
+  }
+
   .subcategoryname {
     font-weight: bold;
     margin-bottom: 8px;
@@ -78,5 +85,6 @@
   .image {
     height: 200px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    background-color: transparent;
   }
 </style>
