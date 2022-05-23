@@ -50,13 +50,15 @@
 </script>
 
 <main>
-  {#each path as subject}
-    <a href="#{subject.subjectId}">{subject.name}</a
-    >{#if currentSubject !== subject}<span class="separator">> </span>{/if}
-  {/each}
-  {#key currentSubject}
-    <Subject tree={currentSubject} {onSelectSubject} />
-  {/key}
+  <section class="content">
+    {#each path as subject}
+      <a href="#{subject.subjectId}">{subject.name}</a
+      >{#if currentSubject !== subject}<span class="separator">> </span>{/if}
+    {/each}
+    {#key currentSubject}
+      <Subject tree={currentSubject} {onSelectSubject} />
+    {/key}
+  </section>
 </main>
 
 <style>
@@ -64,7 +66,15 @@
     margin: 0 0.5em;
   }
 
+  @media (min-width: 800px) {
+    .content {
+      width: 800px;
+    }
+  }
+
   main {
     margin: 32px;
+    display: flex;
+    justify-content: center;
   }
 </style>

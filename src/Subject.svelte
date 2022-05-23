@@ -72,6 +72,7 @@
     text-align: center;
     align-items: center;
     cursor: pointer;
+
   }
 
   .image {
