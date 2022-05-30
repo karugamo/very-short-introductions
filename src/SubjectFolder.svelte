@@ -25,13 +25,20 @@
     class="book"
     style="background-image: url(https://www.veryshortintroductions.com/view/covers/{secondBook.isbn}.png);"
   />
-  <div class="morebooks">
-    {#if restBooks.length > 0}
-      <div class="count">
-        + {sumAllBooks(child) - 2} book{#if restBooks.length > 1}s{/if}
-      </div>
-    {/if}
-  </div>
+  {#if restBooks.length === 0 || restBooks.length > 1}
+    <div class="morebooks">
+      {#if restBooks.length > 0}<div class="count">
+          + {sumAllBooks(child) - 2} book{#if restBooks.length > 1}s{/if}
+        </div>
+      {/if}
+    </div>
+  {:else}
+    <div
+      class="book"
+      style="background-image: url(https://www.veryshortintroductions.com/view/covers/{restBooks[0]
+        .isbn}.png);"
+    />
+  {/if}
 </div>
 
 <style>

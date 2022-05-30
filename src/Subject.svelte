@@ -76,8 +76,10 @@
   }
 
   .image {
+    border-radius: 4px;
+    overflow: hidden;
     height: 200px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 5px rgba(77, 77, 77, 0.5);
     background-color: transparent;
   }
 </style>
