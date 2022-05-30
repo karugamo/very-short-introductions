@@ -1,28 +1,18 @@
 <script lang="ts">
   import type { Subject } from "../scripts/lib/types";
+  import { sumAllBooks } from "./lib";
+  import SubjectFolder from "./SubjectFolder.svelte";
   export let tree;
   export let onSelectSubject;
 
   const { name, children, books = [], subjectBook } = tree as Subject;
-
-  function sumAllBooks(subject: Subject) {
-    return (
-      (subject.books?.length ?? 0) +
-      subject.children.reduce((sum, child) => sum + sumAllBooks(child), 0)
-    );
-  }
 </script>
 
 <section>
   <h3>{name} ({sumAllBooks(tree)})</h3>
   <div class="container">
     {#each children as child}
-      <div class="subcategory child" on:click={() => onSelectSubject(child)}>
-        <div>
-          <div class="subcategoryname">{child.name}</div>
-          <div class="subcategorycount">({sumAllBooks(child)})</div>
-        </div>
-      </div>
+      <SubjectFolder on:select={() => onSelectSubject(child)} {child} />
     {/each}
     {#each books as book}
       <div class="image child">
@@ -59,7 +49,7 @@
 
   .rating a {
     color: var(--primary-text);
-    text-decoration: none;  
+    text-decoration: none;
   }
   .child {
     position: relative;
@@ -67,15 +57,6 @@
   }
   .child:hover {
     transform: translate3d(0, -5px, 0);
-  }
-
-  .subcategoryname {
-    font-weight: bold;
-    margin-bottom: 8px;
-  }
-
-  .subcategorycount {
-    color: #5f787a;
   }
 
   :root {
@@ -86,22 +67,6 @@
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-  }
-
-  .subcategory {
-    border: 2px solid #574677;
-    color: var(--primary-text);
-    border-radius: 4px;
-    background-color: #f0f0f0;
-    height: 200px;
-    box-sizing: border-box;
-    width: 130px;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
-    cursor: pointer;
-    padding: 4px;
   }
 
   .image {
