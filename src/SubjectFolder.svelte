@@ -1,7 +1,7 @@
 <script lang="ts">
   import { createEventDispatcher } from "svelte";
   import type { Subject } from "../scripts/lib/types";
-  import { getAllBooks } from "./lib";
+  import { getAllBooks, sumAllBooks } from "./lib";
   export let child: Subject;
 
   const dispatch = createEventDispatcher();
@@ -15,10 +15,7 @@
 
 <div class="category child" on:click={onClick}>
   <div class="frontcover">
-    <div>
-      <div class="name">{child.name}</div>
-      <!-- <div class="count">({sumAllBooks(child)})</div> -->
-    </div>
+    <div class="name">{child.name}</div>
   </div>
   <div
     class="book"
@@ -28,27 +25,55 @@
     class="book"
     style="background-image: url(https://www.veryshortintroductions.com/view/covers/{secondBook.isbn}.png);"
   />
-  <!-- <div class="thirdbook" style="background-image: url(https://www.veryshortintroductions.com/view/covers/{.isbn}.png);"  /> -->
+  <div class="morebooks">
+    {#if restBooks.length > 0}
+      <div class="count">
+        + {sumAllBooks(child) - 2} book{#if restBooks.length > 1}s{/if}
+      </div>
+    {/if}
+  </div>
 </div>
 
 <style>
+  .morebooks {
+    width: 30px;
+    background-color: #574677;
+    color: white;
+
+    display: flex;
+    align-items: flex-end;
+
+    box-shadow: inset 4px 0px 4px rgba(0, 0, 0, 0.25);
+  }
+
+  .count {
+    transform-origin: left top;
+    transform: rotate(-90deg);
+    width: 120px;
+    white-space: nowrap;
+    margin-left: 5px;
+    margin-bottom: -10px;
+  }
+
   .category {
     display: flex;
     flex-direction: row;
     border-radius: 4px;
     overflow: hidden;
     cursor: pointer;
+
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
   }
 
   .book {
-    background-color: white;
+    background-color: #574677;
     width: 30px;
     background-repeat: no-repeat;
     background-size: cover;
+    box-shadow: inset 4px 0px 4px rgba(0, 0, 0, 0.25);
   }
 
   .name {
-    font-weight: bold;
     margin-bottom: 8px;
   }
 
@@ -61,10 +86,6 @@
     transform: translate3d(0, -5px, 0);
   }
 
-  .count {
-    color: #fff;
-  }
-
   .frontcover {
     color: white;
     background-color: #574677;
@@ -72,9 +93,11 @@
     box-sizing: border-box;
     width: 130px;
     display: flex;
-    justify-content: center;
-    text-align: center;
+    justify-content: flex-end;
+    text-align: right;
     align-items: center;
-    padding: 4px;
+    padding: 8px;
+
+    box-shadow: 4px 0px 4px rgba(0, 0, 0, 0.25);
   }
 </style>

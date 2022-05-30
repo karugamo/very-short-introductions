@@ -11,9 +11,6 @@
 <section>
   <h3>{name} ({sumAllBooks(tree)})</h3>
   <div class="container">
-    {#each children as child}
-      <SubjectFolder on:select={() => onSelectSubject(child)} {child} />
-    {/each}
     {#each books as book}
       <div class="image child">
         <a href={book.url} target="_blank">
@@ -33,9 +30,18 @@
       </div>
     {/each}
   </div>
+  <div class="spacer" />
+  <div class="container">
+    {#each children as child}
+      <SubjectFolder on:select={() => onSelectSubject(child)} {child} />
+    {/each}
+  </div>
 </section>
 
 <style>
+  .spacer {
+    height: 32px;
+  }
   .rating {
     position: absolute;
     bottom: 0;
@@ -66,7 +72,7 @@
   .container {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 16px;
   }
 
   .image {
