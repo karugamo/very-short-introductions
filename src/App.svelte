@@ -78,11 +78,11 @@
     margin-bottom: 16px;
     color: #2d5d82;
     font-size: 32px;
-    text-shadow: 2px 2px 0 rgba(255,255,255,0.5);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 0 rgba(255, 255, 255, 0.5);
+    font-family: Georgia, "Times New Roman", Times, serif;
   }
   .buttons {
-    margin-top: 16px;
+    margin-top: 32px;
     text-align: center;
   }
   :root {

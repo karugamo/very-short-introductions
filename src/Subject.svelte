@@ -30,7 +30,7 @@
       </div>
     {/each}
   </div>
-  <div class="spacer" />
+  {#if books.length > 0}<div class="spacer" />{/if}
   <div class="container">
     {#each children as child}
       <SubjectFolder on:select={() => onSelectSubject(child)} {child} />
