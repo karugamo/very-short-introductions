@@ -1,7 +1,7 @@
 <script lang="ts">
   import { createEventDispatcher } from "svelte";
   import type { Subject } from "../scripts/lib/types";
-  import { getAllBooks, sumAllBooks } from "./lib";
+  import { getAllBooks, getCoverImage, sumAllBooks } from "./lib";
   export let child: Subject;
 
   const dispatch = createEventDispatcher();
@@ -19,11 +19,11 @@
   </div>
   <div
     class="book"
-    style="background-image: url(https://www.veryshortintroductions.com/view/covers/{firstBook.isbn}.png);"
+    style="background-image: url({getCoverImage(firstBook)});"
   />
   <div
     class="book"
-    style="background-image: url(https://www.veryshortintroductions.com/view/covers/{secondBook.isbn}.png);"
+    style="background-image: url({getCoverImage(secondBook)});"
   />
   {#if restBooks.length === 0 || restBooks.length > 1}
     <div class="morebooks">
@@ -35,8 +35,7 @@
   {:else}
     <div
       class="book"
-      style="background-image: url(https://www.veryshortintroductions.com/view/covers/{restBooks[0]
-        .isbn}.png);"
+      style="background-image: url({getCoverImage(restBooks[0])});"
     />
   {/if}
 </div>
